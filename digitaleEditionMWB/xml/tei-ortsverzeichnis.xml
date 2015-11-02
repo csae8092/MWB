@@ -1,0 +1,2937 @@
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="edoc_ed000223_fg_ortsregister" xml:base="http://diglib.hab.de/edoc/ed000223/"
+    xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsverzeichnis</title>
+                <respStmt>
+                    <resp/>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>10.04.2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Das Ortsverzeichnis bezieht sich auf die digitale Edition der Weltbeschreibung
+                    Millingers. </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="index_places">
+                <listPlace>
+                    <place xml:id="weltenburg">
+                        <placeName key="2811381">Weltenburg</placeName>
+                    </place>
+                    <place xml:id="cassino">
+                        <placeName key="3179781">Cassino</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Cassino_(Latium)"/>
+                        </note>
+                    </place>
+                    <place xml:id="mariastein">
+                        <placeName key="2771902">Mariastein</placeName>
+                    </place>
+                    <place xml:id="inn">
+                        <placeName key="2775280">Inn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Inn"/>
+                        </note>
+                    </place>
+                    <place xml:base="rattenberg">
+                        <placeName key="2767902">Rattenberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rattenberg_(Tirol)"/>
+                        </note>
+                    </place>
+                    <place xml:base="mariathal">
+                        <placeName key="2771898">Mariathal (Kramsach, TIrol)</placeName>
+                    </place>
+                    <place xml:id="wurmannsquick">
+                        <placeName key="2805694">Wurmannsquick</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wurmannsquick"/>
+                        </note>
+                    </place>
+                    <place xml:id="wolfertshausen">
+                        <placeName key="2806829">Wolfertshausen</placeName>
+                    </place>
+                    <place xml:id="wolnzach">
+                        <placeName key="2806339">Wolnzach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wolnzach"/>
+                        </note>
+                    </place>
+                    <place xml:id="windach">
+                        <placeName key="2808306">Windach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Windach"/>
+                        </note>
+                    </place>
+                    <place xml:id="winhöring">
+                        <placeName key="2808043">Winhöring</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Winh%C3%B6ring"/>
+                        </note>
+                    </place>
+                    <place xml:id="wiesenfeld">
+                        <placeName key="2809247">Wiesenfeld</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wiesenfeld_(Karlstadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="wertingen">
+                        <placeName key="2810702">Wertingen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wertingen"/>
+                        </note>
+                    </place>
+                    <place xml:id="wemding">
+                        <placeName key="2811342">Wemding</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wemding"/>
+                        </note>
+                    </place>
+                    <place xml:id="weilheilm">
+                        <placeName key="2812515">Weilheim in Oberbayern</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Weilheim_in_Oberbayern"/>
+                        </note>
+                    </place>
+                    <place xml:id="wartenberg">
+                        <placeName key="2813935">Wartenberg (Oberbayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wartenberg_(Oberbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="wasserburg">
+                        <placeName key="2813755">Wasserburg am Inn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wasserburg_am_Inn"/>
+                        </note>
+                    </place>
+                    <place xml:id="vilgertshofen">
+                        <placeName key="2817239">Vilgertshofen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Vilgertshofen"/>
+                        </note>
+                    </place>
+                    <place xml:id="vierkirchen">
+                        <placeName key="2817339">Vierkirchen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Vierkirchen_(Oberbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="viechtach">
+                        <placeName key="2817483">Viechtach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Viechtach"/>
+                        </note>
+                    </place>
+                    <place xml:id="velden_bayern">
+                        <placeName key="2817719">Velden (Vils)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Velden_(Vils)"/>
+                        </note>
+                    </place>
+                    <place xml:id="vilshofen">
+                        <placeName key="2817202">Vilshofen an der Donau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Vilshofen"/>
+                        </note>
+                    </place>
+                    <place xml:id="traunstein">
+                        <placeName key="#traunstein">Traunstein</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Traunstein"/>
+                        </note>
+                    </place>
+                    <place xml:id="türkheim">
+                        <placeName key="2820752">Türkheim</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/T%C3%BCrkheim"/>
+                        </note>
+                    </place>
+                    <place xml:id="trostberg">
+                        <placeName key="2820964">Trostberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trostberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="bad_tölz">
+                        <placeName key="2953324">Bad Tölz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bad_T%C3%B6lz"/>
+                        </note>
+                    </place>
+                    <place xml:id="tutzing">
+                        <placeName key="2820692">Tutzing</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tutzing"/>
+                        </note>
+                    </place>
+                    <place xml:id="töding">
+                        <placeName key="2822013">Töding</placeName>
+                    </place>
+                    <place xml:id="tierhaupten">
+                        <placeName key="2822220">Thierhaupten</placeName>
+                    </place>
+                    <place xml:id="tegernsee">
+                        <placeName key="2823679">Tegernsee</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tegernsee_(Stadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="strasslach_dingharting">
+                        <placeName key="3205570">Straßlach-Dingharting</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Strasslach"/>
+                        </note>
+                    </place>
+                    <place xml:id="straubing">
+                        <placeName key="2826099">Straubing</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Straubing"/>
+                        </note>
+                    </place>
+                    <place xml:id="sindelsdorf">
+                        <placeName key="2831942">Sindelsdorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sindelsdorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="siegertsbrunn">
+                        <placeName key="2832469">Siegertsbrunn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Siegertsbrunn"/>
+                        </note>
+                    </place>
+                    <place xml:id="siegenburg">
+                        <placeName key="2832492">Siegenburg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Siegenburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="trient">
+                        <placeName key="3165243">Trento</placeName>
+                        <placeName>Trient</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trient"/>
+                        </note>
+                    </place>
+                    <place xml:id="seefeld_bayern">
+                        <placeName key="2833866">Seefeld (Bayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Seefeld_(Oberbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="schwifting">
+                        <placeName key="2834196">Schwifting</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schwifting"/>
+                        </note>
+                    </place>
+                    <place xml:id="schwarzach">
+                        <placeName key="2835184">Schwarzach (Bayern)</placeName>
+                    </place>
+                    <place xml:id="schongau">
+                        <placeName key="2836616">Schongau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schongau"/>
+                        </note>
+                    </place>
+                    <place xml:id="schönstein">
+                        <placeName key="2836472">Schönstein</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sch%C3%B6nstein_(Stallwang)"/>
+                        </note>
+                    </place>
+                    <place xml:id="türkenfeld">
+                        <placeName key="6556234">Türkenfeld</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/T%C3%BCrkenfeld"/>
+                        </note>
+                    </place>
+                    <place xml:id="schönberg">
+                        <placeName key="2836963">Schönberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sch%C3%B6nberg_(Oberbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="reisbach">
+                        <placeName key="2848621">Reisbach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Reisbach"/>
+                        </note>
+                    </place>
+                    <place xml:id="reisach">
+                        <placeName key="2861374">Kloster Reisach bei Oberaudorf</placeName>
+                    </place>
+                    <place xml:id="rottenburg">
+                        <placeName key="2843728">Rottenburg an der Laaber</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rottenburg_an_der_Laaber"/>
+                        </note>
+                    </place>
+                    <place xml:id="rosenheim">
+                        <placeName key="2844988">Rosenheim</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rosenheim"/>
+                        </note>
+                    </place>
+                    <place xml:id="rohr">
+                        <placeName key="2845750">Rohr</placeName>
+                    </place>
+                    <place xml:id="riedenburg">
+                        <placeName key="2847231">Riedenburg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Riedenburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="regen">
+                        <placeName key="2849495">Regen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Regen_(Stadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="bad_reichenhall">
+                        <placeName key="2953371">Bad Reichenhall</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Reichenhall"/>
+                        </note>
+                    </place>
+                    <place xml:id="plattling">
+                        <placeName key="2853310">Plattling</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Plattling"/>
+                        </note>
+                    </place>
+                    <place xml:id="prien">
+                        <placeName key="2852101">Prien am Chiemsee</placeName>
+                    </place>
+                    <place xml:id="polling">
+                        <placeName key="6556298">Polling bei Mühldorf am Inn</placeName>
+                    </place>
+                    <place xml:id="pöttmes">
+                        <placeName key="2852422">Pöttmes</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/P%C3%B6ttmes"/>
+                        </note>
+                    </place>
+                    <place xml:id="pförring">
+                        <placeName key="2853974">Pförring</placeName>
+                    </place>
+                    <place xml:id="pilsting">
+                        <placeName key="2853691">Pilsting</placeName>
+                    </place>
+                    <place xml:id="pfaffenhausen">
+                        <placeName key="2854411">Pfaffenhausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pfaffenhausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="pfaffenhofen_ilm">
+                        <placeName key="2854386">Pfaffenhofen an der Ilm</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pfaffenhofen_an_der_Ilm"/>
+                        </note>
+                    </place>
+                    <place xml:id="pfaffenberg">
+                        <placeName key="3206933">Pfaffenberg (Bayern)</placeName>
+                    </place>
+                    <place xml:id="penzing">
+                        <placeName key="2854911">Penzing (Lndkreis Rosenheim)</placeName>
+                    </place>
+                    <place xml:id="hochstätt">
+                        <placeName key="2902997">Hochstätt</placeName>
+                    </place>
+                    <place xml:id="hechingen">
+                        <placeName key="2908495">Hechingen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hechingen_(Begriffskl%C3%A4rung)"/>
+                        </note>
+                    </place>
+                    <place xml:id="patersdorf">
+                        <placeName key="2855272">Patersdorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Patersdorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="pfarrkirchen">
+                        <placeName key="2854179">Pfarrkirchen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pfarrkirchen"/>
+                        </note>
+                    </place>
+                    <place xml:id="osterhofen">
+                        <placeName key="2856530">Osterhofen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Osterhofen"/>
+                        </note>
+                    </place>
+                    <place xml:id="offenberg">
+                        <placeName key="2857800">Offenberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Offenberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="oberotterbach">
+                        <placeName key="2859461">Oberotterbach</placeName>
+                    </place>
+                    <place xml:id="oberdolling">
+                        <placeName key="2861091">Oberdolling</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Oberdolling"/>
+                        </note>
+                    </place>
+                    <place xml:id="oberaudorf">
+                        <placeName key="2861374">Oberaudorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Oberaudorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="obing">
+                        <placeName key="2858424">Obing</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Obing"/>
+                        </note>
+                    </place>
+                    <place xml:id="niederalteich">
+                        <placeName key="2863667">Niederalteich</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Niederalteich"/>
+                        </note>
+                    </place>
+                    <place xml:id="neustadt_donau">
+                        <placeName key="2864056">Neustadt an der Donau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neustadt_an_der_Donau"/>
+                        </note>
+                    </place>
+                    <place xml:id="neukirchen">
+                        <placeName key="2864761">Neukirchen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neukirchen_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="neumarkt">
+                        <placeName key="2864547">Neumarkt-Sankt Veit</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neumarkt-Sankt_Veit"/>
+                        </note>
+                    </place>
+                    <place xml:id="neubeuern">
+                        <placeName key="2866175">Neubeuern</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neubeuern"/>
+                        </note>
+                    </place>
+                    <place xml:id="nandlstadt">
+                        <placeName key="2867112">Nandlstadt</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nandlstadt"/>
+                        </note>
+                    </place>
+                    <place xml:id="neuötting">
+                        <placeName key="2864387">Neuötting</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Neu%C3%B6tting"/>
+                        </note>
+                    </place>
+                    <place xml:id="mauerkirchen">
+                        <placeName key="2872810">Mauerkirchen im Chiemgau</placeName>
+                    </place>
+                    <place xml:id="marquartstein">
+                        <placeName key="2873220">Marquartstein</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Marquartstein"/>
+                        </note>
+                    </place>
+                    <place xml:id="mainburg">
+                        <placeName key="2874252">Mainburg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mainburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="massing">
+                        <placeName key="2872972">Massing</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Massing"/>
+                        </note>
+                    </place>
+                    <place xml:id="marktl">
+                        <placeName key="2873298">Marktl</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Marktl"/>
+                        </note>
+                    </place>
+                    <place xml:id="murnau">
+                        <placeName key="2867445">Murnau am Staffelsee</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Murnau_am_Staffelsee"/>
+                        </note>
+                    </place>
+                    <place xml:id="moosburg">
+                        <placeName key="2869449">Moosburg an der Isar</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Moosburg_an_der_Isar"/>
+                        </note>
+                    </place>
+                    <place xml:id="miesbach">
+                        <placeName key="2871198">Miesbach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Miesbach"/>
+                        </note>
+                    </place>
+                    <place xml:id="metten">
+                        <placeName key="2871573">Metten</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Metten"/>
+                        </note>
+                    </place>
+                    <place xml:id="mering">
+                        <placeName key="2871813">Mering</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mering"/>
+                        </note>
+                    </place>
+                    <place xml:id="mendorf">
+                        <placeName key="2871977">Mendorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mendorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="landsberg">
+                        <placeName key="2881509">Landsberg am Lech</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Landsberg_am_Lech"/>
+                        </note>
+                    </place>
+                    <place xml:id="luckenpaint">
+                        <placeName key="2875486">Luckenpaint</placeName>
+                    </place>
+                    <place xml:id="loitzendorf">
+                        <placeName key="2876041">Loitzendorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Loitzendorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="loifling">
+                        <placeName key="2876086">Loifling</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Loifling"/>
+                        </note>
+                    </place>
+                    <place xml:id="landau">
+                        <placeName key="2881650">Landau an der Isar</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Landau_an_der_Isar"/>
+                        </note>
+                    </place>
+                    <place xml:id="kohlbach">
+                        <placeName key="2886781">Kohlbach</placeName>
+                    </place>
+                    <place xml:id="köchin">
+                        <placeName key="2886893">Köchin</placeName>
+                    </place>
+                    <place xml:id="kelheim">
+                        <placeName key="2891834">Kelheim</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kelheim"/>
+                        </note>
+                    </place>
+                    <place xml:id="cham">
+                        <placeName key="2940204">Cham</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Landkreis_Cham"/>
+                        </note>
+                    </place>
+                    <place xml:id="markt_indersdorf">
+                        <placeName key="2873300">Markt Indersdorf</placeName>
+                    </place>
+                    <place xml:id="inchenhofen">
+                        <placeName key="2896127">Inchenhofen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Inchenhofen"/>
+                        </note>
+                    </place>
+                    <place xml:id="hofkirchen">
+                        <placeName key="2902514">Hofkirchen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hofkirchen_(Donau)"/>
+                        </note>
+                    </place>
+                    <place xml:id="hörgertshausen">
+                        <placeName key="2899033">Hörgertshausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/H%C3%B6rgertshausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="holzkirchen">
+                        <placeName key="2899676">Holzkirchen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Holzkirchen_(Oberbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="hohenwart">
+                        <placeName key="2901369">Hohenwart</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hohenwart"/>
+                        </note>
+                    </place>
+                    <place xml:id="hengersberg">
+                        <placeName key="2906464">Hengersberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hengersberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="hatzenberg">
+                        <placeName key="2909206">Hatzenberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hatzenberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="haselbach">
+                        <placeName key="2909877">Haselbach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Haselbach_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="heiligenstadt">
+                        <placeName type="geonames" key="2907546">Heiligenstadt (Oberfranken)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Heiligenstadt_in_Oberfranken"/>
+                        </note>
+                    </place>
+                    <place xml:id="hals">
+                        <placeName type="geonames" key="2911447">Hals</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hals_(Passau)"/>
+                        </note>
+                    </place>
+                    <place xml:id="haibach">
+                        <placeName type="geonames" key="6556578">Haibach (Niederbayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Haibach_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="gotteszell">
+                        <placeName type="geonames" key="2918661">Gotteszell</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gotteszell"/>
+                        </note>
+                    </place>
+                    <place xml:id="geiselhöring">
+                        <placeName type="geonames" key="2921736">Geiselhöring</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Geiselh%C3%B6ring"/>
+                        </note>
+                    </place>
+                    <place xml:id="giebing">
+                        <placeName type="geonames" key="2920648">Giebing</placeName>
+                    </place>
+                    <place xml:id="grafenau">
+                        <placeName type="geonames" key="2918365">Grafenau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Grafenau_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="geisenhausen">
+                        <placeName type="geonames" key="2921709">Geisenhausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Geisenhausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="gangkofen">
+                        <placeName type="geonames" key="2922716">Gangkofen</placeName>
+                    </place>
+                    <place xml:id="bad_griesbach">
+                        <placeName type="geonames" key="2917461">Bad Griesbach im Rottal</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bad_Griesbach_im_Rottal"/>
+                        </note>
+                    </place>
+                    <place xml:id="furth">
+                        <placeName type="geonames" key="6556505">Furth (Niederbayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Furth_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="fürstenfeldbruck">
+                        <placeName type="geonames" key="2923625">Fürstenfeldbruck</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/F%C3%BCrstenfeldbruck"/>
+                        </note>
+                    </place>
+                    <place xml:id="frontenhausen">
+                        <placeName type="geonames" key="6558542">Frontenhausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Frontenhausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="friedberg">
+                        <placeName type="geonames" key="2924803">Friedberg (Bayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Friedberg_(Bayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="frauenzell_kloster">
+                        <placeName type="geonames" key="2925283">Frauenzell (Kloster)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kloster_Frauenzell"/>
+                        </note>
+                    </place>
+                    <place xml:id="falkenstein">
+                        <placeName type="geonames" key="2927917">Falkenstein (Oberpfalz)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Falkenstein_(Oberpfalz)"/>
+                        </note>
+                    </place>
+                    <place xml:id="falkenfels">
+                        <placeName type="geonames" key="6556576">Falkenfels</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Falkenfels"/>
+                        </note>
+                    </place>
+                    <place xml:id="eichendorf">
+                        <placeName type="geonames" key="2932321">Eichendorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eichendorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="eisingen">
+                        <placeName type="geonames" key="6557078">Eisingen (Bayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eisingen_(Bayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="egelsbach">
+                        <placeName type="geonames" key="2933247">Egelsbach</placeName>
+                    </place>
+                    <place xml:id="erding">
+                        <placeName type="geonames" key="2929715">Erding</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Erding"/>
+                        </note>
+                    </place>
+                    <place xml:id="eberspoint">
+                        <placeName type="geonames" key="2933902">Eberspoint</placeName>
+                    </place>
+                    <place xml:id="ebersberg">
+                        <placeName type="geonames" key="2933945">Ebersberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ebersberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="ebenried">
+                        <placeName type="geonames" key="2934037">Ebenried</placeName>
+                    </place>
+                    <place xml:id="eggenfelden">
+                        <placeName type="geonames" key="2933115">Eggenfelden</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eggenfelden"/>
+                        </note>
+                    </place>
+                    <place xml:id="deggendorf">
+                        <placeName type="geonames" key="2938540">Deggendorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Deggendorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="eggmühl">
+                        <placeName type="geonames" key="2933020">Eggmühl</placeName>
+                    </place>
+                    <place xml:id="dreifaltigkeitsberg">
+                        <placeName type="geonames" key="2935204">Dreifaltigkeitsberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dreifaltigkeitsberg_(Rimbach)"/>
+                        </note>
+                    </place>
+                    <place xml:id="donauwörth">
+                        <placeName type="geonames" key="2936253">Donauwörth</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Donauw%C3%B6rth"/>
+                        </note>
+                    </place>
+                    <place xml:id="dittlingen">
+                        <placeName type="geonames" key="2936723">Dittlingen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dittlingen"/>
+                        </note>
+                    </place>
+                    <place xml:id="dingolfing">
+                        <placeName type="geonames" key="2936909">Dingolfing</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dingolfing"/>
+                        </note>
+                    </place>
+                    <place xml:id="dachau">
+                        <placeName type="geonames" key="2939623">Dachau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dachau"/>
+                        </note>
+                    </place>
+                    <place xml:id="heiligenberg">
+                        <placeName type="geonames" key="2907615">Heiligenberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Heiligenberg_bei_Sch%C3%B6nau"/>
+                        </note>
+                    </place>
+                    <place xml:id="biburg">
+                        <placeName type="geonames" key="6556490">Biburg (Niederbayern)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Biburg_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="bettbrunn">
+                        <placeName type="geonames" key="2949754">Bettbrunn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bettbrunn"/>
+                        </note>
+                    </place>
+                    <place xml:id="burghausen">
+                        <placeName type="geonames" key="2941279">Burghausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Burghausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="ascha">
+                        <placeName type="geonames" key="6556575">Ascha</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ascha_(Niederbayern)"/>
+                        </note>
+                    </place>
+                    <place xml:id="arnstorf">
+                        <placeName type="geonames" key="6558531">Arnstorf</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Arnstorf"/>
+                        </note>
+                    </place>
+                    <place xml:id="angelberg">
+                        <placeName type="geonames" key="8629300">Angelberg</placeName>
+                    </place>
+                    <place xml:id="altomünster">
+                        <placeName type="geonames" key="6558798">Altomünster</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Altom%C3%BCnster"/>
+                        </note>
+                    </place>
+                    <place xml:id="altmannstein">
+                        <placeName type="geonames" key="6558800">Altmannstein</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Altmannstein"/>
+                        </note>
+                    </place>
+                    <place xml:id="aindling">
+                        <placeName type="geonames" key="6558742">Aindling</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aindling"/>
+                        </note>
+                    </place>
+                    <place xml:id="aufhausen">
+                        <placeName type="geonames" key="6556673">Aufhausen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aufhausen"/>
+                        </note>
+                    </place>
+                    <place xml:id="aichach">
+                        <placeName type="geonames" key="2958975">Aicha</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aichach"/>
+                        </note>
+                    </place>
+                    <place xml:id="adenbach">
+                        <placeName type="geonames" key="6555072">Adenbach</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Adenbach"/>
+                        </note>
+                    </place>
+                    <place xml:id="bad_aibling">
+                        <placeName type="geonames" key="6558227">Bad Aibling</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bad_Aibling"/>
+                        </note>
+                    </place>
+                    <place xml:id="abensberg">
+                        <placeName type="geonames" key="6558242">Abensberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abensberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="passau">
+                        <placeName type="geonames" key="6556451">Passau</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Passau"/>
+                        </note>
+                    </place>
+                    <place xml:id="olomouc">
+                        <placeName type="geonames" key="3069011">Olomouc</placeName>
+                        <placeName>Olmütz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Olomouc"/>
+                        </note>
+                    </place>
+                    <place xml:id="nürnberg">
+                        <placeName type="geonames" key="2861650">Nürnberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/N%C3%BCrnberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="nördlingen">
+                        <placeName type="geonames" key="2861914">Nördlingen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/N%C3%B6rdlingen"/>
+                        </note>
+                    </place>
+                    <place xml:id="linz">
+                        <placeName type="geonames" key="2772400">Linz</placeName>
+                        <note>
+                            Eine wunderschöne Stadt
+                            <ptr target="http://de.wikipedia.org/wiki/Linz"/>
+                        </note>
+                    </place>
+                    <place xml:id="landshut">
+                        <placeName type="geonames" key="2881485">Landshut</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Landshut"/>
+                        </note>
+                    </place>
+                    <place xml:id="kempten">
+                        <placeName type="geonames" key="2891621">Kempten (Allgäu)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kempten"/>
+                        </note>
+                    </place>
+                    <place xml:id="ingolstadt">
+                        <placeName type="geonames" key="2895992">Ingolstadt</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ingolstadt"/>
+                        </note>
+                    </place>
+                    <place xml:id="hall">
+                        <placeName type="geonames" key="2764958">Hall in Tirol</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hall_in_Tirol"/>
+                        </note>
+                    </place>
+                    <place xml:id="st_gallen">
+                        <placeName type="geonames" key="2658822">St. Gallen</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/St._Gallen"/>
+                        </note>
+                    </place>
+                    <place xml:id="frankfurt_am_main">
+                        <placeName type="geonames" key="2925533">Frankfurt am Main</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Frankfurt_am_Main"/>
+                        </note>
+                    </place>
+                    <place xml:id="konstanz">
+                        <placeName type="geonames" key="2885679">Konstanz</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Konstanz"/>
+                        </note>
+                    </place>
+                    <place xml:id="bamberg">
+                        <placeName type="geonames" key="2952984">Bamberg</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bamberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="brno">
+                        <placeName type="geonames" key="3078610">Brno</placeName>
+                        <placeName>Brünn</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Brno"/>
+                        </note>
+                    </place>
+                    <place xml:id="st_johann">
+                        <placeName type="geonames" key="2766636">St. Johann in Tirol</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/St._Johann_in_Tirol"/>
+                        </note>
+                    </place>
+                    <place xml:id="altötting">
+                        <placeName type="geonames" key="2956940">Altötting</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Alt%C3%B6tting"/>
+                        </note>
+                    </place>
+                    <place xml:id="kitzbühel">
+                        <placeName type="geonames" key="2774347">Kitzbühel</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kitzb%C3%BChel"/>
+                        </note>
+                    </place>
+                    <place xml:id="malabar_küste">
+                        <placeName type="geonames" key="1264188"> Malabarküste (Pfefferküste) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Malabark%C3%BCste"/>
+                        </note>
+                    </place>
+                    <place xml:id="dynai">
+                        <placeName> Dynai </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 138.
+                        </note>
+                    </place>
+                    <place xml:id="cuncan">
+                        <placeName> Cuncan (Decan)</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 137.
+                        </note>
+                    </place>
+                    <place xml:id="bengalen">
+                        <placeName type="geonames" key="1252881"> Bengalen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bengalen"/>
+                        </note>
+                    </place>
+                    <place xml:id="england">
+                        <placeName type="geonames" key="6269131"> England </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/England"/>
+                        </note>
+                    </place>
+                    <place xml:id="london">
+                        <placeName type="geonames" key="2643743"> London </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/London"/>
+                        </note>
+                    </place>
+                    <place xml:id="amadabar">
+                        <placeName> Amadabar </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 131.
+                        </note>
+                    </place>
+                    <place xml:id="kairo">
+                        <placeName type="geonames" key="360630"> Kairo </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kairo"/>
+                        </note>
+                    </place>
+                    <place xml:id="tamboja">
+                        <placeName> Tamboja </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 131.
+                        </note>
+                    </place>
+                    <place xml:id="dio_insel">
+                        <placeName> Dio (Insel)</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 130.
+                        </note>
+                    </place>
+                    <place xml:id="surate">
+                        <placeName type="geonames" key="1255364"> Surat </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Surat"/>
+                        </note>
+                    </place>
+                    <place xml:id="guzurat">
+                        <placeName> Guzurat </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 130.
+                        </note>
+                    </place>
+                    <place xml:id="nocracut">
+                        <placeName> Nocracut </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 128.
+                        </note>
+                    </place>
+                    <place xml:id="labor">
+                        <placeName> Labor </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 128; Schreibweise unsicher.
+                        </note>
+                    </place>
+                    <place xml:id="agra">
+                        <placeName type="geonames" key="1279259"> Agra </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Agra"/>
+                        </note>
+                    </place>
+                    <place xml:id="hindustan">
+                        <placeName type="gnd" key="4026722-2"> Hindustan (Mogulreich)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mogulreich"/>
+                        </note>
+                    </place>
+                    <place xml:id="ostindien">
+                        <placeName type="geonames"> Ostindien </placeName>
+                    </place>
+                    <place xml:id="ganges">
+                        <placeName type="geonames" key="1202950"> Ganges </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ganges"/>
+                        </note>
+                    </place>
+                    <place xml:id="imereti">
+                        <placeName> Imereti </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 5.
+                        </note>
+                    </place>
+                    <place xml:id="odieschi">
+                        <placeName> Odieschi </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 5.
+                        </note>
+                    </place>
+                    <place xml:id="cassana">
+                        <placeName> Cassana </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 117.
+                        </note>
+                    </place>
+                    <place xml:id="goigne">
+                        <placeName> Goigne </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 117.
+                        </note>
+                    </place>
+                    <place xml:id="targa">
+                        <placeName> Targa (Insel) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 117.
+                        </note>
+                    </place>
+                    <place xml:id="lecha">
+                        <placeName> Lecha (Insel) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 117.
+                        </note>
+                    </place>
+                    <place xml:id="kamron">
+                        <placeName> Kamron </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 116.
+                        </note>
+                    </place>
+                    <place xml:id="hormus">
+                        <placeName type="geonames" key="131231"> Hormus (Stadt) </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Hormuz,_Iran"/>
+                        </note>
+                    </place>
+                    <place xml:id="kyrman">
+                        <placeName> Kyrman (Carmania) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 115.
+                        </note>
+                    </place>
+                    <place xml:id="almansur">
+                        <placeName> Almansur </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 115.
+                        </note>
+                    </place>
+                    <place xml:id="indus">
+                        <placeName type="geonames" key="1115007"> Indus </placeName>
+                    </place>
+                    <place xml:id="gedrosien">
+                        <placeName> Gedrosien (Send) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gedrosien"/>
+                        </note>
+                    </place>
+                    <place xml:id="ilment_fluss">
+                        <placeName> Ilment </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 115.
+                        </note>
+                    </place>
+                    <place xml:id="baku">
+                        <placeName type="geonames" ref="587084"> Baku </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Baku"/>
+                        </note>
+                    </place>
+                    <place xml:id="crucis_kloster">
+                        <placeName> St. Crucis (Kloster) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 112. 
+                        </note>
+                    </place>
+                    <place xml:id="ervan">
+                        <placeName> Ervan (Irvan) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 112.
+                        </note>
+                    </place>
+                    <place xml:id="täbris">
+                        <placeName type="geonames" key="113646"> Täbris </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/T%C3%A4bris"/>
+                        </note>
+                    </place>
+                    <place xml:id="arbela">
+                        <placeName> Arbela </placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 110. 
+                        </note>
+                    </place>
+                    <place xml:id="casbin">
+                        <placeName> Casbin </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 108. 
+                        </note>
+                    </place>
+                    <place xml:id="cascan">
+                        <placeName> Cascan </placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 110. 
+                        </note>
+                    </place>
+                    <place xml:id="isfahan">
+                        <placeName type="geonames" key="418863"> Isfahan (Nebenstädte: Abbas-Abbad, Thebris-Abbad, Gaur-Abbad, Zulsa</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 105
+                            <ptr target="http://de.wikipedia.org/wiki/Isfahan"/>
+                        </note>
+                    </place>
+                    <place xml:id="susa">
+                        <placeName type="geonames" key="114593"> Susa (Desu)</placeName>
+                    </place>
+                    <place xml:id="persepolis">
+                        <placeName type="geonames" key="110836"> Persepolis </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Persepolis"/>
+                        </note>
+                    </place>
+                    <place xml:id="schiras">
+                        <placeName type="geonames" key="115019"> Schiras </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schiras"/>
+                        </note>
+                    </place>
+                    <place xml:id="kerman">
+                        <placeName type="geonames" key="33734"> Kerman (Provinz)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kerman_(Provinz)"/>
+                        </note>
+                    </place>
+                    <place xml:id="send">
+                        <placeName> Send </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 115. 
+                        </note>
+                    </place>
+                    <place xml:id="kandahar_stadt">
+                        <placeName type="geonames" key="1138336"> Kandahar (Stadt) </placeName>
+                        <note>
+                            <ptr target="http://www.geonames.org/1138336/kandahar.html"/>
+                        </note>
+                    </place>
+                    <place xml:id="kandahar">
+                        <placeName type="geonames" key="1138335"> Kandahar (Provinz) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kandahar_(Provinz)"/>
+                        </note>
+                    </place>
+                    <place xml:id="sitzistan">
+                        <placeName> Sitzistan, Sigistan, Drangiana </placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 115
+                            <ptr target="http://de.wikipedia.org/wiki/Drangiana"/>
+                        </note>
+                    </place>
+                    <place xml:id="sublastan">
+                        <placeName> Sublastan </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 115 
+                        </note>
+                    </place>
+                    <place xml:id="bost">
+                        <placeName type="geonames" key="1134720"> Bost (Lashkar Gah)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lashkar_Gah"/>
+                        </note>
+                    </place>
+                    <place xml:id="chorasan">
+                        <placeName type="geonames" key="6201374"> Chorasan </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Chorasan"/>
+                        </note>
+                    </place>
+                    <place xml:id="maschhad">
+                        <placeName type="geonames" key="124665"> Maschhad </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Maschhad"/>
+                        </note>
+                    </place>
+                    <place xml:id="herat">
+                        <placeName type="geonames" key="1140026"> Herat </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herat"/>
+                        </note>
+                    </place>
+                    <place xml:id="bacuye">
+                        <placeName> Bacuye (Badkis)</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 114.
+                        </note>
+                    </place>
+                    <place xml:id="tabaristan">
+                        <placeName type="gnd" key="4401327-9"> Tabaristan </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tabaristan"/>
+                        </note>
+                    </place>
+                    <place xml:id="korab">
+                        <placeName> Korab </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 114.
+                        </note>
+                    </place>
+                    <place xml:id="rascht">
+                        <placeName type="geonames" key="118743"> Rascht </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rascht"/>
+                        </note>
+                    </place>
+                    <place xml:id="gilan">
+                        <placeName type="geonames" key="133349"> Gilan </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Gilan_Province"/>
+                        </note>
+                    </place>
+                    <place xml:id="scirvan">
+                        <placeName> Scirvan, Sirvan </placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 112. 
+                        </note>
+                    </place>
+                    <place xml:id="adyrbeizan">
+                        <placeName> Aserbaidschan (Iran), Adyrbeizan </placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 112. 
+                        </note>
+                    </place>
+                    <place xml:id="erakacem">
+                        <placeName> Erakacem (Esfahan)</placeName>
+                        <note>
+                            Vgl. Berckenemyer, S. 105. 
+                        </note>
+                    </place>
+                    <place xml:id="susiana">
+                        <placeName> Susiana (Chusistan) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Susiana"/>
+                        </note>
+                    </place>
+                    <place xml:id="fars">
+                        <placeName type="geonames" key="134766"> Fars </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Fars"/>
+                        </note>
+                    </place>
+                    <place xml:id="marmara_insel">
+                        <placeName type="geonames" key="741729"> Marmara-Insel</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Marmara-Insel"/>
+                        </note>
+                    </place>
+                    <place xml:id="leros">
+                        <placeName type="geonames" key="6453425"> Leros </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Leros"/>
+                        </note>
+                    </place>
+                    <place xml:id="sapientza">
+                        <placeName type="geonames" key="254103"> Sapientza </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sapientza"/>
+                        </note>
+                    </place>
+                    <place xml:id="vologesocerta">
+                        <placeName> Vologesocerta </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 83.
+                        </note>
+                    </place>
+                    <place xml:id="tresiphon">
+                        <placeName> Tresiphon </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 82f. 
+                        </note>
+                    </place>
+                    <place xml:id="seleukia-ktesiphon">
+                        <placeName type="geonames" key="90287"> Seleukia-Ktesiphon </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Seleukia-Ktesiphon"/>
+                        </note>
+                    </place>
+                    <place xml:id="bagdad">
+                        <placeName type="geonames" key="98182"> Bagdad </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bagdad"/>
+                        </note>
+                    </place>
+                    <place xml:id="anchiale">
+                        <placeName> Anchiale (Anchale) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Anchiale_(Kilikien)"/>
+                        </note>
+                    </place>
+                    <place xml:id="bawiram">
+                        <placeName> Bawiram </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 77.
+                        </note>
+                    </place>
+                    <place xml:id="assur">
+                        <placeName type="geonames" ref="4003281-4"> Assur </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/A%C5%A1%C5%A1ur_(Stadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="cars">
+                        <placeName> Cars (Tors) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 77.
+                        </note>
+                    </place>
+                    <place xml:id="erzurum">
+                        <placeName type="geonames" ref="315368"> Erzurun</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Erzerum"/>
+                        </note>
+                    </place>
+                    <place xml:id="zalfa">
+                        <placeName> Zalfa </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 84. 
+                        </note>
+                    </place>
+                    <place xml:id="nacksivan">
+                        <placeName> Nacksivan </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 84.
+                        </note>
+                    </place>
+                    <place xml:id="eupha">
+                        <placeName> Eupha / Scusa </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 84.
+                        </note>
+                    </place>
+                    <place xml:id="diarbeck">
+                        <placeName> Diarbeck </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 77.
+                        </note>
+                    </place>
+                    <place xml:id="derbent">
+                        <placeName type="geonames" key="566532"> Derbent </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Derbent"/>
+                        </note>
+                    </place>
+                    <place xml:id="zübeth">
+                        <placeName> Zübeth </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 71f. 
+                        </note>
+                    </place>
+                    <place xml:id="medina">
+                        <placeName type="geonames" key="109223"> Medina </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Medina"/>
+                        </note>
+                    </place>
+                    <place xml:id="aden">
+                        <placeName type="geonames" key="415189"> Aden </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aden"/>
+                        </note>
+                    </place>
+                    <place xml:id="sumiscasac">
+                        <placeName> Sumiscasac (Saba?)</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 66
+                            <!-- http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=saba-geo -->                        </note>
+                    </place>
+                    <place xml:id="balsera">
+                        <placeName> Balsera (Belsora) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 65.
+                        </note>
+                    </place>
+                    <place xml:id="anatho">
+                        <placeName> Anatho (Ana; Anah) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 65.
+                            <!--<ptr target="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064:entry=anatho-geo&highlight=anatho"/>-->
+                        </note>
+                    </place>
+                    <place xml:id="quarantania">
+                        <placeName> Quarantania (Berg der Versuchung) </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Mount_of_Temptation"/>
+                        </note>
+                    </place>
+                    <place xml:id="nazareth">
+                        <placeName type="geonames" key="294098"> Nazareth </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nazareth"/>
+                        </note>
+                    </place>
+                    <place xml:id="kana">
+                        <placeName type="gnd" key="4109988-6"> Kana </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kana_(Galil%C3%A4a)"/>
+                        </note>
+                    </place>
+                    <place xml:id="safed">
+                        <placeName type="geonames" key="293100"> Safed </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Safed"/>
+                        </note>
+                    </place>
+                    <place xml:id="tabor">
+                        <placeName type="geonames" key="293418"> Tabor (Berg) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Berg_Tabor"/>
+                        </note>
+                    </place>
+                    <place xml:id="karmel">
+                        <placeName type="geonames" key="294579"> Karmel </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Karmel_(Gebirge)"/>
+                        </note>
+                    </place>
+                    <place xml:id="palästina">
+                        <placeName type="geonames" key="6254930"> Palästina </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pal%C3%A4stina_(Region)"/>
+                        </note>
+                    </place>
+                    <place xml:id="anathot">
+                        <placeName> Anathot </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Anathoth"/>
+                        </note>
+                    </place>
+                    <place xml:id="bethanien">
+                        <placeName> Bethanien (Heimatort des Lazarus)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bethanien_(Bibel)#Heimatort_des_Lazarus"/>
+                        </note>
+                    </place>
+                    <place xml:id="venedig">
+                        <placeName type="geonames" key="3164603"> Venedig </placeName>
+                    </place>
+                    <place xml:id="mainz">
+                        <placeName type="geonames" key="2874225"> Mainz </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mainz"/>
+                        </note>
+                    </place>
+                    <place xml:id="samaria">
+                        <placeName type="geonames" key="284584"> Samaria </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Samaria_(antike_Stadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="acte">
+                        <placeName> Acte (Ptolemais) </placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 34. 
+                        </note>
+                    </place>
+                    <place xml:id="jaffa">
+                        <placeName type="geonames" key="293397"> Jaffa (Tel-Aviv)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tel_Aviv-Jaffa"/>
+                        </note>
+                    </place>
+                    <place xml:id="sidon">
+                        <placeName type="geonames" key="268064"> Sidon </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sidon"/>
+                        </note>
+                    </place>
+                    <place xml:id="libanon_berg">
+                        <placeName type="geonames" key="272077"> Libanon (Gebirge)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Libanon_(Gebirge)"/>
+                        </note>
+                    </place>
+                    <place xml:id="palmyra">
+                        <placeName type="gnd" key="4044429-6"> Palmyra </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Palmyra"/>
+                        </note>
+                    </place>
+                    <place xml:id="lodecar">
+                        <placeName> Lodecar / Seleucia / Samosara</placeName>
+                        <note>
+                            Vgl. Berckenmeyer, S. 29.
+                        </note>
+                    </place>
+                    <place xml:id="daphnis">
+                        <placeName> Daphnis </placeName>
+                        <note> Vgl. Berckenmeyer, S. 29. </note>
+                    </place>
+                    <place xml:id="scanderana">
+                        <placeName> Scanderana </placeName>
+                        <note> Vgl. Berckenmeyer, S. 29.</note>
+                    </place>
+                    <place xml:id="japan">
+                        <placeName type="geonames" key="1861060"> Japan </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Japan"/>
+                        </note>
+                    </place>
+                    <place xml:id="antiochia">
+                        <placeName type="gnd" key="4112544-7"> Antiochia (Orontes)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Antiochia_am_Orontes"/>
+                        </note>
+                    </place>
+                    <place xml:id="damaskus">
+                        <placeName type="geonames" key="170654"> Damaskus </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Damaskus"/>
+                        </note>
+                    </place>
+                    <place xml:id="tripoli_libanon">
+                        <placeName type="geonames" key="266826"> Tripolis (Libanon) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tripoli_(Libanon)"/>
+                        </note>
+                    </place>
+                    <place xml:id="aleppo">
+                        <placeName type="geonames" key="170062"> Aleppo </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aleppo"/>
+                        </note>
+                    </place>
+                    <place xml:id="gaza">
+                        <placeName type="geonames" key="281133"> Gaza </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gazastreifen"/>
+                        </note>
+                    </place>
+                    <place xml:id="kos">
+                        <placeName type="geonames" key="259244"> Kos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kos"/>
+                        </note>
+                    </place>
+                    <place xml:id="paphos">
+                        <placeName type="geonames" key="146214"> Paphos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Paphos"/>
+                        </note>
+                    </place>
+                    <place xml:id="famagusta">
+                        <placeName type="geonames" key="146617"> Famagusta </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Famagusta"/>
+                        </note>
+                    </place>
+                    <place xml:id="nikosia">
+                        <placeName type="geonames" key="146268"> Nikosia </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nikosia"/>
+                        </note>
+                    </place>
+                    <place xml:id="zypern">
+                        <placeName type="geonames" key="146669"> Zypern </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Zypern"/>
+                        </note>
+                    </place>
+                    <place xml:id="milos">
+                        <placeName type="geonames" ref="256951"> Milos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Milos"/>
+                        </note>
+                    </place>
+                    <place xml:id="patmos">
+                        <placeName type="geonames" key="255687"> Patmos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Patmos"/>
+                        </note>
+                    </place>
+                    <place xml:id="trabzon">
+                        <placeName type="geonames" key="738647"> Trabzon </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trabzon"/>
+                        </note>
+                    </place>
+                    <place xml:id="samos">
+                        <placeName type="geonames" key="254114"> Samos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Samos"/>
+                        </note>
+                    </place>
+                    <place xml:id="lesbos">
+                        <placeName type="geonames" key="258466"> Lesbos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lesbos"/>
+                        </note>
+                    </place>
+                    <place xml:id="lystra">
+                        <placeName> Lystra </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lystra"/>
+                        </note>
+                    </place>
+                    <place xml:id="göksu">
+                        <placeName type="geonames" key="314184"> Göksu </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Seyhan"/>
+                        </note>
+                    </place>
+                    <place xml:id="tarsus">
+                        <placeName type="geonames" key="7732939"> Tarsus </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tarsus_(T%C3%BCrkei)"/>
+                        </note>
+                    </place>
+                    <place xml:id="tokat">
+                        <placeName type="geonames" key="738742"> Tokat </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tokat"/>
+                        </note>
+                    </place>
+                    <place xml:id="ionien">
+                        <placeName type="geonames" key="261776"> Ionien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ionien"/>
+                        </note>
+                    </place>
+                    <place xml:id="smyrna">
+                        <placeName type="geonames" key="311046"> Smyrna (Izmir)</placeName>
+                    </place>
+                    <place xml:id="gelibolu">
+                        <placeName type="geonames" ref="#746983"> Gelibolu </placeName>
+                    </place>
+                    <place xml:id="dardanellen">
+                        <placeName type="geonames" key="749779"> Dardanellen </placeName>
+                    </place>
+                    <place xml:id="abydos">
+                        <placeName> Abydos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abydos_(Kleinasien)"/>
+                        </note>
+                    </place>
+                    <place xml:id="chalcedon">
+                        <placeName type="geonames" key="744906"> Chalcedon </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Chalcedon_(Stadt)"/>
+                        </note>
+                    </place>
+                    <place xml:id="pergamon">
+                        <placeName type="geonames" ref="321426"> Pergamon </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pergamon"/>
+                        </note>
+                    </place>
+                    <place xml:id="troja">
+                        <placeName type="gnd" ref="4060974-1"> Troja </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Troja"/>
+                        </note>
+                    </place>
+                    <place xml:id="nicäa">
+                        <placeName type="geonames" ref="745026"> Nicäa (İznik) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nic%C3%A4a"/>
+                        </note>
+                    </place>
+                    <place xml:id="konstantinopel">
+                        <placeName type="gnd" key="4073697-0"> Konstantinopel (Istanbul) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Konstantinopel"/>
+                        </note>
+                    </place>
+                    <place xml:id="bursa">
+                        <placeName type="geonames" key="750269"> Bursa </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bursa"/>
+                        </note>
+                    </place>
+                    <place xml:id="amasya">
+                        <placeName type="geonames" key="752015"> Amasya (Provinz) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Amasya_(Provinz)"/>
+                        </note>
+                    </place>
+                    <place xml:id="turkmenistan">
+                        <placeName type="geonames" key="1218197"> Turkmenistan </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Turkmenistan"/>
+                        </note>
+                    </place>
+                    <place xml:id="euphrat">
+                        <placeName type="geonames" key="315147"> Euphrat </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Euphrat"/>
+                        </note>
+                    </place>
+                    <place xml:id="anatolien">
+                        <placeName type="geonames" key="323835"> Anatolien (Kleinasien) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Anatolien"/>
+                        </note>
+                    </place>
+                    <place xml:id="rhodos">
+                        <placeName type="geonames" key="400665"> Rhodos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rhodos"/>
+                        </note>
+                    </place>
+                    <place xml:id="halikarnassos">
+                        <placeName type="geonames" key="320995"> Halikarnassos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Halikarnassos"/>
+                        </note>
+                    </place>
+                    <place xml:id="ephesos">
+                        <placeName type="geonames" key="7522155"> Ephesos </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ephesos"/>
+                        </note>
+                    </place>
+                    <place xml:id="tyros">
+                        <placeName type="geonames" key="267008"> Tyros </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tyros"/>
+                        </note>
+                    </place>
+                    <place xml:id="betulia">
+                        <placeName> Betulia (eine Bergfestung zu biblischer Zeit)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Betulia"/>
+                        </note>
+                    </place>
+                    <place xml:id="assur_reich">
+                        <placeName type="gnd" key="4003285-1"> Assyrisches Reich</placeName>
+                    </place>
+                    <place xml:id="indien">
+                        <placeName type="geonames" key="1269750"> Indien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Indien"/>
+                        </note>
+                    </place>
+                    <place xml:id="java">
+                        <placeName type="geonames" key="1642673"> Java </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Java_(Insel)"/>
+                        </note>
+                    </place>
+                    <place xml:id="batavia">
+                        <placeName type="geonames" key="1642911"> Batavia (Jakarta)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jakarta"/>
+                        </note>
+                    </place>
+                    <place xml:id="goa">
+                        <placeName type="geonames" key="1271157"> Goa </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Goa"/>
+                        </note>
+                    </place>
+                    <place xml:id="portugal">
+                        <placeName type="geonames" key="2264397"> Portugal </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Portugal"/>
+                        </note>
+                    </place>
+                    <place xml:id="philippinen">
+                        <placeName type="geonames" key="1694008"> Philippinen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Philippinen"/>
+                        </note>
+                    </place>
+                    <place xml:id="molukken">
+                        <placeName type="geonames" key="1636629"> Molukken </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Molukken"/>
+                        </note>
+                    </place>
+                    <place xml:id="borneo">
+                        <placeName type="geonames" key="1648148"> Borneo </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Borneo"/>
+                        </note>
+                    </place>
+                    <place xml:id="ceylon">
+                        <placeName type="geonames" key="1227604"> Ceylon (Sri Lanka)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sri_Lanka"/>
+                        </note>
+                    </place>
+                    <place xml:id="malediven">
+                        <placeName type="geonames" key="1282028"> Malediven </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Malediven"/>
+                        </note>
+                    </place>
+                    <place xml:id="georgien">
+                        <placeName type="geonames" key="614540"> Georgien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Georgien"/>
+                        </note>
+                    </place>
+                    <place xml:id="tatarei">
+                        <placeName type="gnd" key="4039661-7"> Tatarei </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tatarei"/>
+                        </note>
+                    </place>
+                    <place xml:id="tibet">
+                        <placeName type="geonames" key="1279685"> Tibet </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tibet"/>
+                        </note>
+                    </place>
+                    <place xml:id="ladakh">
+                        <placeName type="geonames" key="1265343"> Ladakh (Klein Tibet)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ladakh"/>
+                        </note>
+                    </place>
+                    <place xml:id="nepal">
+                        <placeName type="geonames" key="1282988"> Nepal </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nepal"/>
+                        </note>
+                    </place>
+                    <place xml:id="cochinchina">
+                        <placeName type="geonames" key="1573261"> Cochinchina </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Cochinchina"/>
+                        </note>
+                    </place>
+                    <place xml:id="siam">
+                        <placeName type="geonames" key="1605651"> Siam </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Siam"/>
+                        </note>
+                    </place>
+                    <place xml:id="kalkutta">
+                        <placeName type="geonames" key="1265874"> Kalkutta </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kalkutta"/>
+                        </note>
+                    </place>
+                    <place xml:id="golkonda">
+                        <placeName type="geonames" key="1271041"> Golkonda </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Golkonda"/>
+                        </note>
+                    </place>
+                    <place xml:id="arabien">
+                        <placeName type="geonames" key="6957697"> Arabien </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Arabian_Peninsula"/>
+                        </note>
+                    </place>
+                    <place xml:id="mekka">
+                        <placeName type="geonames" key="104515"> Mekka </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mekka"/>
+                        </note>
+                    </place>
+                    <place xml:id="russland">
+                        <placeName type="goenames" key="2017370"> Russland </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Russland"/>
+                        </note>
+                    </place>
+                    <place xml:id="türkei">
+                        <placeName type="geonames" key="298795"> Türkei </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/T%C3%BCrkei"/>
+                        </note>
+                    </place>
+                    <place xml:id="mongolenreich">
+                        <placeName> Mongolenreich </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mongolenreich"/>
+                        </note>
+                    </place>
+                    <place xml:id="perser_reich">
+                        <placeName> Perserreich </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/perser_reich"/>
+                        </note>
+                    </place>
+                    <place xml:id="china">
+                        <placeName type="geonames" key="1814991"> China </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/China"/>
+                        </note>
+                    </place>
+                    <place xml:id="südsee">
+                        <placeName type="geonames" key="4030483"> Südsee (Südpazifik) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/S%C3%BCdsee"/>
+                        </note>
+                    </place>
+                    <place xml:id="amur">
+                        <placeName type="geonames" key="2127376"> Amur </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Amur"/>
+                        </note>
+                    </place>
+                    <place xml:id="kamtschatka">
+                        <placeName type="geonames" key="2125073"> Kamtschatka</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kamtschatka"/>
+                        </note>
+                    </place>
+                    <place xml:id="ochotskisches_meer">
+                        <placeName type="geonames" key="2127380">Ochotskisches Meer</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ochotskisches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="asowsches_meer">
+                        <placeName type="geonames" key="713066"> Asowsches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Asowsches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="gelbes_meer">
+                        <placeName type="geonames" key="1818183"> Gelbes Meer</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gelbes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="kalifornien">
+                        <placeName type="geonames" key="5332921"> Kalifornien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kalifornien"/>
+                        </note>
+                    </place>
+                    <place xml:id="kantabrisches_meer">
+                        <placeName type="geonames" key="2960858"> Kantabrisches Meer (Golf von Biskaya)</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Biskaya"/>
+                        </note>
+                    </place>
+                    <place xml:id="japanisches_meer">
+                        <placeName type="geonames" key="2038684"> Japanisches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Japanisches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="norwegen">
+                        <placeName type="geonames" key="3144096"> Norwegen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Norwegen"/>
+                        </note>
+                    </place>
+                    <place xml:id="brasilien">
+                        <placeName type="geonames" key="3469034"> Brasilien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Brasilien"/>
+                        </note>
+                    </place>
+                    <place xml:id="äthiopien">
+                        <placeName type="geonames" key="337996"> Äthiopien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/%C3%84thiopien"/>
+                        </note>
+                    </place>
+                    <place xml:id="tyrrhenisches_meer">
+                        <placeName type="geonames" key="2522836"> Tyrrhenisches Meer</placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Tyrrhenian_Sea"/>
+                        </note>
+                    </place>
+                    <place xml:id="atlantik">
+                        <placeName type="geonames" key="3373405"> Atlantik </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Atlantic_Ocean"/>
+                        </note>
+                    </place>
+                    <place xml:id="adria">
+                        <placeName type="geonames" key="3183462"> Adria </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Adria"/>
+                        </note>
+                    </place>
+                    <place xml:id="rhein">
+                        <placeName type="tgn" key="7012611"> Rhein </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rhein"/>
+                        </note>
+                    </place>
+                    <place xml:id="ligurisches_meer">
+                        <placeName type="geonames" key="3174724"> Ligurisches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ligurisches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="spanien">
+                        <placeName type="geonames" key="2510769"> Spanien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Spanien"/>
+                        </note>
+                    </place>
+                    <place xml:id="biskaya_golf">
+                        <placeName type="geonames" key="2960858"> Golf von Biskaya </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Golf_von_Biskaya"/>
+                        </note>
+                    
+                    </place>
+                    <place xml:id="moskau">
+                        <placeName type="geonames" key="524894"> Moskau </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Moskau"/>
+                        </note>
+                    </place>
+                    <place xml:id="euxinisches_meer">
+                        <placeName type="place" key="630673"> Euxinisches Meer (Schwarzes Meer) </placeName>
+                        <note>
+                            <ptr target="#http://de.wikipedia.org/wiki/Schwarzes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="schweden">
+                        <placeName type="geonames" key="2661886"> Schweden </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schweden"/>
+                        </note>
+                    </place>
+                    <place xml:id="ostsee">
+                        <placeName type="geonames" key="2633321"> Ostsee </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ostsee"/>
+                        </note>
+                    </place>
+                    <place xml:id="nordsee">
+                        <placeName type="geonames" key="2960848"> Nordsee </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nordsee"/>
+                        </note>
+                    </place>
+                    <place xml:id="ägäisches_meer">
+                        <placeName type="geonames" key="265695"> Ägäisches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/%C3%84g%C3%A4isches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="totes_meer">
+                        <placeName type="geonames" key="295347"> Totes Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Totes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="baikalsee">
+                        <placeName type="geonames" key="2026982"> Baikalsee </placeName>
+                        <note>
+                            <ptr target="http://en.wikipedia.org/wiki/Lake_Baikal"/>
+                        </note>
+                    </place>
+                    <place xml:id="see_genezareth">
+                        <placeName type="geonames" key="294459"> See Genezareth (Galiläisches Meer) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/See_Genezareth"/>
+                        </note>
+                    </place>
+                    <place xml:id="pazifik">
+                        <placeName type="geonames" key="8411083"> Pazifik </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pazifik"/>
+                        </note>
+                    </place>
+                    <place xml:id="indischer_ozean">
+                        <placeName type="geonames" key="1545739"> Indischer Ozean </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Indischer_Ozean"/>
+                        </note>
+                    </place>
+                    <place xml:id="arabisches_meer">
+                        <placeName type="geonames" key="1158455"> Arabisches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Arabisches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="rotes_meer">
+                        <placeName type="geonames" key="350155"> Rotes Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rotes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="mittelmeer">
+                        <placeName type="geonames" key="363196"> Mittelmeer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mittelmeer"/>
+                        </note>
+                    </place>
+                    <place xml:id="kaspisches_meer">
+                        <placeName type="geonames" key="630671"> Kaspisches Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kaspisches_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="schwarzes_meer">
+                        <placeName type="geonames" key="630673"> Schwarzes Meer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schwarzes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="trmice">
+                        <placeName type="geonames" key="3063987"> Trmice (Türmitz) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Trmice"/>
+                        </note>
+                    </place>
+                    <place xml:id="franken">
+                        <placeName type="geonames" key="2803465"> Franken </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Franken_(Region)"/>
+                        </note>
+                    </place>
+                    <place xml:id="prag">
+                        <placeName type="geonames" key="3067696"> Prag </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Prag"/>
+                        </note>
+                    </place>
+                    <place xml:id="jena">
+                        <placeName type="geonames" key="2895044"> Jena </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jena"/>
+                        </note>
+                    </place>
+                    <place xml:id="campodenno">
+                        <placeName type="geonmaes" key="3180982"> Campodenno </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Campodenno"/>
+                        </note>
+                    </place>
+                    <place xml:id="bozen">
+                        <placeName type="geonames" key="3181913"> Bozen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bozen"/>
+                        </note>
+                    </place>
+                    <place xml:id="hochfilzen">
+                        <placeName type="geonames" key="2776069"> Hochfilzen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hochfilzen"/>
+                        </note>
+                    </place>
+                    <place xml:id="stulrich_pillersee">
+                        <placeName type="geonames" key="2766374"> St. Ulrich am Pillersee </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/St._Ulrich_am_Pillersee"/>
+                        </note>
+                    </place>
+                    <place xml:id="pommerhof">
+                        <placeName> Pommerhof </placeName>
+                    </place>
+                    <place xml:id="lofer">
+                        <placeName type="geonames" key="7873328"> Lofer </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lofer"/>
+                        </note>
+                    </place>
+                    <place xml:id="pass_strub">
+                        <placeName type="geonames" key="2764105">Pass Strub</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pass_Strub"/>
+                        </note>
+                    </place>
+                    <place xml:id="preßburg">
+                        <placeName type="geonames" key="3060972">Bratislava</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bratislava"/>
+                        </note>
+                    </place>
+                    <place xml:id="bayern">
+                        <placeName type="geonames" key="2951839"> Bayern </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bayern"/>
+                        </note>
+                    </place>
+                    <place xml:id="innsbruck">
+                        <placeName type="geonames" key="2775220"> Innsbruck </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Innsbruck"/>
+                        </note>
+                    </place>
+                    <place xml:id="tirol">
+                        <placeName type="geonames" key="2763586"> Tirol </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tirol"/>
+                        </note>
+                    </place>
+                    <place xml:id="waidring">
+                        <placeName type="geonames" key="7873643"> Waidring <ref type="tgn"
+                                cRef="1026201"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Waidring"/>
+                        </note>
+                    </place>
+                    <place xml:id="wörgl">
+                        <placeName type="geonames" key="2760854">Wörgl</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/W%C3%B6rgl"/>
+                        </note>
+                    </place>
+                    <place xml:id="niederndorf"></place>
+                    <place xml:id="fieberbrunn">
+                        <placeName type="geonames" key="2779595"> Fieberbrunn <ref type="tgn"
+                            cRef="7003243"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Fieberbrunn"/>
+                        </note>
+                    </place>
+                    <place xml:id="mühlau_stjakob_haus">
+                        <placeName type="geonames" key="2771051"> Mühlau / St. Jakob in Haus </placeName>
+                    </place>
+                    <place xml:id="stjakob_haus">
+                        <placeName type="geonames" key="2766659"> St. Jakob in Haus </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/St._Jakob_in_Haus"/>
+                        </note>
+                    </place>
+                    <place xml:id="kirchdorf">
+                        <placeName type="geonames" key="7873638"> Kirchdorf in Tirol </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kirchdorf_in_Tirol"/>
+                        </note>
+                    </place>
+                    <place xml:id="wien">
+                        <placeName type="geonames" key="2761367"> Wien <ref type="tgn"
+                                cRef="7003321"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wien"/>
+                        </note>
+                    </place>
+                    <place xml:id="österreich">
+                        <placeName type="geonames" key="2782113">Österreich</placeName>
+                        <note>
+                            <ptr target="https://de.wikipedia.org/wiki/%C3%96sterreich"/>
+                        </note>
+                    </place>
+                    <place xml:id="augsburg">
+                        <placeName type="geonames" key="6557107"> Augsburg <ref type="tgn"
+                                cRef="7004324"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Augsburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="Unbekannt_Ort"/>
+                    <place xml:id="Freising_Deutschland">
+                        <placeName type="geonames" key="6558216"> Freising <ref type="tgn"
+                                cRef="7013338"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Freising"/>
+                        </note>
+                    </place>
+                    <place xml:id="würzburg">
+                        <placeName type="geonames" key="6556942">Würzburg<ref type="tgn"
+                                cRef="7004335"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/W%C3%BCrzburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="münchen">
+                        <placeName type="geonames" key="3220837"> München <ref type="tgn"
+                                cRef="7004333"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/M%C3%BCnchen"/>
+                        </note>
+                    </place>
+                    <place xml:id="italien">
+                        <placeName type="geonames" key="3175395"> Italien <ref type="tgn"
+                                cRef="1000080"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Italien"/>
+                        </note>
+                    </place>
+                    <place xml:id="australien">
+                        <placeName type="geonames" key="2077456"> Australien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Australien"/>
+                        </note>
+                    </place>
+                    <place xml:id="asien">
+                        <placeName type="geonames" key="6255147"> Asien <ref type="tgn"
+                                cRef="1000004"/>
+                        </placeName>
+                        <note>
+                            <ptr target="https://de.wikipedia.org/wiki/Asien"/>
+                        </note>
+                    </place>
+                    <place xml:id="afrika">
+                        <placeName type="geonames" key="6255146"> Afrika <ref type="tgn"
+                                cRef="7001242"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Afrika"/>
+                        </note>
+                    </place>
+                    <place xml:id="amerika"/>
+                    <place xml:id="Ensdorf_Oberpfalz_Deutschland">
+                        <placeName type="geonames" key="2930020"> Ensdorf <ref type="tgn"
+                                cRef="7004590"/>
+                        </placeName>
+                    </place>
+                    <place xml:id="Landsberg_am_Lech_Deutschland">
+                        <placeName type="geonames" key="2881509"> Landsberg am Lech <ref type="tgn"
+                                cRef="1025482"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Landsberg_am_Lech"/>
+                        </note>
+                    </place>
+                    <place xml:id="Europa">
+                        <placeName type="geonames" key="6255148"> Europa <ref type="tgn"
+                                cRef="1000003"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Europa"/>
+                        </note>
+                    </place>
+                    <place xml:id="salzburg_stadt">
+                        <placeName type="geonames" key="2766818"> Salzburg Stadt <ref type="tgn"
+                                cRef="7003256"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Salzburg"/>
+                        </note>
+                    </place>
+                    <place xml:id="Weissenburg_in_Bayern_Deutschland">
+                        <placeName type="geonames" key="2811909"> Weißenburg <ref type="tgn"
+                                cRef="7007577"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Wei%C3%9Fenburg_in_Bayern"/>
+                        </note>
+                    </place>
+                    <place xml:id="Deutschland">
+                        <placeName type="geonames" key="2921044"> Deutschland <ref type="tgn"
+                                cRef="7000084"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Deutschland"/>
+                        </note>
+                    </place>
+                    <place xml:id="Bamberg_Deutschland">
+                        <placeName type="geonames" key="2952984"> Bamberg <ref type="tgn"
+                                cRef="7004325"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bamberg"/>
+                        </note>
+                    </place>
+                    <place xml:id="hebron">
+                        <placeName type="geonames" key="285066"> Hebron <ref type="tgn"
+                                cRef="7029354"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hebron"/>
+                        </note>
+                    </place>
+                    <place xml:id="jerusalem">
+                        <placeName type="geonames" key="281184"> Jerusalem <ref type="tgn"
+                                cRef="7001371"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jerusalem"/>
+                        </note>
+                    </place>
+                    <place xml:id="Golgota_Bibel"/>
+                    <place xml:id="Henoch_Bibel"/>
+                    <place xml:id="ararat">
+                        <placeName type="geonames" key="325164"> Ararat (Berg) <ref type="tgn"
+                                cRef="2002490"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ararat"/>
+                        </note>
+                    </place>
+                    <place xml:id="ninive">
+                        <placeName type="geonames" key="92878"> Ninive <ref type="tgn"
+                                cRef="7017998"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ninive"/>
+                        </note>
+                    </place>
+                    <place xml:id="babylon_reich">
+                        <placeName type="gnd" key="4004102-5"> Babylonisches Reich </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Babylonisches_Reich"/>
+                        </note>
+                    </place>
+                    <place xml:id="babylon">
+                        <placeName type="geonames" key="98228"> Babylon <ref type="tgn"
+                                cRef="7002626"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://www.geonames.org/6255149/north-america.html"/>
+                        </note>
+                    </place>
+                    <place xml:id="kanaan">
+                        <placeName type="gnd" key="4029455-9"> Kanaan</placeName> 
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kanaan"/>
+                        </note>
+                    </place>
+                    <place xml:id="mesopotamien">
+                        <placeName type="geonames" key="8378519">Mesopotamien</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mesopotamien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Salem_Bibel"/>
+                    <place xml:id="sodom"/>
+                    <place xml:id="gomorra"/>
+                    <place xml:id="Moria_Bibel"/>
+                    <place xml:id="Nahors_Bibel"/>
+                    <place xml:id="Tote_Meer">
+                        <placeName type="geonames" key="295347"> Totes Meer <ref type="tgn"
+                                cRef="7018638"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Totes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="syrien">
+                        <placeName type="geonames" key="163843"> Syrien <ref type="tgn"
+                                cRef="1000140"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://www.geonames.org/6255149/north-america.html"/>
+                        </note>
+                    </place>
+                    <place xml:id="Sichem">
+                        <placeName type="geonames" key="282615"> Sichem <ref type="tgn"
+                                cRef="1099904"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sichem"/>
+                        </note>
+                    </place>
+                    <place xml:id="ägypten">
+                        <placeName type="geonames" key="357994"> Ägypten <ref type="tgn"
+                                cRef="7016833"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ägypten"/>
+                        </note>
+                    </place>
+                    <place xml:id="Nil_Fluss">
+                        <placeName type="geonames" key="351036"> Nil <ref type="tgn" cRef="1127805"
+                            />
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nil"/>
+                        </note>
+                    </place>
+                    <place xml:id="horeb_berg"/>
+                    <place xml:id="Raemses_Bibel"/>
+                    <place xml:id="Rote_Meer">
+                        <placeName type="geonames" key="350155"> Rotes Meer <ref type="tgn"
+                                cRef="7016791"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rotes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="sinai_berg">
+                        <placeName type="geonames" key="351820"> Berg Sinai <ref type="tgn"
+                                cRef="7001247"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sinai_(Berg)"/>
+                        </note>
+                    </place>
+                    <place xml:id="Moab_Bibel"/>
+                    <place xml:id="jordan">
+                        <placeName type="geonames" key="294624"> Jordan <ref type="tgn"
+                                cRef="1125225"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jordan"/>
+                        </note>
+                    </place>
+                    <place xml:id="jericho">
+                        <placeName type="geonames" key="284899"> Jericho <ref type="tgn"
+                                cRef="7001385"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jericho"/>
+                        </note>
+                    </place>
+                    <place xml:id="Ai_Bibel"/>
+                    <!--
+ kein Eintrag bei geonames 
+          <place xml:id="Arabien">
+            <placeName type="geonames" key="">Arabien<ref type="tgn" cRef="1012700"></ref></placeName>
+            <note> <ptr target="http://de.wikipedia.org/wiki/Arabische_Halbinsel"/></note> 
+          </place>
+          
+-->
+                    
+                    <place xml:id="israel">
+                        <placeName type="geonames" key="294640"> Israel <ref type="tgn"
+                                cRef="1000119"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Israel"/>
+                        </note>
+                    </place>
+                    <place xml:id="judäa">
+                        <placeName type="geonames" key="8378515"> Judäa <ref type="tgn"
+                                cRef="7001407"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Judäa"/>
+                        </note>
+                    </place>
+                    <place xml:id="Bet-El_Bibel"/>
+                    <place xml:id="Samarien_Bibel">
+                        <placeName type="geonames" key="284584"> Samarien <ref type="tgn"
+                                cRef="7011724"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Samarien"/>
+                        </note>
+                    </place>
+                    <!--
+  
+          <place xml:id="Persien">
+            <placeName type="geonames" key="284584">Persien<ref type="tgn" cRef="7011724"></ref></placeName>
+            <note> <ptr target="http://de.wikipedia.org/wiki/Samarien"/></note> 
+          </place>
+          
+-->
+                    <place xml:id="Betulia_Bibel"/>
+                    <place xml:id="Uz_Bibel"/>
+                    <place xml:id="beirut">
+                        <placeName type="geonames" key="276781"> Beirut <ref type="tgn"
+                                cRef="7002857"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Beirut"/>
+                        </note>
+                    </place>
+                    
+                    <place xml:id="Weiße_Meer_Meer">
+                        <placeName type="geonames" key="577742"> Weißes Meer <ref type="tgn"
+                                cRef="1112253"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Weißes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="Schwarze_Meer_Meer">
+                        <placeName type="geonames" key="630673"> Schwarzes Meer <ref type="tgn"
+                                cRef="7016619"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schwarzes_Meer"/>
+                        </note>
+                    </place>
+                    <place xml:id="tigris">
+                        <placeName type="geonames" key="96998"> Tigris <ref type="tgn"
+                                cRef="1130850"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tigris"/>
+                        </note>
+                    </place>
+                    <place xml:id="betlehem">
+                        <placeName type="geonames" key="284315"> Bethlehem <ref type="tgn"
+                                cRef="7001388"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bethlehem"/>
+                        </note>
+                    </place>
+                    <place xml:id="Assyrien">
+                        <placeName type="geonames" key="8378483"> Assyrien <ref type="tgn"
+                                cRef="7016606"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Assyrien"/>
+                        </note>
+                    </place>
+                    <place xml:id="galiläa">
+                        <placeName type="geonames" key="294932"> galiläa <ref type="tgn"
+                                cRef="7000250"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/galiläa"/>
+                        </note>
+                    </place>
+                    <place xml:id="Vienne_Frankreich">
+                        <placeName type="geonames" key="2969284"> Vienne <ref type="tgn"
+                                cRef="7008589"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Vienne"/>
+                        </note>
+                    </place>
+                    <place xml:id="Frankreich">
+                        <placeName type="geonames" key="3017382"> Frankreich <ref type="tgn"
+                                cRef="1000070"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Frankreich"/>
+                        </note>
+                    </place>
+                    <place xml:id="Ituräa"/>
+                    <place xml:id="Ledja_Trachonitis_"/>
+                    <place xml:id="Kafarnaum_Israel">
+                        <placeName type="geonames" key="294522"> Kafarnaum <ref type="tgn"
+                                cRef="7001364"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kafarnaum"/>
+                        </note>
+                    </place>
+                    <place xml:id="alexandria">
+                        <placeName type="geonames" key="361058"> Alexandria <ref type="tgn"
+                                cRef="7001188"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Alexandria"/>
+                        </note>
+                    </place>
+                    <place xml:id="Antiochia_am_Orontes_Syrien"/>
+                    <place xml:id="Ephesos_Türkei">
+                        <placeName type="geonames" key="7522155"> Ephesos <ref type="tgn"
+                                cRef="7002499"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ephesos"/>
+                        </note>
+                    </place>
+                    <place xml:id="Patmos_Griechenland_Insel_">
+                        <placeName type="geonames" key="255687"> Patmos <ref type="tgn"
+                                cRef="7011024"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Patmos"/>
+                        </note>
+                    </place>
+  
+                    <place xml:id="Griechenland">
+                        <placeName type="geonames" key="390903"> Griechenland <ref type="tgn"
+                                cRef="1000074"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Griechenland"/>
+                        </note>
+                    </place>
+                    <place xml:id="Korinth_Griechenland">
+                        <placeName type="geonames" key="259289"> Korinth <ref type="tgn"
+                                cRef="7002741"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Korinth"/>
+                        </note>
+                    </place>
+                   <place xml:id="rom_reich">
+                       <placeName type="gnd" key="4076778-4"> Römisches Reich</placeName>
+                       <note>
+                           <ptr target="http://de.wikipedia.org/wiki/R%C3%B6misches_Reich"/>
+                       </note>
+                   </place>
+                    <place xml:id="Rom_Italien">
+                        <placeName type="geonames" key="3169070"> Rom <ref type="tgn" cRef="7000874"
+                            />
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rom"/>
+                        </note>
+                    </place>
+                    <place xml:id="Peloponnes_Griechenland">
+                        <placeName type="geonames" key="255620"> Rom <ref type="tgn" cRef="7017076"
+                            />
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Peloponnes"/>
+                        </note>
+                    </place>
+                    <place xml:id="Achaia_Griechenland">
+                        <placeName type="geonames" key="265712"> Achaia <ref type="tgn"
+                                cRef="7593166"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Achaia"/>
+                        </note>
+                    </place>
+                    <place xml:id="Morea_Griechenland"/>
+                    <!--  mittelalterliche Bezeichnung für Peloponnes  -->
+                    <place xml:id="Makedonien_Balkan">
+                        <!--
+ bei geonames für die griechische Region entschieden, gegen die Nation Makedonien und gegen die bulgarische Region 
+-->
+                        <placeName type="geonames" key="735355"> Makedonien <ref type="tgn"
+                                cRef="7001349"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Makedonien"/>
+                        </note>
+                    </place>
+                    <place xml:id="kleinasien">
+                        <placeName type="geonames" key="323835"> Kleinasien 
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kleinasien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Kolossai_Phrygien"/>
+                    <!--  nichts bei geonames  -->
+                    <place xml:id="Phrygien_Türkei">
+                        <placeName type="geonames" key="8378490"> Phrygien <ref type="tgn"
+                                cRef="7002613"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Makedonien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Laodicea_in_Phrygia_Türkei"/>
+                    <!--  nicht eindeutig  -->
+                    <place xml:id="Thessaloniki_Griechenland">
+                        <placeName type="geonames" key="734077"> Thessaloniki <ref type="tgn"
+                                cRef="7002731"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Thessaloniki"/>
+                        </note>
+                    </place>
+                    <place xml:id="Derbe_Lykaonien"/>
+                    <!--  nicht bei geonames  -->
+                    <place xml:id="Lystra_Lykaonien"/>
+                    <!--  nicht bei geonames  -->
+                    <place xml:id="Lykaonien_Türkei"/>
+                    <!--  nicht bei geonames  -->
+                    <place xml:id="kreta">
+                        <placeName type="geonames" key="258763"> Kreta <ref type="tgn"
+                                cRef="7012056"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kreta"/>
+                        </note>
+                    </place>
+                    <place xml:id="Pontus_Türkei">
+                        <placeName type="geonames" key="8378484"> Pontus <ref type="tgn"
+                                cRef="7002399"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pontus"/>
+                        </note>
+                    </place>
+                    <place xml:id="Galatien_Türkei">
+                        <placeName type="geonames" key="8378498"> Galatien <ref type="tgn"
+                                cRef="7016662"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Galatien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Kappadokien_Türkei">
+                        <placeName type="geonames" key="322954"> Kappadokien <ref type="tgn"
+                                cRef="6003016"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kappadokien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Bithynien_Türkei">
+                        <placeName type="geonames" key="8261115"> Bithynien <ref type="tgn"
+                                cRef="7016608"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bithynien"/>
+                        </note>
+                    </place>
+                    <place xml:id="Mond"/>
+                    <place xml:id="Merkur_Planet"/>
+                    <place xml:id="Venus_Planet"/>
+                    <place xml:id="Sonne"/>
+                    <place xml:id="Mars_Planet"/>
+                    <place xml:id="Jupiter_Planet"/>
+                    <place xml:id="Saturn_Planet"/>
+                    <place xml:id="Uranus_Planet"/>
+                    <place xml:id="holland">
+                        <placeName type="geonames" key="2750405"> Holland (Grafschaft Holland) </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Grafschaft_Holland"/>
+                        </note>
+                    </place>
+                    <place xml:id="Preußen">
+                        <placeName type="gnd" key="4047194-9"> Preußen 
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Preu%C3%9Fen"/>
+                        </note>
+                    </place>
+                    <place xml:id="Toruń_Polen">
+                        <placeName type="geonames" key="3083271"> Toruń</placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Toru%C5%84"/>
+                        </note>
+                    </place>
+                    <place xml:id="Polen">
+                        <placeName type="geonames" key="798544"> Polen </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Polen"/>
+                        </note>
+                    </place>
+                    <place xml:id="Lombardei">
+                        <placeName type="geonames" key="3174618"> Lombardei </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lombardei"/>
+                        </note>
+                    </place>
+                    <place xml:id="Flandern">
+                        <placeName type="gnd" key="4071249-7"> Flandern (Grafschaft Flandern)
+                            <ref type="tgn" cRef="7024097"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Grafschaft_Flandern"/>
+                        </note>
+                    </place>
+                    <place xml:id="Brabant">
+                        <placeName type="gnd" key="4089892-1"> Brabant (Herzogtum Brabant)
+                            <ref type="tgn" cRef="7003463"/>
+                        </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herzogtum_Brabant"/>
+                        </note>
+                    </place>
+                    <place xml:id="Kroatien">
+                        <placeName type="geonames" key="3202326"> Kroatien </placeName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kroatien"/>
+                        </note>
+                    </place>
+                    <place xml:id="unbekannter_ort">
+                        <placeName> konnte noch nicht bestimmt werden </placeName>
+                    </place>
+                </listPlace>
+            </div>
+        </body>
+    </text>
+</TEI>

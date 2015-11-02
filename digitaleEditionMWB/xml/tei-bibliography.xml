@@ -1,0 +1,378 @@
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="edoc_ed000223_fg_transcript_all" xml:base="http://diglib.hab.de/edoc/ed000223/">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bibliographie</title>
+                <respStmt>
+                    <resp/>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>07.08.2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Diese Bibliographie bezieht sich Millingers Weltbeschreibung.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="bibliography">
+                
+                <head>Bibliographie</head>
+                <listBibl xml:id="bib_quellen">
+                    <head>Millingers Quellen</head>
+                    <bibl xml:id="dietenberger_bibel">
+                        <author>Dieteberger, Johannes</author>
+                        <title>Bibell. Das ist, Alle Bücher Alts und News Testaments</title>
+                        <pubPlace>Köln</pubPlace>
+                        <date when="1590">1590</date>
+                        <ptr type="bvb"
+                            cRef="BV002238101"/>
+                    </bibl>
+                    
+                    <bibl xml:id="poire_kronbuch">
+                        <author>Poiré, François</author>
+                        <title>
+                            Der übergebenedeytisten Mutter Gottes Mariae Dreyfache Cron: geflochten Auß Sternen der fürnehmbsten Hochheiten, ihrer Fürtrefflichkeit, Gewalts, vnd Güttigkeit, versetzt Mit köstlichen Kleinodien viler new erfundnen Haupt-Vrsachen, vnd Mittlen, Sie Zu ehren, zu lieben, vnd Jhr trewlich zu dienen ; 1/2
+                        </title>
+                        <pubPlace>Lucern</pubPlace>
+                        <date when="1664">1664</date>
+                        <ptr type="bvb" cRef="BV001510373"/>
+                    </bibl>
+                    
+                      <bibl xml:id="reimdich">
+                            <author>Sancta Clara, Abraham a</author>
+                            <title>Reimb dich/ Oder Ich Liß dich/ Das ist: Allerley Materien/ Discurs,
+                                Concept, und Predigen/ welche bißhero in underschidlichen Tractätlein gedruckt
+                                worden / Nunmehr in einem Werck ... Zusammen gereimbt/ vnd zusammen geraumbt
+                                ... Durch Pr. Fr. Abraham â S. Clara, Augustiner Baarfüsser Ordens. Käyserl.
+                                Prediger und der Zeit Prior/ [et]c.</title>
+                            <pubPlace>Lucern  </pubPlace>
+                            <date when="1687">1687</date>
+                            <ptr type="opac" cRef="543860183"/>
+                        </bibl>
+                        <bibl xml:id="judas1">
+                            <author>Sancta Clara, Abraham a</author>
+                            <title>Judas Der Ertz-Schelm/ Für ehrliche Leuth/ Oder: Eigentlicher Entwurff/
+                                vnd Lebens-Beschreibung deß Iscariotischen Bößwicht : Worinnen vnderschiedliche
+                                Discurs, sittliche Lehrs-Puncten/ Gedicht/ vnd Geschicht/ auch sehr reicher
+                                Vorrath Biblischer Concepten. Welche nit allein einem Prediger auff der Cantzel
+                                sehr dienlich fallen/ der jetzigen verkehrten/ bethörrten/ versehrten Welt die
+                                Warheit vnder die Nasen zu reiben: sondern es kan sich auch dessen ein Privat-
+                                vnd einsamber Leser zur ersprießlicher Zeit-Vertreibung/ vnd gewünschten
+                                Seelen-Hayl gebrauchen / Zusammen getragen Durch Pr. Abraham à S. Clara,
+                                Augustiner Baarfüsser/ Kayserlichen Prediger/ [et]c. Erster Thail.</title>
+                            <pubPlace>Salzburg </pubPlace>
+                            <date when="1686">1686</date>
+                            <ptr type="opac" cRef="546721583"/>
+                        </bibl>
+                        <bibl xml:id="judas2">
+                            <author>Sancta Clara, Abraham a</author>
+                            <title>Judas Der Ertz-Schelm/ Für ehrliche Leuth/ Oder: Eigentlicher Entwurff/
+                                vnd Lebens-Beschreibung deß Iscariotischen Bößwicht : Worinnen vnderschiedliche
+                                Discurs, sittliche Lehrs-Puncten/ Gedicht/ vnd Geschicht/ auch sehr reicher
+                                Vorrath Biblischer Concepten. Welche nit allein einem Prediger auff der Cantzel
+                                sehr dienlich fallen/ der jetzigen verkehrten/ bethörrten/ versehrten Welt die
+                                Warheit vnder die Nasen zu reiben: sondern es kan sich auch dessen ein Privat-
+                                vnd einsamber Leser zur ersprießlicher Zeit-Vertreibung/ vnd gewünschten
+                                Seelen-Hayl gebrauchen / Zusammen getragen Durch Pr. Abraham à S. Clara,
+                                Augustiner Baarfüsser/ Kayserlichen Prediger/ [et]c. Anderte Thail.</title>
+                            <pubPlace>Salzburg </pubPlace>
+                            <date when="1689">1689</date>
+                            <ptr type="opac" cRef="545403472"/>
+                        </bibl>
+                        <bibl xml:id="judas3">
+                            <author>Sancta Clara, Abraham a</author>
+                            <title>	
+                                Judas Der Ertz-Schelm/ Für ehrliche Leuth/ Oder: Eigentlicher Entwurff/ vnd Lebens-Beschreibung deß Iscariotischen Bößwicht : Worinnen vnderschiedliche Discurs, sittliche Lehrs-Puncten/ Gedicht/ vnd Geschicht/ auch sehr reicher Vorrath Biblischer Concepten. Welche nit allein einem Prediger auff der Cantzel sehr dienlich fallen/ der jetzigen verkehrten/ bethörrten/ versehrten Welt die Warheit vnder die Nasen zu reiben: sondern es kan sich auch dessen ein Privat- vnd einsamber Leser zur ersprießlicher Zeitvertreibung/ vnd gewünschten Seelen-Hayl gebrauchen / Zusammen getragen: Durch Pr. Abraham à S. Clara, Augustiner Baarfüsser/ Kayserlichen Prediger/ vnd der Zeit durch Teutschland Provincialem/ [et]c. Der Dritte Theil</title>
+                            <pubPlace>Salzburg </pubPlace>
+                            <date when="1689">1689</date>
+                            <ptr type="opac" cRef="546875300"/>
+                        </bibl>
+                        <bibl/>
+                        <bibl xml:id="judas4">
+                            <author>Sancta Clara, Abraham a</author>
+                            <title>Judas Der Ertz-Schelm/ Für ehrliche Leuth/ Oder: Eigentlicher Entwurff/
+                                vnd Lebens-Beschreibung deß Iscariotischen Bößwicht : Worinnen vnderschiedliche
+                                Discurs, sittliche Lehrs-Puncten/ Gedicht/ vnd Geschicht/ auch sehr reicher
+                                Vorrath Biblischer Concepten. Welche nit allein einem Prediger auff der Cantzel
+                                sehr dienlich fallen/ der jetzigen verkehrten/ bethörrten/ versehrten Welt die
+                                Warheit vnder die Nasen zu reiben: sondern es kan sich auch dessen ein Privat-
+                                vnd einsamber Leser zur ersprießlicher Zeit-Vertreibung/ vnd gewünschten
+                                Seelen-Hayl gebrauchen / Zusammen getragen Durch Pr. Abraham à S. Clara,
+                                Augustiner Baarfüsser/ Kayserlichen Prediger/ vnd der Zeit durch Teutschland
+                                Provincialem/ [et]c. Der Vierdte Thail.</title>
+                            <pubPlace>Salzburg </pubPlace>
+                            <date when="1695">1695</date>
+                            <ptr type="opac" cRef="546724507"/>
+                     </bibl>
+                        
+                    <bibl xml:id="cochem_jesus">
+                        <author>Cochem, Martin</author>
+                        <title>Das grosse Leben Christi, oder ausführliche, andächtige, und bewegliche
+                            Beschreibung des Lebens und Leydens unsers Herrn Jesu Christi, und seiner
+                            glorwürdigsten lieben Mutter Mariae</title>
+                        <pubPlace>München  </pubPlace>
+                        <date when="1712">1712</date>
+                        <ptr type="bvb" cRef="BV005573558"/>
+                    </bibl>
+                    <bibl xml:id="weigel_erdspiegel">
+                        <author>Weigel, Erhard</author>
+                        <title>Speculum Terrae, / Das ist / Erd-Spiegel / Darinnen / 
+                            der Erd Creis / Nach seinen Eigenschaften an Land und Wasser: / 
+                            Nach denen Völckern und Einwohnern seiner Länder: / 
+                            Nach der Figur und Grösse seines Cörpers: / 
+                            Nach der Länge und Breite seines Cörpers: / 
+                            Nach der Länge und Breite seiner Fläche: / 
+                            Nach der Lage seiner Theile / so wohl gegen einander und 
+                            in gewissen Gegnden; / als unter denen Sternen in gewissen 
+                            Zonen und Climen: sampt andern Geographischen Anmerckungen / 
+                            abgebildet / und zugleich/ der helleuchtende neue Comet / 
+                            welcher im Mertz und April des 1665sten Jahres erschienen / 
+                            ausführlich beschrieben wird</title>
+                        <pubPlace>Jena </pubPlace>
+                        <date when="1665">1665</date>
+                        <ptr type="bvb" cRef="BV001741670"/>
+                    </bibl>
+                    
+                    <bibl xml:id="acxtelmeier_natur">
+                        <author>Acxtelmeier, Stanislaus Reinhard</author>
+                        <title>Des aus der Finsternus erretteten Natur-Liechts, Oder der Vernunffts-Entledigungen Sechster Theil, 
+                            Innhaltend einige Staats-Reflexiones auff gegenwärtige Zeiten, das Urtheil von der Cabala, von den Hermete, 
+                            die Harmonie der Welt, einige Albertinische, Magische Künste, die Erleuterung einiger Theophr. 
+                            Büchern, die Eroberung deß guldenen Fliesses, das Compendium der Natur; sampt andern vielen Staats Begebenheiten. 
+                            Dieses 1700. Jubel-Jahrs an den Tag gelegt Von Stanislao Reinhard Acxtelmeier. 
+                            Augspurg,  Druckst und verlegts Caspar Brechenmacher, Anno 1702</title>
+                        <pubPlace>Augsburg </pubPlace>
+                        <date when="1702">1702</date>
+                        <ptr type="opac" cRef="324002793"/>
+                    </bibl>
+                    
+                    <bibl xml:id="hübner_fragen">
+                        <author>Hübner, Johann</author>
+                        <title>Kurtze Fragen aus der neuen und alten Geographie; biß auf gegenwärtige
+                            Zeit continuiret und mit einer nützlichen Einleitung vor die Anfänger, auch mit
+                            einer ausführlichen Vorrede von den besten Land-Charten vermehret</title>
+                        <pubPlace>Leipzig </pubPlace>
+                        <date when="1721">1721</date>
+                        <ptr type="bvb" cRef="BV001528148"/>
+                    </bibl>
+                    
+                    <bibl xml:id="prugger_exempelbuch">
+                        <author>Prugger, Martin</author>
+                        <title>Worinnen nicht allein, zwar einfältig, jedoch klar und gründlich,
+                            vorgetragen der völlige Catechismus Oder Christ-Catholische Lehr, Sondern auch
+                            mit allerhand schönen Exemplen, Gleichnussen, und Sprüchen aus H. Schrifft und
+                            HH. Vätteren, erklärt, bekräfftiget, und ausgezieret zu finden ist.
+                            Dergestalten, Daß selbiges nicht allein denen, so die Jugend in Christlicher
+                            Lehr Ambts-halber zu unterweisen haben, sonder auch dem gemeinen ungelehrten
+                            Volck, dem es auch gar füglich für ein Hauß-Buch dienen mag, sehr nutz- und
+                            ersprießlich, nicht nur zum nothwendigen Unterricht in Glaubens- und anderen
+                            Sachen, so ein jeder Christ wissen soll, sonder auch zu Anstellung eines recht-
+                            Christlichen Lebens, und tugendsamen Wandels</title>
+                        <pubPlace>Augspurg </pubPlace>
+                        <date when="1726">1726</date>
+                        <ptr type="bvb" cRef="BV001470912"/>
+                    </bibl>
+                    
+                    <bibl xml:id="myller_peregrinus1">
+                        <author>Myller, Angelicus Maria</author>
+                        <title>Peregrinus in Jerusalem. Erstes Buch.</title>
+                        <pubPlace>Prag </pubPlace>
+                        <date when="1729">1729</date>
+                        <ptr type="bvb" cRef="BV019430817"/>
+                    </bibl>
+                    <bibl xml:id="myller_peregrinus2">
+                        <author>Myller, Angelicus Maria</author>
+                        <title>Peregrinus in Jerusalem. Andertes Buch.</title>
+                        <pubPlace>Prag </pubPlace>
+                        <date when="1730">1730</date>
+                        <ptr type="bvb" cRef="BV019430834"/>
+                    </bibl>
+                    <bibl xml:id="myller_peregrinus3">
+                        <author>Myller, Angelicus Maria</author>
+                        <title>Peregrinus in Jerusalem. Drittes Buch.</title>
+                        <pubPlace>Prag </pubPlace>
+                        <date when="1730">1730</date>
+                        <ptr type="bvb" cRef="BV019430839"/>
+                    </bibl>
+                    
+                    <bibl xml:id="launay_historie">
+                        <author>Launay, Charles Louis de</author>
+                        <title>Der Seinen zu erziehen habenden Jungen Cavalier in der Profan- und
+                            Kirchen-Historie, so wohl als in der Geographie, denen Haupt-Principiis Juris
+                            Publici, dem nöthigsten von der Heraldie, der Genealogie ... getreu, und
+                            gründlich unterweisende Hofmeister, zum Nutzen derer beyden Jungen Herren
+                            Grafen von Nostiz und Rhineck etc.</title>
+                        <pubPlace>Augsburg </pubPlace>
+                        <date when="1738">1738 </date>
+                        <ref target="http://data.onb.ac.at/rec/AC10055319">OeNB</ref>
+                    </bibl>
+                    
+                    <bibl xml:id="berckenmeyer_beschreibung">
+                        <author>Berckenmeyer, Paul Ludolph </author>
+                        <title>Curiöse Beschreibung der auserlesnesten Merckwürdigkeiten, so in denen
+                            dreyen Welt-Theilen Asia, Africa und America zu finden: als e. Fortsetzung d.
+                            bereits herausgegebenen Nachricht von Europa.</title>
+                        <pubPlace>Augsburg </pubPlace>
+                        <date when="1765">1765</date>
+                        <ptr type="bvb" cRef="BV012406198"/>
+                    </bibl>
+                    
+                    <bibl xml:id="schreger_hausbuch">
+                        <author>Schreger, Odilo </author>
+                        <title>Hausbüchlein, worinnen unterschiedliche, sowohl geistliche als weltliche
+                            Hausmittel, sonderlich wie sich ein Hausvater gegen Gott, gegen den Nächsten,
+                            und gegen sich selbst, wieauch in seinen Hausgeschäften verhalten solle.</title>
+                        <pubPlace>Bamberg </pubPlace>
+                        <date when="1770">1770</date>
+                        <ref target="http://permalink.obvsg.at/AC01332814">OBV</ref>
+                    </bibl>                  
+                   
+                    <bibl xml:id="desing_universalhistorie">
+                        <author>Desing, Anselm</author>
+                        <title>Kürtziste Universal-Historie nach der Geographia auf der Land-Karte zu
+                            erlernen von der studirenden Jugend zu erlehrnen.</title>
+                        <pubPlace>Augsburg </pubPlace>
+                        <date when="1772">1772</date>
+                        <ptr type="bvb" cRef="BV021514848"/>
+                    </bibl>
+                   
+                    <bibl xml:id="cosmographia">
+                        <author>o. A.</author>
+                        <title>Kompendiöse Cosmographia; Compendiose Cosmographia; 
+                            Oder geogr. histor. Beschreibung allerhand auserlesener 
+                            Merkwürdigkeiten, so in Europa zu finden.</title>
+                        <pubPlace>Augsburg </pubPlace>
+                        <date when="1780">1780</date>
+                        <ptr type="bvb" cRef="BV001398268"/>
+                    </bibl>
+                   
+                    <bibl xml:id="kleinsorg_geographie">
+                        <author>Kleinsorg, Raphael</author>
+                        <title>Abriß der Geographie zum Gebrauch in und ausser Schulen, nebst der
+                            besondern Geographie des Erzstifts Salzburg, und einem Unterricht vom
+                            Weltgebäude, und vom Gebrauche der Globen.</title>
+                        <pubPlace>Salzburg </pubPlace>
+                        <date when="1782">1782</date>
+                        <ref target="http://permalink.obvsg.at/AC06991942">OBV</ref>
+                    </bibl>
+                    
+                    <bibl xml:id="becker_noth">
+                        <author>Becker, Rudolf Zacharias</author>
+                        <title>Unterricht-, Noth- und Hülfsbüchlein für Bürgers- und Bauersleute darinnen
+                            sie in den meisten Vorfällen des Lebens, beym Feldbau, bey der Viehzucht, und
+                            in der Hauswirtschaft, bewährte und nützliche Regeln, Anweisungen und Vortheile
+                            verzeichnet finden.</title>
+                        <pubPlace>Weissenburg </pubPlace>
+                        <date when="1790">1790</date>
+                        <ptr type="bvb"
+                            cRef="BV001576461"/>
+                    </bibl>
+                    
+                    <bibl xml:id="seiler_lesebuch">
+                        <author>Seiler, Georg Friedrich</author>
+                        <title>Allgemeines Lesebuch für katholische Bürger und Landleute,
+                            vornehmlich zum Gebrauche in Stadt- und Landschulen</title>
+                        <pubPlace>Bamberg; Würzburg </pubPlace>
+                        <date when="1812">1812</date>
+                        <ref target="http://permalink.obvsg.at/AC07837790">OBV</ref>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl xml:id="primär">
+                    <bibl xml:id="acxtelmeier_palast"></bibl>
+                </listBibl>
+                <listBibl xml:id="sekundär">
+                    <head>Sekundärliteratur</head>
+                    <bibl xml:id="andorfer_millinger">
+                        <author>
+                            <forename>Peter </forename>
+                            <surname>Andorfer</surname>
+                        </author>
+                        Die "Weltbeschreibung des Leonhard Millinger" als Schlüssel zum "Weltbild" des mitteleuropäischen Bauern? Viele Fragen und einige Antworten, in: Gunda Barth-Scalmani u. a. (Hg.), Forschungswerkstatt: Die Habsburgermonarchie im 18. Jahrhundert (Jahrbuch der Österreichischen Gesellschaft zur Erforschung des Achtzehnten Jahrhunderts 26), Bochum 2012, S. 225-240. 
+                        <ptr type="opac" cRef="718484592"/>
+                    </bibl>
+                    <bibl xml:id="pergler_waidringer">
+                        <author>
+                            <forename>Adolf </forename>
+                            <surname>Pergler</surname>
+                        </author>
+                        Die Waidringer Freiheitskämpfer von 1796 bis 1814. Ein Erinnerungsblatt von Adolf Pergler, k.k. Bezirksrichter in Lofer, Lofer 1907.
+                    </bibl>
+                    <bibl xml:id="faust_krassnig_klöster">
+                        <author>
+                            <forename>Ulrich </forename>
+                            <surname>Faust</surname>
+                        </author>
+                        <author>
+                            <forename>Waltraud </forename>
+                            <surname>Krassnig</surname>
+                        </author>
+                        Die Benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol 2003.
+                    </bibl>
+                    <bibl xml:id="mayer_anteil">
+                        <author>
+                            <forename>Matthias </forename>
+                            <surname>Mayer</surname>
+                        </author>
+                        Der Tiroler Anteil des Erzbistums Salzburg, kirchen- und kunstgeschichtlich, 5. Band: Kirchdorf – Waidring – Kössen und Schwendt, Going 1956.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_stulrich_pillersee">
+                        <author>
+                            <forename>Werner </forename>
+                            <surname>Köfler</surname>
+                        </author>
+                        Chronik von St. Ulrich am Pillersee, St. Ulrich a. Pillersee 1977.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_kirchdorf">
+                        <author>
+                            <forename>Christian </forename>
+                            <surname>Nothdurfter</surname>
+                        </author>
+                        Kirchdorf in Tirol. Hrsg. Gemeinde Kirchdorf in Tirol. Red. von Christian Nothdurfter u.a., Kirchdorf in Tirol 2005.
+                    </bibl>
+                    <bibl xml:id="dorfbuch_fieberbrunn">
+                        <author>
+                            <forename>Werner </forename>
+                            <surname>Köfler</surname>
+                        </author>
+                        Fieberbrunn. Geschichte einer Marktgemeinde, Fieberbrunn 1979.
+                    </bibl>
+                    <bibl xml:id="peters_pflug">
+                        <author>
+                            <forename>Jan </forename>
+                             <surname>Peters</surname>
+                        </author>
+                        Mit Pflug und Gänsekiel, Selbstzeugnisse schreibender Bauern. Eine Anthologie (Selbstzeugnisse der Neuzeit 12), Köln-Weimar-Wien 2003.
+                    </bibl>
+                    <bibl xml:id="schennach_revolte">
+                        <author>
+                            <forename>Martin P. </forename>
+                            <surname>Schennach</surname>
+                        </author>
+                        Revolte in der Region. Zur Tiroler Erhebung 1809 (Veröffentlichungen des Tiroler Landesarchivs 16), Innsbruck 2009.
+                        
+                    </bibl>
+                    <bibl xml:id="haisjackl_wintersteller">
+                        <author>
+                            <forename>Herta </forename>
+                            <surname>Haisjackl</surname>
+                        </author>
+                        Major Rupert Wintersteller – Tiroler Schützenkommandant 1809. Der glücklose „Abgott der Unterinntaler“, in: Brigitte Mazhol, Bernhard Mertelseder (Hg.), Abschied vom Freiheitskampf? Tirol und ‚1809‘ zwischen politischer Realität und Verklärung (Schlern-Schriften 346), Innsbruck 2009, S. 199-222.
+                    </bibl>
+                    <bibl xml:id="steiner_freiheitskampf">
+                        <author>
+                            <forename>Hans </forename>
+                            <surname>Steiner</surname>
+                        </author>
+                        Der Freiheitskampf in seinen Folgen. Kriegsschäden im Strub- und Saalachtal am Beispiel zeitgenössischer Aufzeichnungen, in: Friederike Zaisberger / Fritz Hörmann (Hg.), Freiden - Schützen 1809-2009, S. 355-377. 
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

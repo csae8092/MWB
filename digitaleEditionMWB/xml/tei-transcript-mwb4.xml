@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.3.0/tei-p5-transcr.xsd"
+ xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000223_fg_transcript_f04"
+ xml:base="http://diglib.hab.de/edoc/ed000223/">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Weltbeschreibung des Leonhard Millinger </title>
+            <title type="part"> Teil 4</title>
+            <author>Leonhard Millinger</author>
+            <respStmt>
+               <resp>TEI-P5 konforme Kodierung durch</resp>
+               <name type="person">
+                  <name type="person">Peter Andorfer</name>
+               </name>
+            </respStmt>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name type="person">
+                  <name>Peter Andorfer</name>
+               </name>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+            </respStmt>
+            <funder>Universität Innsbruck, Tiroler Wissenschftsfonds, Forschungsunterstützungsverein Viktor und Dr. Edith Schemfil (FUS), Land Niedersachsen (Digital-Humanities Stipendium)</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Elektronische Ausgabe nach TEI P5</edition>
+         </editionStmt>
+         
+         <publicationStmt>
+            <idno type="workID">http://diglib.hab.de/edoc/ed000223/start.htm</idno>
+            <idno type="ppn">77097337X</idno>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr type="crossRef" target="http://www.hab.de"/>
+            </publisher>
+            <date>2011</date>
+            <availability status="restricted">
+               <p>
+                  Available at
+                  <ref target="http://diglib.hab.de/edoc/ed000223/start.htm">
+                     (c) Herzog August Bibliothek Wolfenbüttel
+                  </ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p></p>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
+            <date>$LastChangedDate: 2013-04-21T13:34:16Z$</date>
+            <name>Peter Andorfer</name>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+    <text>     
+    <body>
+       <pb xml:id="MWB_pb_0652" n="652" facs="#mss_ed000055_00663"/>
+       <div xml:id="A_a" org="uniform" sample="complete" part="N">
+         <p>
+            <hi rend="italics">Nach deme die 4 Welt Teil beschriben, so werden die</hi>
+            Ort: oder Kirchen in Land Tyrol bei jeden Vor Buchstaben
+            angemörkt, aber in andern Ländern sind sie in ihr
+            Land angezohen und etwelche benennt. Einige werden
+            sowohl in Tyrol als auserland bei den Weeg Weisern
+            Folio 957 und Folio 962 Buchstaben W. beschriben.
+            So ist das ersten-
+         </p>
+          <div xml:id="A_a_Adäläri" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>St. Adäläri.</orig>
+                   <reg>St. Adolari</reg>
+                </choice>
+             </head>
+             <p>
+                St. Adäläri ein Filiäl Kirchl in der Pfarr Pillersee
+                nechst hie ist nach St. Ulrich Schloß: oder Kirch erbaut
+                weroden vor 870 Jahren. Der vordere Teil in 
+                St. Adäleri Kirch ist noch daß selbig alte Gebäude. Der
+                Kirchthurm ist ao: 1634 neu erbaut, alda sind 2 kleine Gloggen
+                und in der Kirch 3 Altär. Der Heilige Adaläri war
+                Pischof in Deutschland, um die Zeit ao: 715. Er ist ein
+                mächtiger Patron um Glick: und Gesundheit des Viche.
+             </p>
+          </div>
+          <div xml:id="A_a_Aurach" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Aurach.</orig>
+                   <reg>Aurach</reg>
+                </choice>
+             </head>
+             <p>
+                Ursprung und Beschreibung der Jungfrauliche Mutter
+                Gottes Bild Maria in Glaß zu Absom in Tyrol nechst
+                Haal, so den 17. Jenner zwischen 3 und 4 Uhr
+                Nachmittag ao: 1797 bei einen Bauers Mann Johann
+                Puecher mit Namen in einer Fenster Scheibe daß
+                erste mal gesehen worden: Solcher Bauer besitzt
+                
+                <pb xml:id="MWB_pb_0653" n="653" facs="#mss_ed000055_00664"/>
+                sein Hauß bei 15 Jahr in Unter Inntal Gericht Tauer in
+                besagten Dorf Absom. Selbes Frau Bild ersah es seine
+                Tochter in obiger Stund zum ersten Mahl, als dan des
+                Tochter Muter die mit ein nassen Tüechl abtrucknen will,
+                als dan der Herr Pfarrer zu Absom des gleichen
+                getan, aber umsonst. Da ware ein Zu Lauf des Volk.
+                Den 21. Ferbuäry wurde die Sache untersucht in Beisein
+                obiges Bauren und andrer 5 erbahren Nachbarn.
+                Nach etlichen Tagen wurde dieses Bild den besagten
+                Bauren in geheim zu behalten übergeben bis weitere
+                Verordnung. Den 26. Mörz d. J. war der Auß-
+                märsch zum Landsturm wider den Francosen Feind,
+                da wurde in Gegenwart einer Menge Volk durch einen
+                Knaben dieses Bild von Baurn Haus in daß nechste
+                Pfarr Gots Hauß St. Michael in das Dorf Absom
+                processionsweis übertragen, auf den Hoch Altar
+                gestölt, als dan über ein Zeitl von der Geistlichkeit
+                auf einen Seithen Altar übersetzt worden, wo als
+                dan von viel: und weithen Wohlfarter zahlreich
+                ankomen: Es geschahen viele Wunder und Miräckel.
+                Absom ligt von hie 20 Stund.
+             </p>
+             <pb xml:id="MWB_pb_0654" n="654" facs="#mss_ed000055_00665"/>
+          </div>
+          <div xml:id="A_a_Antlaß" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Antlaß.</orig>
+                   <reg>Antlaß</reg>
+                </choice>
+             </head>
+             <p>
+                Antlaß Fest, Procession, oder Umgang an den
+                Fromleichnam Fest, hat den Ursprung von der
+                frommen Jungfrau Juliänus zu Littich, unter der Rö-
+                mischen Pabsten Urbanus den 4.ten- ao: 1230 hinach
+                ao: 1764 ist diese Procession untre die ganze
+                Christenheit außgebreitet worden. 
+             </p>
+          </div>
+          <div xml:id="A_a_Anbetung" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Anbettung.</orig>
+                   <reg>Anbettung</reg>
+                </choice>
+             </head>
+             <p>
+                Die ewige Anbettung des Hochwürdigsten
+                Sacrament des Altars bei Tag und Nacht ist von
+                unser gnädigsten Kayser: und Königin Maria
+                Theresia ao: 1775 in ganzen kaiserlichen Ländern
+                gestift worden.
+                Um hiesige Refier trift es alle Jahr in
+                Anfang Mörz.
+                Den 4. Mörz Kitzbichel, Jochberg, Reith und Aurach.
+                Den 5. deti St. Johann, Oberndorf, Elmau und Going.
+                Den 6. Mörz frue von 6 büß 9 Uhr Krichdorf.
+                Von 9 bis 10 Uhr Schwent von 10 bis 12
+                Uhr Kessen. Von 12 büß 1 Uhr Waidring,
+                von 1 büß 2 Uhr St: Ulrich. Von 2 bis 3 Uhr
+                St. Jakob zu Hauß, von 3 bis 4 Uhr Hochfilzen
+                und von 4 biß 6 Uhr Fieberprun.
+             </p>
+          </div>
+          <div xml:id="A_a_Ainsidler" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Ainsidler.</orig>
+                   <reg>Einsiedler</reg>
+                </choice>
+             </head>
+             <p>
+                Die Wald Brüeder, Klausner, oder so genante Ainsidler
+                sind den 14. February ao: 1782 in Tyrol und anderen
+                kayserlichen Ländern ganz aufgehoben und abgestölt
+                worden auß hohen Befehle und sie müssen in Welt Stand:
+                und Gwand leben.
+                
+                <pb xml:id="MWB_pb_0655" n="655" facs="#mss_ed000055_00666"/>
+                In Kitzbichler Gericht sind 5 Ainsidler gewesen,
+                der
+              <list type="simple"><item>  1. an Klobenstain nechst Kessen. Von Klobenstäin lise
+                hernach Folio 690.</item><item>
+                2. Am Kaiserspach ober Litzlfelden.</item><item>
+                3. und 4.te- Ainsidler zu Kitzbichel und
+                der</item><item>
+                   5.te- in Jochberger Wald.</item></list> Von Jochberg Wald Kirchl lise
+                hernach Folio 683.
+             </p>
+          </div>
+          <div xml:id="A_a_Arme" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Arme Leith.</orig>
+                   <reg>Arme Leute</reg>
+                </choice>
+             </head>
+             <p>
+                Die Armen Leith haben in Tyrol, wie auch in anderen
+                Ländern ihr klein Brod von Haus zu Haus
+                gesamlet. Vor ungefähr 105 Jahren hat ein 
+                gnädiger Herr Dechent von St. Johann zu den Armen
+                Innstut viel Kapitäl Geld gestift. Bei ao: 1760
+                sind in diesen und mehr Landgerichten die Armen
+                Leith auf die ansessige Untertan einquatiert
+                worden und in Gericht Kitzbühl 6 Armen Spital
+                Heuser erricht worden, in jeden Vietl eines worinen
+                beilich 70 Persohnen ernört: und verpflegt
+                werden. In ganzen Gericht ist ein Ober Arme Leith
+                Vater: oder Kässier gesetzt worden. Vor 25
+                Jahren hat selle Kässer über 1000 f. Kapitäl, ehe vor noch
+                mehr. Ao: 1791 ist die Arme Leit
+                Einquatierung samt den Kässier in diesen Gericht wiederum
+                aufgehoben worden. Diese Rechnung stet unter den
+                6. Vietlen. Waß der Empfang an Zins, Stiftung
+                und Samblung für die arme Spital Häuser Leith
+                nicht betragt müssen die Viertl nach den Steur
+                
+                <pb xml:id="MWB_pb_0656" n="656" facs="#mss_ed000055_00667"/>
+                Fueß darauf bezahlen. Dermahlen hat jedes Viertl ihr
+                Armen Leith in Spitallern selbst zu verpflegen über ihre
+                Einkienfte. Ao: 1794 hat eine ehrsame
+                Jungfrau die ehvor bei den Herrn Dechent zu St. Johann als
+                Köchin gedienet, auf die Arme Innstut in diesen
+                Gereicht 1300 f. an Gold verschaft. Wen die Arme
+                Instut zergehet, so gehört solches Geld den St.
+                Johannser Pfarr Armen Leithen laut Vermächt.
+             </p>
+          </div>
+          <div xml:id="A_a_Amtleute" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Amt Leith.</orig>
+                   <reg>Amtleute</reg>
+                </choice>
+             </head>
+             <p>
+                Denen Amt Leithen, oder so genanten Gerichts
+                Dienern in Gericht Kitzbichl: Ist daß ihr
+                begehrende Stär Haber /:wo sie alle Jahr ehevor ein gewisse
+                Quantum einsetzen:/ neto ein altes Haber Stär um
+                ½ Mäßl weniger als daß gangbare neue Wiener Stär,
+                wo aber der neue Gerichts: oder Sportl Tax /:der ao: 1771
+                aufkomen:/ gefiert würd, in solchen Orten hat der
+                Amtman gar keinen Haaber zu fordern, weil er von
+                Sportl Tax daß 9.tl zu ziehen und von jeder Meil 12 X
+                Raiß Geld hat laut Gerichts Ordnung Wien den 13. April
+                ao: 1771. Ao: 1792 ist von den Fürst
+                Lambergischen Gerichts Herrn denen Amtleithen daß 9.tl- oder
+                
+                <pb xml:id="MWB_pb_0657" n="657" facs="#mss_ed000055_00668"/>
+                neunten Kreutzer Tag Geld entzohen worden.
+               <list type="simple"><item> 1. Amtman zu Obern Dorf der vor etlich Jahren
+                St. Johann und Kirchdorf zu befehlen und unter
+                sein hat, ehe vor auch Pillersee.
+                Kurze Abschrift des Abschieds
+                VertragZwischen denen Gerichts Leithen gemeiniglich des Land
+                Gericht Kitzbichel als Kläger: und N. des Stifts
+                Salzburg Urbars Leithen zu Waidring, auch der
+                Inhaber der 7 Güether der Klöster und Hauß Zins
+                Leithen zu besagten Waidring, in Landgericht Kitzbichel
+                gelegen als Antworter: daß die beklagte
+                Urbars Leit in Waidring auch ihr Gebiehr in
+                Erbauung des abgeprunen Amtman Hauß zu
+                Oberndorf beizutragen schuldig sind, beschehen zu
+                Innsprugg den 22 Ocotber ao: 1515.</item><item>
+                2. Amtman zu Kitzbichel.
+                ao: 1637 ist daß Amthaus zu Kitzbichel, samt
+                Keuchen erbaut worden, wo die Viertl darin zahlen
+                haben müssen.
+                Ao: 1810 ist vermög bayrischer Gesätz der Amtman zu
+                Kitzbichl Ober Amtamn worden, der 2 Knecht
+                unter seiner hat. Die andere sind besoldiert und
+                abgesetzt worden. Auf das Gei müssen die
+                bestelte Cordonisten gehen, die Befehle werden
+                nicht mehr /:wie ehe vor:/ bubliciert, sondern bei
+                bairisch Zeit durch das Regierungs Blat:
+                
+                <pb xml:id="MWB_pb_0658" n="658" facs="#mss_ed000055_00669"/>
+                und anjetzto durch die umlauffende Corenter Befehle
+                bekannt gemacht. Die Bollicey Sach haben die besagtn
+                Cordonisten.</item><item>
+                3. Amtman war zu Fieberprunn in Viertl Pillersee vor
+                ao: 1810. Auch hat dieser Amtman Waidring zu
+                versehen gehabt. Von Pillerse hat ehemahl ihr Amtman
+                alle Jahr 44 ½ stärk Haaber und 6 ½ X. in Geld
+                einzusetzen.</item><item>
+                4. Amtman halt sich in Viertl Kessen auf, biß
+                ao: 1810. </item></list>
+             </p>
+          </div>
+          <div xml:id="A_a_Abdecker" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Abdöcker.</orig>
+                   <reg>Abdecker</reg>
+                </choice>
+             </head>
+             <p>
+                Die 6 Abdöcker in Gericht Kitzichel haben
+                meistens für ihr Arweit von den Insitzern Haaber
+                einzusetzen.
+                Den 13.ten- Juni ao: 1793 ist bei Obrigkeit zu
+                Kitzbichel zwischen denen 6 Viertlen und Abdöckern ein Exträct aufgericht worden, der
+                aber nicht aller Dings zu ständten komen ist.
+                Nemlich jeder Abdöcker muß in sein Bezierch, wie
+                vorher arweiten, und wen in ein Viertl
+                ein Vich falt, so in ein anders Viertl gehört, so solle
+                jeder Abdöcker in sein Bezirch auf arweiten,
+                
+                <pb xml:id="MWB_pb_0659" n="659" facs="#mss_ed000055_00670"/>
+                gehört es in diesen Gericht hin wo es will, und die
+                Haut von ein Pferd samt Eisen und Geschir den
+                gehörigen Insitzer zustellen /:nicht die Haut
+                behalten wie biß däto geschehen:/. Für dieses
+                hat der Abdöcker für ein Pferd 1f. für
+                eine Kue 30 X. für ein 2 jähriges Rindl 24 X.
+                und für ein Jähriges deti 18 Xer zu begehren.
+                Auf dieses haben sich die Viertheiler
+                unterschriben.
+                1. Abdöcker in Jochberg.
+                2. Abdöcker in Reitter Viertl.
+                3. Abdöcker in St. Johann am Rettenbach.
+                4. Abdöcker zu Kirchdorf, hat auch Waidring,
+                und von beiden Orten den gebreichig:
+                bestimten Haber zu holen /:jetzige Zeit
+                bekomt er für Viertl Kirchdorf von
+                Vierheiller daß Geld für den Haaber :/. Daß Abdöcker
+                Hauß muß Viertl Kirchdorf: und Waidring
+                bauen und erhalten. Ao: 1679 hat Viertl
+                Kirchdorf solches Hauß in der Au nechst Jägeregg
+                gekauft und den 12. Mey ao: 1809 ist solches von
+                der königlich-bairischen Millitär abgeprant
+                worden.
+                5. Abdöcker in Pillersee, der hat von solchen Viertl
+                44 ½ Stär Haaber und 6 ½ X. Geld jährlich
+                einzuhollen. Ao: 1787 hat die Gemeinde Pil-
+                
+                <pb xml:id="MWB_pb_0660" n="660" facs="#mss_ed000055_00671"/>
+                lersee daß Abdöcker Hauß neu erbaut, weil es daß
+                Wasser ehe vor verissen hat.
+                6. Abdöcker in Kessen, der würd von jeden Stück Viech so
+                er auf arweit bezalt.
+                <pb xml:id="MWB_pb_0661" n="661" facs="#mss_ed000055_00672"/>
+             </p>
+          </div>
+       </div>
+       <div xml:id="B" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>B</reg>
+             </choice>
+          </head>
+          <div xml:id="B_Buchdruck" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Buch Trucken.</orig>
+                   <reg>Buchdrucken</reg>
+                </choice>
+             </head>
+             <p>
+                Die Buch Truckerey in Deutschland hat ao :1440 der
+                Johann Gutenberg ein deutscher Ritter von Mainz und
+                sein Mitconsort erfunden.<note type="annotation" anchored="true">
+                   Vgl. Abraham, Judas 1, PDF658
+                </note>
+                Und würd neben mehr Orten in folgenden Städten Büecher
+                getruckt, als zu Augspurg, Amberg, Burghausen,
+                Bassau, Bruck, Chöln, Cholmar, Frankenau, Frankfurt,
+                Ginzburg, Grätz, Innspruck, Ingol Stadt,
+                Landssperg, Leipzig, Lucern, Minichen, Mainz, Pamberg,
+                Passau, Salzburg, Würzburg, Weissenburg in
+                Franken.
+             </p>
+          </div>
+          <div xml:id="B_Bruderschaften" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Bruderschaften.</orig>
+                   <reg>Bruderschaften</reg>
+                </choice>
+             </head>
+             <p>
+                Es sind fast zu jeden lobwürdigen Gots Hauß auf
+                anlangen der Geistlichen und Gemeinden in salzburgisch:
+                bairischen, Tyrol und anderen Ländern mehr, von
+                ihro Päbstlichen Heiligkeit und dero gesetzten Pischöfen
+                lobliche Erz- und Gemeine Bruderschaften verlichen und
+                gegeben worden. Die fast in verschlossnen 75
+                Jahren her aufkomen und hat jede Gesätz: Regel: und
+                Fester, auch Vermögen Käpitäl, samt Stiftung an
+                Jahrtägen und dergelichen. Aber ao: 1783
+                sind auß hohen Befehle die Bruderschaft Käpitälien
+                denen Bruderschaften abgenomen worden, zur Religion
+                Kässer, Schulfund und Armen Instut. Ao: 1786
+                haben die Bruderschaften in Kitzbichel 31.000 f.
+                Kapitäl Vermögen gehabt. Ao: 1790 komt von
+                Bruderschaft Käpitäl Zinsen alle Jahr 775 f. zum
+                Schlufund: oder Schullehrer in Gericht Kitzbichel.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0662" n="662" facs="#mss_ed000055_00673"/>
+          <div xml:id="B_Bußprediger" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Buess Prediger..</orig>
+                   <reg>Bußprediger</reg>
+                </choice>
+             </head>
+             <p>
+                Die so lobliche Missionäri: oder so genante Buess
+                Prediger, so von ihro kaiserlichen Mayestät [s.] in ganzen
+                Tyrol gestift sind, bestet in 4 erwürdige <hi rend="italics">Pater</hi>
+                Jesiwitter von der Gefolgschaft Jesu. ao: 1724 haben
+                sie das erste mahl in Kitzbichler Gericht geprediget. Sie
+                komen fast über 12 Jahr in das vorige Ort, wo sie
+                etliche Täg Vormittag und Nachmittag predigen und Lehren
+                halten mit Ernst und Eintringlichkeit. Sie komen nicht
+                in jedes Gots Hauß /:zum bei Spiel Pillersee auf
+                Fieberprun:/ Bei mein Verfasser diß Gedanken sind
+                ao: 1762 und 1776 ankomen, seit hero nicht mehr.
+                Die neben den Gots Häusern stehende Buess Kreutz, wo
+                Ablas zu gewinen sind des Andenken. 	
+                <pb xml:id="MWB_pb_0663" n="663" facs="#mss_ed000055_00674"/>
+             </p>
+          </div>
+       </div>
+       <div xml:id="E" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>E</reg>
+             </choice>
+          </head>
+          <div xml:id="E_Einstand" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig>Einstand</orig>
+                <reg>Einstand</reg>
+             </choice>
+          </head>
+             <p>
+                Daß Einstand Recht ist ao: 1787 denen Bluts
+                Freindten und Guths Inhobern auß welchen
+                Guth es komen: und gebrochen, welches vorhero
+                auf jeden Kauf ein Jahr lang offen
+                gestanden verbothen: und aufgehöbt worden
+                laut hoher Befehle.
+             </p>
+       </div>
+          <div xml:id="E_Em" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Em</orig>
+                   <reg>Em</reg>
+                </choice>
+             </head>
+             <p>
+                Em genant in Tyrol, von Ratenberg
+                entseit deß Innstram, 1 Stund von Jenbach hinauf
+                ligt selbes Gots Hauß auf ein ganz hohen ebenen
+                Ort mit ein hohen Spitz Thum. Alda ruhet die heilige
+                Jungfrau Notburga Leib stehent, Tyrol Lands
+                Patronin. Dieselbe Notburg ist ao: 1265 in unter
+                Inthal zu Ratenberg von burgerlichen fromen Eltern
+                gebohren worden. Da sie 18 Jahr alt war dienet sie
+                bei Herrn Heinrich Graf von Schloß Rottenburg
+                jenseit des Inn oberhalb Ratenberg in einer Höhe,
+                wo anjetzto ein ohnbewohnt: zusamen gefallenes Schloß
+                zu sehen 6 Jahr lang und ein kurze Zeit bei den
+                jüngern Grafen Eheleithen. Die Junge Gräfin war
+                sehr geitzig gegen den Armen Leithen. Hernach
+                dienet die tugentreiche Notburg bei einen Baurn
+                auf der Em, nechst bei St. Rupert Kapel oder
+                Kirchl und wartet den Viech und dienet darbei Gott.
+                Aldort ist daß bekante Miräckel in Schnid mit der
+                Sichl geschehen. So bald sie 28 Jahr alt war kome sie
+                wieder in obiges Schloß zu den jungen Grafen
+                
+                <pb xml:id="MWB_pb_0664" n="664" facs="#mss_ed000055_00675"/>
+                in Dienst, nach dem sie 19 Jahr daß letztere mahl dort
+                fleissig gedient so ist sie den 14. Sebtember ao: 1313
+                ihres Alter 48 Jahr seelig gestorben. 2 Ochsen
+                zohen ihren Heiligen Leib, auß Anschaffung der Notburg
+                zu: und durch den Innfluß in Jenbach. Dort haben
+                die Ochesn gerast, wo jetzt die Kapel stehet. Die Ochsen
+                gehen als dan auf die Em zu vorbemelten St.
+                Rupert Kapel, wo die Ochsen  nicht mehr weiter gangen sind mit
+                dem heiligen Leichnam, biß sie den seeligen Leib aldort
+                begraben. Es ware vil Volk so nach gangen bei der
+                Begräbnus. Alda geschehen hernach viele Wunder Mirä-
+                ckel. Über 121 Jahr ao: 1434 ist eine Kirch über St.
+                Rupert Kapel gebaut worden, nebst einen ansehlichen
+                Kirchen Thurn zu Ehre St. Notburg ein geweichet. Die
+                Heilige Notburg in selber Kirch erhoben, und auf den
+                Hoch Altar gestölt, wo sie anjetzto noch wunderbarlich
+                zu sehen. Über 81 Jahr, ao: 1515 hat Kayser Mäx-
+                imilian der 1.te- des Namens daß Kirchen Gewölb
+                aldort bauen und schen zieren lassen. In selber Kirch sind
+                3 Altär und 2 geistliche dort, samt viel Vätif: oder
+                Miräkel Täfel, die ao: 1784 auß Befehle hoher
+                Stelle /:gleich wie in andern Orten:/ abweck getan
+                worden. Daß Schlos Rottenburg ist 2 mahlen
+                abgeprunen, aber das Zimer wo die heilige
+                Notburg gestorben ist ohn verletzt bliebn. Daß Fest
+                St. Notburg ist den 14. September.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0665" n="665" facs="#mss_ed000055_00676"/>
+          <div xml:id="E_Elend" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Elent.</orig>
+                   <reg>Elent</reg>
+                </choice>
+             </head>
+             <p>
+                Um die Zeit ao: 1628 ist auf den Innfluß ein
+                Crucifix Bild mit Mäntel um gürtet auf den
+                Wasser hergerunen und auf einen Wasser Strodl nechst
+                den Benedictiner Kloster Aull ober Wasserburg
+                Lands Bayrn Bistum Freising bei Elent stehen
+                bliben, biß es dortiger Kloster Fischer heraus
+                genomen und in sein Heusl getragen. Auß
+                Befehle des Prälaten ist es dort neben den Inn auf
+                gesettz: und darneben ein grosse Kapel erbaut
+                worden. Hernach ao: 1665 ist die Kapel worin 2 Altä-
+                re sind zu Ehren des gekreutzigten Jesu: und seiner
+                schmerzhaften Mutter Maria ein geweicht worden,
+                wo dort: und jetzige Zeit viel Wunder und Miräkel
+                geschen. 
+                <pb xml:id="MWB_pb_0666" n="666" facs="#mss_ed000055_00677"/>
+             </p>
+          </div>
+       </div>
+       <div xml:id="F" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>F</reg>
+             </choice>
+          </head>
+          <div xml:id="F_Feuerschäden" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Feuer Schäden.</orig>
+                   <reg>Feuerschäden</reg>
+                </choice>
+             </head>
+             <p>
+                Von dem Feuer ist etwas vor Folio 116 gemelt worden.
+                Der grosse Heilige Florian Martierer ist in Feuer Gefahr
+                ein Hilfs Patron, dessen Fest den 4. Mey ist.
+                Einge Feuer Schäden.
+               <list type="simple"><item> ao: 1590 sind zu Pfaffenschwend in Pillersee 11 Heuser
+                abgeprunen.</item><item>
+                ao: 1780 in Markt Seelun Land Tyrol sind 120
+                abgeprunen.</item><item>
+                ao: 1793 sind in Markt Vöglbrugg in Ober Oestereich
+                viele Heuser verprunen.</item><item>
+                ao: 1795 sind in der Stadt Haal in Tyrol 48 Fiert
+                abgeprunen.</item><item>
+                ao: 1797 ist zu Neu Eting in Bairn etwas abgeprunen,
+                wie vor Folio 419 zu sehen.</item><item>
+                ao 1809 den 12. May hat der bairisch Kriegs Einfahl
+                von Waidring biß St. Johann 53 Häuser abgeprent,
+                wie hernach Folio 842 zu lesen.</item><item>
+                Eben ao: 1809 den 18 May hat selbe bairische Millitär in
+                Markt Schwatz in Tyrol 414 Heuser verprent, wie
+                hernach bein K. Folio 848 zu sehen.</item><item>
+                ao: 1811 sind in Markt Salfelden 108 Heuser
+                abgeprunen wie vor Folio 399 findig.</item></list>
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0667" n="667" facs="#mss_ed000055_00678"/>
+          <div xml:id="F_Feichten" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Feuchten.</orig>
+                   <reg>Feichten, Bayern</reg>
+                </choice>
+             </head>
+             <p>
+                Die ur alte löbliche Pfarr Kirch zu Feuchten in
+                der königlich: bairischen Herrschaft Gericht Wald an
+                der salzburgischen Gränz gelegen. Schon ao:
+                877 ist von Erz-Pischof zu Salzburg 40.tä-
+                giger Ablaß auf Feichten verlihen worden.
+                Da neben wo jetzige Kirch stet die Mätäriällen
+                zusamen gefiert worden, um aldort eine Kirch
+                zu Ehre Gottes und seiner Mutter Maria zu bauen:
+                so ist in einer Nacht /:ohn zweifelbar:/ von einen
+                Engel die erste Mätäriäl von selben Ort: zu den Ort
+                wo jetzt die Kirch stehet getragen worden: und dort
+                wurde daß Gebäu angefangen und fort gesetzt, und von
+                Mund zu Mund offenbart daß dieß steinerne
+                Mariänisch Gnaden Bild in ein Feuchtern grossen
+                Baum wunderlich erfunden worden ist. Daß Bild ist
+                3 ½ Werk Schuch hoch, hat das Jesu Kindlein auf den
+                linggen Arm und würd derowegen Maria Feuchten
+                genent: Jetziges Gots Haus ist von ao: 1502
+                biß ao: 1518 gleichsam von lauter Almosen neu
+                erbaut worden, darin sidn 6 Altär. Die Kirch ist
+                auswenidg 133 Werk Schuch lang, biß an das Gewölb
+                53 solche Schuch hoch. Der Thurn mit Blech gedöckt mit
+                schenen Geleit versehen /:wie ich Verfasser Augenzeig
+                bin:/ Ein Orgel mit 14 Registern seit ao: 1749, daß
+                Titularfest Maria Himelfart. Von hie auf
+                Maria Feichten 16 Stund Weegs.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0668" n="668" facs="#mss_ed000055_00679"/>
+          <div xml:id="F_Fieberbrunn" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Fieberprun.</orig>
+                   <reg>Fieberbrunn</reg>
+                </choice>
+             </head>
+             <p>
+                Fieberprun würd auch Prämau genent, ligt in der
+                Hofmark Pillersee, von hie 4 Stund. Der Namen Fiberprun
+                ist vor mehr als 325 Jahren aufkomen. Die erste
+                Krich aldort ist ao: 1446 erbaut und eingeweicht
+                worden, ao: 1642 ist die Kirch und Thurn inwendig
+                abgebrunen, samt Herrn: und Mesner Hauß. Jetzige Kirch
+                ist 33 gwer Schuch braid, darin 3 Altär. Ao: 1772
+                hat selbes Gotts Hauß 5066 F. Vermögen.
+                Fieberprun ist ein Vikäriät seit den 16. December ao: 1555.
+                Ist alzeit ein geistlicher Benedictiner von Kloster Roth in
+                Bairn alda der 2.te- Geistliche kam nach Fieberprun
+                ao: 1765. In dieser Kreutztracht sind bei 1450 Beicht
+                Kinder. Die Kirche ist ao: 1784 etwaß erneuert,
+                erweiter und verpessert worden. Die gemeins
+                Kreutztracht Fieberprun hat ao: 1772 pr 3179 F. in Käpitäl Vermögen.
+                Der Freithof zu Fieberprun ligt oberhalb der Kirche, den
+                1.ten-Ocotber ao: 1767 ist er eingeweicht worden. Von da biß
+                1.ten- Februäry ao: 1777 sind in 9 ½ Jahren 342
+                Persohnen begraben worden.
+                Ao: 1812 ist die Pfarr von St. Ulrich auf Fieberprun komen.
+                Die St. Johann von Nepomuk Kapellen zu oft besagten
+                Fieberprun ist ao: 1761 zum aller erst neu erbaut
+                worden mit ein Märmol Stäinern Altar. Zu diesen Gebäude
+                sind 900 Fueder Stain gebraucht worden. Ao: 1765
+                ist die erste Heilige Meß darin gelesen worden. Den
+                28. October 1787 hat daß Achen Wasser die Sacristei
+                samt Kor verissen, hernach wiederum erricht worden.
+                <pb xml:id="MWB_pb_0669" n="669" facs="#mss_ed000055_00680"/>
+             </p>
+          </div>
+          <div xml:id="F_Feiertagsaufhebung" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Feuertäg dispersiert.</orig>
+                   <reg>Feiertage dispensiert dispersiert.</reg>
+                </choice>
+             </head>
+             <p>
+                Ao: 1773 ist von ihro päbstlichen Heiligkeit
+                verordnet worden, außgebothenen Feuertägen, viele
+                wie bekant dispensierte zu machen. Ist an solchen
+                das arweithen erlaubt und die Apostel Vorabend
+                Fasttäg sind etwaß auf die Mitwoch in Advent über-
+                legt worden. 
+             </p>
+          </div>
+          <div xml:id="F_Futterschnitt" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Fuederschitt Haaber.</orig>
+                   <reg>Futterschnitt Hafer</reg>
+                </choice>
+             </head>
+             <p>
+                Fuederschitt Haaber in Ktizbichler Gericht, welchen der
+                Fürst von Lamberg einhollet, muß alle Jahr in der
+                ganzen Wochen nach Heiligen drey Königen auf
+                Kitzbichel gelifert werden,
+                als
+               <list type="simple"><item> Am Montag daß Reitter Viertl.</item><item>
+                Am Erchtag Schitt daß Jochberg Viertl.</item><item>
+                Am Mitwoch St. Johanser Viertl.</item><item>
+                Am Pfingstag Viertl Kirchdorf.</item><item>
+                Am Freitag Kessner Viertl und</item><item>
+                am Sambstag daß Viertl Pillersee, gibt jährlich 395
+                Kasten Stär.</item></list>
+                Urbar Waidring gibt oder zalt 26 Kasten Stär.
+                Es würd von ein jeden Ort etwaß geschitt und
+                etwaß bezalt, weil er nach Landswert taxiert würd,
+                zum Beispil ao: 1791 und 1792 ä: Kasten Stär 44 Xer.
+                und 1806 daß Kasten Stär gar auf 2 f. 22Xer. taxiert
+                worden.
+                5 jetzt gangbare Stär: oder halbe Wiener Metzen
+                sind ento 4 Kästen Stär, 1 Kasten Stär ist
+                9 ½ Wiener Mässl. 1 ½ altes Rogg Stär ist
+                
+                <pb xml:id="MWB_pb_0670" n="670" facs="#mss_ed000055_00681"/>
+                eben 1 Kasten Stär. ao: 1786 haben die 6 Viertl
+                bevor Viertl Reit den Fueder Schitt Haaber nicht mehr
+                geben wohlen, vermög neuen Sportl Tax den der
+                Gerichts Herr von Lamberg beziecht wie den Haaber,
+                aber die Viertl haben lieber den haaber geben als
+                weiter protestiert.
+             </p>
+          </div>
+          <div xml:id="F_Fisch" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Fisch und wie viel Ley.</orig>
+                   <reg>Fischarten</reg>
+                </choice>
+             </head>
+             <p>
+                Fisch hat der Heilige Petrus als er noch ein Fischer
+                war einstens in sein Netz 153.ig Lei: und Gattungen
+                gefangen, und so viel Ley Fisch sind in Meer und
+                Wasser Flüssen, nach Laut der Lehren von <hi rend="italics">Pater</hi>
+                Abraham. Der Namen etlicher, als
+                1. der Wald Fisch, von diesen lise hernach Folio 968.
+                2. Der Stock Fisch, der 3 Gattung Häring, 4. Kärpf-
+                fen, 5. Roggen, 6. Spitz Gotschete Hechten, 7.
+                Plateisl, 8. Frillen, 9. Sar-hechdellen, 10. Ruthe,
+                11. Schleilache, 12. Persing, 13. Alen, 14.
+                Hausen, 15. Ferchen, 16. Dollen, 17. Sälbling,
+                18. Aeschen, 19. Bunin, 20. Stirl, 21. Polipus,
+                22. Volken, 23. Bräxen, 24. Rottaigl, 25.
+                Grundler, 26. Schaiden, 27. Koppen, 28. Üunin,
+                29. Barben, 30. Gareisel Fisch, und
+                dergleichen.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0671" n="671" facs="#mss_ed000055_00682"/>
+       </div> 
+       <div xml:id="G" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>G</reg>
+             </choice>
+          </head>
+          <div xml:id="G_Grundherrschaften" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Grund Herrschaften.</orig>
+                   <reg>Grundherrschaften</reg>
+                </choice>
+             </head>
+             <p>
+                Grund Herrschaften sind in Landgericht Kitzbichl
+                72ig so der meiste außländ: außwertige sind,
+                welche alle Briefereyen und viele Stift Mähler
+                haben,
+                als<lb/>
+                1. Die Frauen Kiemseerisch wo die Raüch von jeden
+                hundert 1 F. ist, bei Todfahl 2 F. 2. Kloster
+                Rottisch war samt mehr ganz Pillersee. Von Kloster
+                Rot lise hernach Folion 687<note type="annotation" anchored="true">
+                   nachträglich klein dazugeschrieben.
+                </note> 3. Die richterisch Grund
+                Herrschaft, 4. Hof urbarisch Salzburg, von jeden hundert
+                5f: Anlait: oder Raich. 5. Thum Kapitlisch ist eben
+                salzburgisch, 6. Kloster St. Zennisch, 7. Herrn
+                Kiemseerisch, 8. Högweinisch, als dan Pellisch von
+                Augsprug, zu letzt Kloster Rotisch, Erz-Stift
+                Salzburgisch so die 9.te- ist, 10. Raitten Haslerisch in
+                Bairn, 11. Kurfürst: jetzt königlich Kasten Amt
+                Marquatstain, 12. Kloster Altemau in Bayrn,
+                13. Kloster Seeran in Bayrn, 14. St. Peter in
+                Salzburg, 15. Alt Mienzerisch, samt mehr.
+                Die innländische Grund Herrschaften
+                sind 1. Kitzbichl Urbarisch, 2. Kapolan Spitälisch, 3. K: K.
+                Religion Fund zu Prixlegg, 4. Benefici: oder Jäger Meß
+                Grundherrschaft zu Kundl, ist jetzt obig Religion Funds,
+                5. Graf Tanabergisch, 6. Rosenbergisch, 7. die ewig
+                gestifte Spitäl Meß zu Kitzbichel. Kirchen oder
+                Gotsh Hauß Grundherrschaften sind:. 8. Gots Hauß Walchsee,
+                9. Gots Hauß St. Johann, 10. St. Stephan Gots Haus
+                
+                <pb xml:id="MWB_pb_0672" n="672" facs="#mss_ed000055_00683"/>
+                zu Kirchdorf, 11. Gots Hauß zu Kessen, 12. St. Adäläni
+                Gots Hauß in Pillersee, 13. St: Rupert Gots Hauß zu
+                Aurach, 14. St. Nikolai Gots Hauß zu Spitäl, 15. Loblich
+                Frauen Kloster Maria Thal, 16. Camanidet der <hi rend="italics">Pater</hi>
+                
+                <hi rend="italics">Domanikaner</hi> zu Kitzbichel, 17. Hoch adelich Minichau nechst
+                Kitzbichel, 18. Burger Spital zu Kitzbichel, 19. daß Lob[l]:
+                Berggericht Amt zu Kitzbühel, 20. Stalburgisch Maria Stain.
+                ao: 1803 in Monat April sind fast alle bayrische Klöster
+                von ihren Kurfüsten Mäximilian Joseph lizidiert: und
+                aufgehoben worden, und die Grund Herrschaft von
+                bairisch und salzburgischen, waß Grund in Tyoll ligt
+                erbt: und bekomt der Kayser. Es komet auch kein
+                bairischer Kloster Religios Geistlicher ins Tyrol mehr.
+             </p>
+          </div>
+          <div xml:id="G_Geld" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Geld.</orig>
+                   <reg>Geld</reg>
+                </choice>
+             </head>
+             <p>
+                Numa Bobilus schreibt, das Suidas den ersten
+                Pfenig von Ärz und Metal geschlagen hat.
+                Geld an Gold und Silber gibt es jetzt mehr als vorzeiten.
+                Jezige Zeit, das Geld die regiert die Welt und verfiert die
+                Welt. <lb/>
+                Ao: 1762 ist die Silber Schid oder klein Minz in Tyrol
+                abgeschaft worden, dafür Kupffer Scheid gemacht
+                worden. <lb/>
+                Von 1. November ao: 1784 sind in Wien die erstn Bänko Zelten gemacht worden, daß ist Papier mit
+                Schrift, Wappen und Zeichen, gelden in all keiserlichen
+                
+                <pb xml:id="MWB_pb_0673" n="673" facs="#mss_ed000055_00684"/>
+                Städten und Ändern zu 1 F. 2F. 5F. 10F. 25 F.
+                50 F. 100 F. und 500 F. nach Unterschied des Ziffer.
+                Sie sind fast in gleiche Grösse, sie gehen in Schwung
+                bei 23 Jahr lang aber 1807 da Tyrol bairisch
+                war sind solche Bänko Zetlen in Abschlag komen.
+                Da hat man es mit Schaden 1 F. Zetl von 30 biß
+                40 Xr. außgeben und wexlen könen. Sie
+                komen in das Oestereich. 
+             </p>
+             <div xml:id="G_Geld_Gewicht" org="uniform" sample="complete" part="N">
+                <head>
+                   <choice>
+                      <orig>Gewicht.</orig>
+                      <reg>Münzgewicht</reg>
+                   </choice>
+                </head>
+                <p>
+                   Minz Gewicht <lb/>
+                   4 Silber Pfening Gewicht ist 1 Quintlein,
+                   4 Quintlein ist 1 Lot, 8 Lot ist 1 Vierling,
+                   4 Vierling ist 1 Pfund, 16 Lot ist ein Mark: oder
+                   halbes Pfund, 32 Lot ist eben 1 Pfund, und 1000 Pfund
+                   ist 1 Zenten. Von Gold Gewicht
+                   3 Gren ist 1 Gran, 4 Gran: oder 12 Gren ist
+                   1 Karat und 24 Karat ist 1 Mark: oder
+                   halbes Pfund. 
+                </p>
+             </div>
+          </div>
+          <div xml:id="G_Glocken" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Gloggen.</orig>
+                   <reg>Glocken</reg>
+                </choice>
+             </head>
+             <p>
+                Daß Gloggen Giessen hat erfunden Paulinus
+                genant unter den Pabst Sabiniänus ao: 604.
+                Von Gloggen Klang stet daß Unzüffer auf
+                Schlangen und dergleichen, und von Schiessen legt
+                sie sich nieder und verschlieft sich, bevor in Itä-
+                lien zu Mändua: Vor etlich Jahren
+                kost 1 Zenten Glogg 75 F. Daß Pfund 45 Xr.
+                Für ein alte umgiessen kost der Zenter 10 F.
+                
+                <pb xml:id="MWB_pb_0674" n="674" facs="#mss_ed000055_00685"/>
+                auf 10 Pfund, get [ff] in Feuer auf, also von
+                jeden Pfund 6 Xr. Giesser Lohn, daß Pfund
+                Metal kost 19 X.
+                Anjetzto werden einige grosse Gloggen benent,
+                als
+               <list type="simple"> <item>die grosse Glogg zu Moscau, wo 24 Männer zu leithen haben,
+                sihe vor Folio 486.</item><item>
+                Die Gloggen in der Stadt Lugdum wigt 250 Zenten.</item><item>
+                Die Glogg zu Tolosa wiget 500 Zenten.</item><item>
+                Eine Glogg zu Erfurt wigt etliche hundert Zenten, an
+                selber müssen 24 Mann leithen. Dero Klang würd auf
+                7 Stund gehöret,
+                und</item><item>
+                mehr andern grosse Gloggen sind an ihr Ort: oder Stadt
+                beschriben.</item></list>
+             </p>
+          </div>
+          <div xml:id="G_gestorben" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Gestorben zu Waidring.</orig>
+                   <reg>Gestorben zu Waidring.</reg>
+                </choice>
+             </head>
+             <p>
+                Gestorben: und begrabene Persohnen zu
+                Waidering in 35 Jahren, von ao: 1780 bis ao: 1814 .
+                Beede in <hi rend="italics">clasire</hi>, 
+                zwar sumärisch doch nach Standes
+                und Geschlecht Unterschied, als- 3 geistliche Herren,
+                Beicht Kinder 103, ledige Manns Bilder 83,
+                ledige Weibs-Bilder 75, verheirate Männer
+                60, verheirate Weiber 41, Wittiber 60, 60
+                Wittibin und 214 Kinder ohne Beicht, zusammen
+                639 Persohnen. Über die 214
+                Kinder ohne Beicht sind in diesen Jahren 222 manlich:
+                und 203 weibliche gestorben.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0675" n="675" facs="#mss_ed000055_00686"/>
+          <div xml:id="G_Goldsamstag" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Golderne Sambstäg.</orig>
+                   <reg>Goldener Samstag</reg>
+                </choice>
+             </head>
+             <p>
+                Von den 3 goldenen Sambstägen schreibt Matheo
+                Brandel ist der Ursprung von den fromen gottseeligen
+                Kayser Ferdinant des 3.ten- von ao: 1647 her.
+                Diesen ist die heilig Mutter Gottes Maria erschienen
+                und hat die 3 Sambstag nach Michaeli zu ehren
+                eingeraten, seit hero sind sie empor komen. 
+             </p>
+          </div>
+          <div xml:id="G_Gruß" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Grueß.</orig>
+                   <reg>Gruß</reg>
+                </choice>
+             </head>
+             <p>
+                Gelobt sey Jesus Chrsitus, Antwort, In
+                Ewigkeit: oder Amen. Der war ein loblicher
+                Grueß, auf solchen hat Pabst Benedictus der 11.te-
+                viele Ablaß den der andächtig gruest und
+                antworten verlichen. Ist unter die
+                Christenheit aufkomen den 12. Jenner ao: 1728.
+             </p>
+          </div>
+          <div xml:id="G_Georgenberg" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>St. Georgenberg</orig>
+                   <reg>St. Georgenberg</reg>
+                </choice>
+             </head>
+             <p>
+                In dem Hoch Gebürg St. Georgen Berg in Tyrol
+                ist ein Mariänisch Wohlfart Ort mit vorgestelten
+                Versperbild. Aldort würd auch verehret ein
+                Heiliges Blut so ein Priester verschit [s]. Am St.
+                Georgen Berg sind 2 Kirchle wo Herrn Benedictiner
+                von Kloster Fiecht welche es versehen. Nechst
+                darbei ist ein sehr hoche Pruggen und auf Welt
+                ewig etliche Stund außgemärchte Freiung für die Übel
+                Däter. Daß besagte Wohlfart Ort ist schan über
+                825 Jahr lang. In Gnaden Kirchl sind 5 Altäre.
+                Ao: 1784 ist unser Lieben Frau Kleidung abgetan
+                worden, dafür geschietz: und gemahlen worden, auch
+                
+                <pb xml:id="MWB_pb_0676" n="676" facs="#mss_ed000055_00687"/>
+                alle Vätif: oder Miräckel Täfel hinweck geraumt, auf
+                Befehle hoher Stellen [s.]. St. Georgenberg ligt von hie 18 Stund. 
+             </p>
+          </div>
+          <div xml:id="G_Gmain" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Gmain</orig>
+                   <reg>Bayerisch Gmain</reg>
+                </choice>
+             </head>
+             <p>
+                Gmain genant, ligt in den hohen Erz-Stift
+                Salzburg, wo daß beriemte Gnaden Bild Maria auf der
+                Gmain, ein stehende Maria Bildnuß, hat das Jesu
+                Kindelin auf der linggen Hand, ihr Höhe 4 salzburger Schuch
+                und 9 Zahl, die Materi auß gegossnen Steine. Dises
+                Gnaden Bild ist das ältiste in Salzburger Land ao: 1090
+                hat es der Heilige Erz-Pischof und Martirer Thiamo
+                alhero gebracht und hat es den Grafen von der Gmain
+                geschenkt. Daß Bild wurde 10 Jahr in einer ohn achtbaren
+                Kapel auf behalten. Ao: 1539 in den Gots Hauß Gmain
+                auf einen Altar übersetzt und ao: 1742 auf den
+                jetzigen herrlichen Hoch Altar gestelt, wo vil Hilf
+                Wunder und Miräckel geschehen. Das Ort Gmain haben die
+                St. Zenno Kloster geistliche Herrn Augustiner zu
+                versehen, ligt von hie 7 ½ Stund.<note type="annotation" anchored="true">Restliche Seite unbeschrieben</note>
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0677" n="677" facs="#mss_ed000055_00688"/>
+          <pb xml:id="MWB_pb_0678" n="678" facs="#mss_ed000055_00689"/>
+       </div>
+       <div xml:id="H" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>H</reg>
+             </choice>
+          </head>
+          <div xml:id="H_Hoheherren" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Hohe Herren.</orig>
+                   <reg>Hohe Herren</reg>
+                </choice>
+             </head>
+             <p>
+                Hohe Herrn: oder Häupter werden nach laut <rs type="person" ref="#abraham_pater"><hi rend="italics">Pater</hi> Abraham</rs> also betitlet und genenet,
+                als 
+               <list type="simple"><item> Der Pabst Ihr Heiligkeit</item><item>
+                Der Kayser und König Ihr Mayestöt.</item><item>
+                Der Kardinäl Ihr Eminenz.</item><item>
+                Die meiste Edl Leit Ihr Gnaden.</item><item>
+                Der Bürger Mäister (</item><item>
+                Der Stadt Richter</item><item>
+                   Der Secretärius) Ihr Gestreng [s.].</item><item>
+                Der Dechant (</item><item>
+                Der Probst</item><item>
+                Der Thurn Herr Ihr Hochwürden)</item><item>
+                Der Preister, und (</item><item>
+                der <hi rend="italics">Pater</hi>)      </item><item>                            
+                Ihr Ehrwürden. </item></list>
+             </p>
+          </div>
+          <div xml:id="H_Hofschmalz" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Hof Schmalz.</orig>
+                   <reg>Hofschmalz</reg>
+                </choice>
+             </head>
+             <p>
+                Hof Schmalz, ist in die Innspruckerische Hof Kamer
+                ein gelifert worden, wofür jedes Pfund Gesotnes
+                7 ½ Xer Wiener Wehrung bezalt worden. Die 4
+                Viertl St. Johann, Kirchdorf, Pillersee, und Kessen
+                haben die auf Alpmer fahren in der Woche nach
+                Galli 50 Zenten Schmalz erlegen müssen, wobei
+                Viertl St. Johann 33 Zenten Pfund und Viertl
+                Pillersee 14 Zenten 72 [tt:]. ao: 1790 ist daß
+                Hofschmalz zu geben aufgehebt worden.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0679" n="679" facs="#mss_ed000055_00690"/>
+          <div xml:id="H_Haus" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Hauß in Pillersee.</orig>
+                   <reg>Haus in Pillersee bzw. St. Jakob</reg>
+                </choice>
+             </head>
+             <p>
+                Hauß: oder St. Jakob in der Hofmarch Pillersee
+                von hie 2 ¾ Stund gelegen, war ehe vor ein Filiäl
+                zue Kirch auf die Pfarr St. Ulrich, alda ist der
+                Heilige Apostel Jakobus Meyor Kirchen Patranus.
+                ao: 1273 ist zum ersten Mahl alda ein Kirche
+                erbaut worden. Ao: 1689 haben die Schne Lähnen 
+                die Kirch biß zum Spitz Thurn: oder Kor zusam
+                gerenet zu einen Stain Hauffen. Biß ao: 1767
+                gehören die von der Kreutztracht Fieberprun
+                Todter auf Hauß. Ao: 1787 komet auch Hauß
+                ein beständiger Geistlicher hin, in daß neu erbaute
+                Herrn Hauß. 
+             </p>
+          </div>
+          <div xml:id="H_Hochfilzen" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Hochfilzen.</orig>
+                   <reg>Hochfilzen</reg>
+                </choice>
+             </head>
+             <p>
+                Hochfilzen in Pillersee, von hie 3 ½ Stund,
+                alwo ein Vikäriät. Ao: 1680 ist aldort aus
+                einer Feld Kapellen ein Loreta Kirchl erbaut
+                worden, worin ao: 1697 die erste Heilige Meß
+                gelesen worden. Ao: 1708 ist selbes Kirchl
+                samt den Würths-Haus abgeprunen, die Kirche
+                nur außwendig, als dan ist es wiedeum
+                erricht worden, und ao: 1745 grösser erbaut wie
+                sie anoch stet. Um selbe Zeit ist ein Ordinäri
+                Benedictiner Geistliche hinkomen, ehe vor
+                gehören die Inwohner auf der Hochfilz nach
+                St. Ulrich Pfaar. Ao: 1785 ist aldort ein
+                Freithof erricht und eingeweicht worden. 	
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0680" n="680" facs="#mss_ed000055_00691"/>
+          </div>
+       <div xml:id="I" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>I</reg>
+             </choice>
+          </head>
+          <div xml:id="I_Impfung" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Impfung.</orig>
+                   <reg>Impfung</reg>
+                </choice>
+             </head>
+             <p>
+                Impunfg der Kuhpocken für Kinder Blattern
+                hat erst vor einigen Jahren der Docktor Jenner ein
+                englischer Arz bekannt gemacht, auf folgente Begebenheit.
+                Die Küe haben zu Zeit: und Weilen in ihr Milli Eitern
+                Blatern. Wen Kinder die noch nicht die Blatern gehabt,
+                solche Küe melchen, und hat ein Kind Bletzen: oder ein wenig
+                Hand Wundten, und komt von der Kue so Autter Platern
+                hat, ein wenig in Kind Bletzen oder Wundten hinein, so
+                bekomt diese Kind die Blatern nicht mehr, also würd
+                diese Impfung Kuhpocken, oder Schutzbocken genent.
+                Ao: 1807 ist solche nutzliche Impfung für Kinder
+                Blatern von Kaiser und König befolchen worden.
+                In Bamberg Profinz sind ao: 1804, 5 und 1806 an den
+                natirlichen Blatern 1343 Kinder gestorben.
+                In solcher Profinz sind ao: 1804, 5, 6 und 7 in
+                diesen 4 Jahren 13.287 eingeimpft worden.
+                Anjetzto würd diese Impfung in allen Kirchen Gemeinden
+                jährlich in Somer vorgenommen.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0681" n="681" facs="#mss_ed000055_00692"/>
+          <div xml:id="I_Interessezins" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Interesse Zins.</orig>
+                   <reg>Interesse Zins</reg>
+                </choice>
+             </head>
+             <p>
+                Interesse, daß ist Georgi Zins betreffent.
+                In Gericht Kitzbichl ist um die Zeit ao: 1600 breichig von
+                100 F. außgelichen oder sonst schuldigen Käpitäl all
+                jährlich um Georgi 5 bis 6 F. Zins zu geben. Aber
+                von ao: 1700 an und bis däto ist üeblich 4 F. von
+                100 F. Interesse zu geben, daß ist zu 4 Procento.
+                Um die Zeit ao: 1790 gebens in salzburgischen Ziller Tal
+                und Prixenthal von jeden hundert 4 F. 30 Xer
+                Interesse. In salzburgischen Gericht Lofer von 1 Hundert
+                nur 3 F. und 3 F. 30 Xer. Interesse. Seit ao: 1808
+                müssen die Kirchen: und Herrschaft Käpitälien zu 5
+                Procento verzinset werden.
+             </p>
+          </div>
+          <div xml:id="I_Jäger" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Jäger.</orig>
+                   <reg>Jäger</reg>
+                </choice>
+             </head>
+             <p>
+                Jäger, die so genante Reiß- oder Pern Jäger
+                um die Zeit ao: 1603 sind Hannß Widmoser und
+                Peter Kendler beede zu Waidring, für Waidring: und das
+                Vietl Pillersee über das wilde Wild, auch Pern, Lux,
+                Wölf und dergleichen schadhaften Vich Thieren Reiß
+                oder Pern Jäger gewest und haben von Insitzern
+                so viel Haaber zu setzen und zu hollen gehabt als jetzt
+                der S. V. Abdöcker einholet. Ao: 1617 ist ihen das
+                gangbare Stär Haber 9 xer taxiert worden.
+                Nach denen die Reiß- oder Pern Jäger abkomen, so
+                sind von Lands Fürsten Jäger auf das Wildprät
+                gestelt worden, Schaden Tier hat es wenig mehr
+                geben. 
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0682" n="682" facs="#mss_ed000055_00693"/>
+          <div xml:id="I_St_Johann" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>St. Johannes.</orig>
+                   <reg>St. Johann</reg>
+                </choice>
+             </head>
+             <p>
+                Die St. Johann Pfarr ist eine Dechentey in Gericht
+                Kitzbichel, von hie oder Waidring 3 ½ Stund, alwo anjetzto
+                ein kaiserliche Post: und Märsch Stätion ist.
+                Aldaige Pfarr Kriche ist gros, ist ao: 1725 üebr die Land
+                Strassen hinüber vorn Grund auf neu erbaut
+                worden worin 5 Altär, 2 Thurn darin 5 Gloggen.
+                Den 20.ten- July ao: 1773 haben sie ein neue Glogg
+                bekomen und aufgezohen. Ist hoch biß in die Kran 4 ½ Schuch
+                weit 6 Schuch 4 Zahl, in Gewicht 60 Zenten 60 Pfund,
+                hat gekost 5040 F. 50 Xr 1 [dt] komt der Zenten
+                83 F. 10 Xer, sind darbei 15 [tt.] englisch Zinn, 1 [tt]
+                Metal kost 19 Xr, diese Glogge kost 46 neue Stär Waiz
+                so der Horngacher gefilt: und geschenkt hat. Die
+                vorhin gewest Glogt wigt 28 Zenten.
+                Ao: 1788 ist auß Verordnung hoher Stelle der
+                Kirchdorffer Winkl auf St. Johann kommen biß Mosen nechst Furt
+                samt 3 Heuser nechst Pernstötten. Wie damahls
+                Obern Dorf hindan komen lise hernach Folio 925.
+                Diese 2 Ort sind in geistlichen Sachen gwexlet worden.
+                Ehevor hat Martin Reister gewester Herr Dechent
+                in St. Johann ein Priester Hauß gestift, wo
+                geistliche Cleri: das sind Welt Geistliche Peteriner wie in
+                Dechent Hof darin sind.
+                Nechst besagten Gots Hauß St. Johann ligt das St.
+                Antoni Koppl Kirch, welches ao: 1667 neu erbaut und
+                ao :1674 eingeweicht worden. Ao: 1774 ist
+                
+                <pb xml:id="MWB_pb_0683" n="683" facs="#mss_ed000055_00694"/>
+                aldort in St. Antoni Kirchl daß erste Secolum mit
+                einer herrlichen Procession gehalten worden, wo
+                ich Schreiber dieß Augenzeug war.
+                Nach denen die <hi rend="italics">Pater</hi> Käpuciner zu Kitzbichl wie Folio
+                689 findig ein Kloster erbaut, so komen die <hi rend="italics">Pater</hi>
+                Francisgäner ein, zu St. Johann ein Kloster für
+                sie zu erbauen, so aber nicht geschehen ist. 
+             </p>
+          </div>
+          <div xml:id="I_Jochberg" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Jochberg</orig>
+                   <reg>Jochberg</reg>
+                </choice>
+             </head>
+             <p>
+                Jochberg ist ein Vikäriät mit 2 geistlichen Peteriner.
+                Die Kirche ist ungefehr vor 58 Jahren neu erbaut
+                wroden, alwo der Heilige Wolfgang Kirchen Patron, in
+                der Kirche 5 Altär, ligt von Waidring 8 Stund.
+                Jochberg Wald ist ein unser Lieben Frauen Wohlfart Ort,
+                alwo ein kleines Ainsidl Kirchl, wo öfter heilige Messen
+                gelesen werden, gehört zu Jochberg wobei ein guter
+                Wasser Brunen. Ligt von ihr 10 Stund.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0684" n="684" facs="#mss_ed000055_00695"/>
+       </div>
+       <div xml:id="K" org="uniform" sample="complete" part="N">
+          <head>
+             <choice>
+                <orig/>
+                <reg>K</reg>
+             </choice>
+          </head>
+          <div xml:id="K_Klosteraufhebung" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kloster Aufhebung.</orig>
+                   <reg>Klosteraufhebung</reg>
+                </choice>
+             </head>
+             <p>Ao: 1775 sind die Jesuwitter Köster abgesetzt: und
+                aufgehoben wordne, wie hernach Folio 923 zu lesen.
+                Ao: 1782 sind auf Verordnung Kaiser Joseph in Tyrol und
+                andern kaiserlichen Ländern die Frauen Klöster
+                aufgehoben wordne, die Kloster Frauen werden in Welt
+                Stand: und Gwand jährlich besoldiert.
+                Wie die Karteiser Klöster aufgehoben lise Folio 919.
+                Ao: 1803 in Monat April sind von Kurfürsten Mäximilian
+                Joseph; fast ein ganzen Bayrn die Herrn und Frauen
+                Klöster licidirt und aufgehoben worden. 
+             </p>
+          </div>
+          <div xml:id="K_Kirchweichfest" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kirchweichfest.</orig>
+                   <reg>Kirchweihfest</reg>
+                </choice>
+             </head>
+             <p>Ao: 1786 ist von ihre Mayestät des Kaiser [s.] mit Gut
+                Achten der höhern Geistlichkeit befohlen worden, das
+                in gnazen Tyrol alle Kichweichfester, den 3. Sontag in
+                October sollen gehalten werden wie geschehen. 
+             </p>
+          </div>
+          <div xml:id="K_Kirchenkrippen" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kirchen Krippl.</orig>
+                   <reg>Kirchenkrippen</reg>
+                </choice>
+             </head>
+             <p>Krippl zu Weichnachten biß Lichtmessen, solche in
+                denen Kirchen aufzurichten, un die Geburt Chrisit
+                vorzustellen hat der Heilige Francisco von Äsis
+                ao: 1208 angefangen und eingraten. 
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0685" n="685" facs="#mss_ed000055_00696"/>
+          <div xml:id="K_Kalender" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kalender der Fester.</orig>
+                   <reg>Kalender der Feste</reg>
+                </choice>
+             </head>
+             <p>Kaldender, oder Aufschreibung Tafl der beweglichen Festen
+                des Herrn, die sich jährlich verändern.
+                NB: wen 2 Sontag Buchstaben sind, so ist es ein Schalt Jahr,
+                der erstere Buchstabe gilt biß auf den Tag des Heiligen
+                Matheuas, darnach gilt der 2.te
+                Von ao: 1800 biß auf ao: 1829 zu sehen.<note type="annotation" anchored="true">
+                   Tabelle der Feiertage noch nicht eingefügt.</note>
+             </p>
+             <p>
+                <pb xml:id="MWB_pb_0686" n="686" facs="#mss_ed000055_00697"/>
+                <note type="annotation" anchored="true">
+                   Tabelle der Feiertage noch nicht eingefügt.</note>
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0687" n="687" facs="#mss_ed000055_00698"/>
+          <div xml:id="K_Kalk" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kalch.</orig>
+                   <reg>Kalk</reg>
+                </choice>
+             </head>
+             <p>Kalch: und Kalchofen betreffent, daß Kalchofen
+                Holz solle von 5 biß 6 Schuch lang sein. Von solchen
+                Holz sol von jeder Klafter 2 Mtuh Kalch werden.
+                Die Muth halt 30 Stär, ohn abgelöschter von Ofen
+                her. Vor 25 Jahren hat die Muth 1f: 30Xr
+                ä: Stär 3xr. kost, jetzt ist der Kalch viel teurer. 
+             </p>
+          </div>
+          <div xml:id="K_Klosterrott" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kloster Rott.</orig>
+                   <reg>Kloster Rott</reg>
+                </choice>
+             </head>
+             <p>Kloster Rott am Innfluß in Ober Bayrn von
+                hie 17 ½ Stund gelegen, ist ao: 1073 für Herrn
+                Benedictiner gestift worden, ist ganz neu und
+                brächtig erbaut. Die 3 Kirchen Gwölber haben an
+                der Stokator Arweit und Mahlrey 60 F. gekost.
+                In Gots Hauß 10 Altär, in Schatz Kasten aldort
+                wie ich vor 40 Jahren selber gesehen, sind vielle
+                Heiligtumer und Religquien. Zu diesen Kloster
+                hat ehe vor die ganze Hofmark Pillersee mit
+                geist: und weltliche Sachen gehört wo 2500
+                Seelen sind. Auch hat selbes Kloster die Pfarr
+                Kötzing in unter Bayrn wo 3000 Schäflien zu
+                versehen gehabt. Ao: 1803 ist Kloter Rott
+                von Kurfürsten aufgehöbt: und lizidiert
+                worden. 
+             </p>
+          </div>
+          <div xml:id="K_Kirchwald" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kirchwald.</orig>
+                   <reg>Kirchwald</reg>
+                </choice>
+             </head>
+             <p>Kirchwald nechst Nußdorf in Ober Bairn
+                ligt von hie 12 ½ Stund. ao: 1644 hat
+                
+                <pb xml:id="MWB_pb_0688" n="688" facs="#mss_ed000055_00699"/>
+                hat sich Michael Schöpfel der zu Iglau in Mähen unkatolischen
+                Eltern gebohren zur katolischen Religion bekennt und hat sich
+                gleich darnach auf jetzigen Kirchwald ober halb den Stainbach
+                begeben, hat im dort eine Klausen erbaut und wurde da
+                ein Ainsidler. Darauf ist er nach Rom Wohlfarten
+                gereiset und hat dort von Pabst Urbanus den 8.ten- dem
+                Maria Meyer Bild zu Rom gleich gemahlens Frau Bild
+                zu schenken bekomen und er hat es auf den Kirchwald
+                in einer hilzernen Kapelle neben seiner Klausen Zelle
+                gesetzt. Das Wasser nechst darbei hat den Vich: und
+                Menschen geschadt so jemand getrunken. Aus Vorbit des
+                Ainsidl ist durch Maria dieser Prunen in ein Gesundheit
+                Prunnen verkehret worden. Nach denen dieser Ainsidl
+                alda 20 Jahr from gelebt, ist er den 18. Jenner ao: 1667
+                seelig gestorben. Hernach wurd ein anderer frommer
+                Ainsidler den 22 September ao: 1698 ist diese Kapelle
+                von Karolli Sigmundi Pischof von Kiemsee ein geweicht
+                worden. Wegen vielle der Wohlfahrter war die Kapelle zu klein,
+                nach dem ao: 1710 der Ainsidl Thamas Görz gestorben,
+                da wurde der Fräter Cäsimans Weis ein Würths Sohn
+                von Nußdorf zum Priester geweicht und wurde
+                geisticher Ainsidl in Kirchwald. Er hat mit seinen Vermögen
+                und mit bei Hilf Simon Untergrueber Bauer zu Überfilzen in Jahre 1770 ein gröseres neues Gots Hauß
+                mit 3 Altäre, 2 Gloggen samt neben beien neue
+                Klausur erbaut, wo seit hero von diesen Mariänischen
+                Wunderbild viele Hilfwunder und Miräckl geschehen sind. 
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0689" n="689" facs="#mss_ed000055_00700"/>
+          <div xml:id="K_Kitzbühel" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kitzbichel.</orig>
+                   <reg>Kitzbühel</reg>
+                </choice>
+             </head>
+             <p>Kitzbichel, alwo das Pflegt Urbar, Stadt: und Landgericht
+                ist, ein Städl, ligt von hie 6 Stund,
+                darin
+               <list type="simple"><item> 1. Die St. Andrei Vikäriät Kirch, mit einem Kopl Thurm,
+                worin 5 Gloggen, in der Kirche 6 Altär, ao: 1473
+                ist diese Kirch erbaut worden.,die Geistliche sind
+                <hi rend="italics">Pater Domonikaner</hi>. Man ist der Meinung diese haben die
+                Vikäriät zu einer Sterbzeit bekomen, weil selbe die
+                Kranke besucht, die Sacrament mit geteilt und die
+                Todte begraben.</item><item>
+                2. Das Maria Hilf oder Frau Kirchl, um selbes ligt der Gots
+                Acker, in Kirchl 1 Altar. Da ist ein grosser Turn worin
+                3 Gloggen, die gröste wigt 66 Zenten, ist bei obig Kirch
+                Erbauung ao: 1473 gegossen worden.</item><item>
+                3. In der Spital Kirch 1 Altar und kleiner Sptiz Thurn.</item><item>
+                4. In der St. Katarina oder Stadt Kirch ist 1 Altar und
+                Wachter Spitzthurn, worin die görste Glgogt nur bei 12 Zt:
+                wiget.</item><item>
+                5. Und bey <hi rend="italics">R.R.P.P</hi> Kapuciner Kloster Kirch auser
+                der Stadt, worin 4 Altäre und kleiner Thurn.
+                ao: 1694 ist solches Kloster zu erst erbaut worden. </item></list>
+             </p>
+             <div xml:id="K_Kitzbühel_Malefizpersonen" org="uniform" sample="complete" part="N">
+                <head>
+                   <choice>
+                      <orig>Kitzbichl Gerichte Mallefitz Persohnen.</orig>
+                      <reg>Kitzühbler Malefizpersonen</reg>
+                   </choice>
+                </head>
+                <p>
+                   Zu Kitzbichel sind Mallefitz Persohenen zum Tod
+                   verurteilt und gericht worden.
+                  <list type="simple"><item> 1. ao 1720 ist dort ein Weibs Bild geköpft worden.</item><item>
+                   
+                   <pb xml:id="MWB_pb_0690" n="690" facs="#mss_ed000055_00701"/>
+                   <note type="crit_app" anchored="true">Fehler in der Paginierung, ursprünglich 699 ausgebessert.</note>2. Den 11. Agugust ao: 1758 ist Stephan Schipfl von Filzen in
+                   Pillersee wegen Sänhit Hauß und dessen Alp Hitt Mord Brand,
+                   erwürgt und verprant worden.</item><item>
+                   3. Den 21. Jenner ao: 1775 ist Georg Milberger von Kessen
+                   wegen Diebstal geköpft worden.</item><item>
+                   4. Den 19. September ao: 1811 ist Georg Stöckl 22 Jahr alt, ein
+                   Au Schmied Sohn von Kirchdorf geköpft worden, weil er den
+                   Jakob Piberger ein Lederer Gesöhl in Monat Juny d. J. bein
+                   Stopffenau Muehr in der Nacht bedachtsam ermord wegen
+                   12 F. Geld. </item></list>
+                </p>
+             </div>
+          </div>
+          <div xml:id="K_Kössen" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kessen</orig>
+                   <reg>Kössen</reg>
+                </choice>
+             </head>
+             <p>
+                Kessen war ehe vor ein Vikäriät mit 3 geistlichen
+                Augustiner von St. Zeno Kloster, ist ein reich: zierliches Gots Hauß
+                worin 4 Altär. ao: 1786 ist bei ein Gewässer daß Wasser
+                in die Kirche komen. Kessen ligt von Waidring 4 Stund.
+             </p>
+          </div>      
+          <div xml:id="K_Klobenstein" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Klobeinstain.</orig>
+                   <reg>Klobenstein</reg>
+                </choice>
+             </head>
+             <p>
+                Klobenstain stehen zwey ein: und bei ein ander kleine Kirchl,
+                eine halbe Stund von Kessen gelegen, gehört zu besagter
+                Vikäriät Kessen, ist ein marianisch Wohlfart Ort in der
+                Land Gränz zwischen Tyrol und Bairn, würd all Sambstag
+                dort eine heilige Mess gelesen, auch werden die 3 goldene
+                Sambstäg gehalten. Der Namen Klobenstein komt her, will
+                aldort ein hoch grosser Stain ganz von ein ander kloben ist.
+             </p>
+          </div>
+          <pb xml:id="MWB_pb_0691" n="691" facs="#mss_ed000055_00702"/>
+          <div xml:id="K_Kirchdorf" org="uniform" sample="complete" part="N">
+             <head>
+                <choice>
+                   <orig>Kirchdorf.</orig>
+                   <reg>Kirchdorf</reg>
+                </choice>
+             </head>
+             <p>
+                Die alte Pfarr Kirchdorf waren ehe vor 4 geistliche Herrn
+                Augustiner von Koster St. Zenno. In St. Stephan Gots
+                Hauß Kirchdorf sind 4 Altär, ein langer Spitz Thurn,
+                worin 3 Gloggen. Ao: 1677 die Stäpulier Bruderschaft
+                alherkommen, ao: 1778 daß erste Seculum 3 Tag herlich
+                gehalten worden. Ao: 1717 ist die grosse Glogg kauft
+                worden so in Gewicht 24 Zenten.
+                Ao: 1788 ist der Kirchdorffer Winckl in geistlichen Sachen
+                auf St. Johann komen, wie vor Folio 682 gemelt und 4
+                Häuser von solchen Winkl als Herauser Grueb, Wissen, Hinter:
+                und Vorder Mayrhofen sind auf die Kreutztracht
+                Fieberprun komen.
+                Ao: 1801 sind in der Pfarrsgemeind Kirchdorf 30
+                Persohnen gebohren und 36 Persohnen gestorben.
+                Ungefehr ao: 1022 hat Kaiser Heinrich der Heilige, die
+                Pfarr und Kirche zu Kirchdorf gestift, hinnach 1176
+                ist diese Pfarr zum Kloster St. Zenno komen. Ao: 1393
+                war eine Kirche zu Kirchdorf von Georg Pischof zu Kiemsee
+                ein geweicht worden. Ao: 1707 die 3 Seithen Altär
+                alda, ao: 1807 ist wegen dieser ein 3tägiges Seculum
+                gehalten worden.
+                Neben den Gots Hauß stehende Kaiser Heinrich Kirchl
+                worin 1 Altar, in kleinen turn 2 kleine Gloggen, in
+                Altar war Kaiser St. Heinrichus und die Heilige
+                Kunigunda seine Ehefrau Haupt Patrane.
+                Aber leider ao: 1809 den 12. Mey hat die bayrische
+                Kriegs Ärme dieses Gots Hauß samt all Ornät und 14
+                Häuser in Dorf abgeprant, wie folio 842 zu lesen.
+                
+                <pb xml:id="MWB_pb_0692" n="692" facs="#mss_ed000055_00703"/>
+                Weilen die alten 5 Gloggen in Kirchdorf ganz
+                zerschmolzen sind, so kauften die Guttäter ao: 1810 in
+                Monat August wieder 2 neue Gloggen, die grössere
+                wiget 31 Zenten 45 Pfund, die kleinere 19 Zt: 52 [tt]
+             </p>
+          </div>
+      
+       </div>
+   
+    </body>
+  
+    </text>
+</TEI>

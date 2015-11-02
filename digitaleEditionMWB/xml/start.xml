@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+]>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/teiP5/tei-p5-transcr.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Weltbeschreibung des Leonhard Millinger</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr type="crossRef" target="http://www.hab.de"/>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc> <p/>
+             </sourceDesc>
+        </fileDesc>
+        </teiHeader>
+    <text>
+        <body>
+            <div type="series">
+                <p>Editiones Electronicae Guelferbytanae 12</p>
+            </div>
+            <div type="title"> 
+                <head>Die Weltbeschreibung des Leonhard Millinger
+                    </head>
+                <p/>
+            </div>
+            <div type="editor">  
+                <p>Herausgegeben von</p>
+                <p>Peter Andorfer</p>
+               <p></p>
+               
+                <p>  - WORK IN PROGRESS [Stand: 05.11.2013] -</p>
+            </div>
+            <div type="illustration"> 
+                <p><figure facs="http://diglib.hab.de/edoc/ed000223/images/edoc-ed000223-titlepage.jpg">
+                    <figDesc>Titlepage</figDesc>
+                </figure></p>
+            </div>
+            <div type="funder"/>
+            <div type="impressum">
+                <p>Herzog August Bibliothek · Wolfenbüttel  2013</p>
+            </div>
+        </body>
+     </text>
+</TEI>

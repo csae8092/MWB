@@ -1,0 +1,78 @@
+Suche mit „Antconc“ mit dem RegEx Ausdruck: (); X Treffer
+Buch vs. Buech
+(\w*[bB]uch\w?\s): 164 Trffer
+(\w*[bB]uech\w?\s): 6 Treffer
+
+Bücher vs. Büecher und Buecher
+(\s*[bB]ücher\w?\s*): 11 Treffer
+(\w*[bB][uü]echer\w?\s*): 45 Treffer
+
+\s[Bb][uü]ech\w*: 70 Treffer
+\s[Bb][uü]ch\w*: 226 Treffer
+
+Biechl; Biechern
+(\s[Bb]ie\w?ch\w*): 21 Treffer
+
+
+
+
+
+Getreide:
+([gG][eE])(*[tT]r[ae][iy]d/*);60;<rs type="term" ref="#getreide">$1$2</rs>
+([kK][oe]rn\w*);47;<rs type="term" ref="#getreide">$1</rs>
+
+
+Landgericht +  Kitzbühel: 139 Treffer
+([gG]e*richt\w*\s*[kK]itz\w*)|([kK]itz\w*\s*[gG]e*richt\w*)
+
+Landgericht + Kufstein: 2 Treffer
+([Gg]e*ri\w*\s*[kK]u\w*)|([kK]u\w*\s*[Gg]e*ri\w*)
+
+Landgericht + Rattenberg: 4 Treffer
+([Gg]e*ri\w*\s*[rR]at*e*[n]b\w*)|([rR]at*e*[n]b\w*\s*[Gg]e*ri\w*) 
+
+Kreutztracht : 13 Treffer
+(\w*ztrac\w*)
+
+Werchat: 14 Treffer
+[wW]e*r*char*\w*
+
+Waidring : 120 Treffer
+\s([wW](a|e)in*+de*r\w*) 120 Treffer - aber auch falsche (Weindring)
+
+Kirchdorf: 95 Treffer
+\s[kK](ri|i)+e*rch*[dt]o\w*
+
+Abdecker: 18 Treffer
+[aA]bd[öe]c*k\w*
+
+Kompanie: 147 Treffer
+(([cC]|[kK])[ao]mp[oa]g?ni\w*)
+
+Schützen: 185 Treffer
+(\s[sS]ch(iü|i|ü)(tz|z)\w*)
+
+Sturm: 110 Treffer
+(\s[sS]t(ü|u)r*m\w*)
+
+Insurgenten : 10 Treffer
+([Ii]n*sur\w*)
+
+Publikum: 10 Treffer - 2 "falsche" (die ersten beiden)
+(\s[PpbB]u[pb]li[kq]\w*)
+
+Revier: 16 Treffer
+(Re[vf]ie*\w*)
+
+Bättälion: 18 Treffer
+([B]ätäl\w*)
+
+Landsleute: 33 Treffer
+([lL]an\w*\s*[lL]e[iuü]t\w*)
+
+Gemeinde: 55 Treffer
+(\w*[gG]e?m[ae][iy]n[td]\w*)
+
+"Gmein": 78 Treffer - dabei aber auch "Bayerisch Gmain", "Gemeint", "Gemeinschaft", "Gemeine [Soldat]"
+(\w*Ge?m[ae][iy]n\w*)
+

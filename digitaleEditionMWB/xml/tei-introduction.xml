@@ -1,0 +1,254 @@
+
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="edoc_ed000223_fg_introduction" xml:base="http://diglib.hab.de/edoc/ed000223/">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung</title>
+                <respStmt>
+                    <resp>Transkribiert und annotiert</resp>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+                <funder> Kulturverein Kirchdorf in Tirol, Universität Innsbruck, Tiroler
+                    Wissenschaftsfonds (TWF), Land Niedersachsen/Digital Humanities </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>15.10.2013</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <address>
+<street>Lessingplatz 1</street>
+<placeName type="city">Wolfenbüttel</placeName>
+<postCode>D-38299</postCode>
+<placeName type="country"/>
+</address>
+                </publisher>
+                <availability status="restricted">
+                    <p> Herzog August Bibliothek Wolfenbüttel ( <ref
+                            target="http://diglib.hab.de/?link=012">copyright information</ref> )
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic xml:lang="de">
+                        <author/>
+                        <title/>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <publisher/>
+                            <pubPlace/>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                    <note/>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="k1">
+                <head>Die Edition</head>
+                <div xml:id="k1.1">
+                    <head>Transkritption</head>
+                    <p>
+                        Mit der Aktualisierung vom 5. November 2013 liegt nun der gesamte Text der Weltbeschreibung in transkribierter Form vor. Diese Transkription basiert auf jener Transkription, die im Auftrag des Heimatpflegevereins <rs type="place" ref="#kirchdorf">Kirchdorf</rs> im Leukental erstellt wurde. In gedruckter Form und ergänzt um eine Einleitung zur Quelle und zur Person des Autors <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs>, ist diese seit dem Frühjahr 2011 im Heimatmuseum Metzgerhaus in <rs type="place" ref="#kirchdorf">Kirchdorf in Tirol</rs> sowie im <ref target="http://www.tiroler-landesmuseen.at/html.php/de/ferdinandeum/index.html">Tiroler Landesmuseum Ferdinandeum (TLMF)</ref> einsehbar. Ziel dieser im Kontext des <ref target="http://www.1809-2009.eu/">Gedenkjahr 2009</ref> der 200-Jahr-Feier der Tiroler Erhebung von 1809 begonnen Arbeit war es, den Text der Weltbeschreibung für ein breites und insbesondere nicht wissenschaftliches Publikum zugänglich und lesbar zu machen. Dieses Ziel spiegelt sich auch in den verfolgten Transkriptionsrichtlinien wider. Gemäß diesen wurde der Text zwar buchstabengetreu übertragen (Ausnahme u/v und i/j, wie zum Beispiel anietzto &#8594; anjetzto), die von <rs type="person" ref="#millinger_leonhard">Millinger </rs>praktizierte völlig unregelmäßige Groß- und Kleinschreibung wurde hingegen heutigen Standards angenähert. Selbiges gilt auch für die Getrennt- und Zusammenschreibung einzelner Wörter, sowie für die Interpunktion. Dass es sich bei all diesen Eingriffen in den ursprünglichen Text bereits um eine Interpretation desselben handelt, ist offenkundig, konnte aber aufgrund der wenig einheitlichen Schreibweise <rs type="person" ref="#millinger_leonhard">Millingers</rs> wie auch der knappen finanziellen Ressourcen, mit denen dieses Projekt vorangetrieben wird, nicht vermieden werden. Die Veröffentlichung der Faksimiles der gesamten Weltbeschreibung erlaubt aber jederzeit eine Überprüfung und Korrektur des hier präsentierten Lesevorschlages der Weltbeschreibung. Denn nur als solches soll die Transkription verstanden werden. 
+                    </p>
+                    <p></p>
+                </div>
+                <div xml:id="k1.2">
+                    <head>
+                        Teilung und Hierarchisierung des Textes
+                    </head>
+                    <p>
+                        Um angesichts der großen Datenmenge die Ladezeiten möglichst kurz halten zu können, war es notwendig, die dieser Edition zugrunde liegende xml-Datei (<ref target="http://diglib.hab.de/edoc/ed000223/tei-transcript-mwb.xml">tei-transcript-mwb</ref>) in mehrere, dafür aber kleinere Dateien zu überführen. Eine solche Trennung des gesamten Textes in die Teile 1 bis 6 sowie in den als letzten Teil geführten „<ref type="metsID_index" cRef="#MWB_pb_r1">Index</ref>“ ist so im Original der Weltbeschreibung nicht zu finden. Allerdings wurden die Teilungen an größeren thematisch-inhaltlichen Zäsuren vorgenommen, wobei etwa die Teile 2 und 3 die eigentliche Weltbeschreibung, die Beschreibung der Erde und der Kontinente Asien (<ref type="metsID" cRef="#MWB_pb_0139">Teil 2</ref>), Europa, Afrika und Amerika (<ref type="metsID" cRef="#MWB_pb_234">Teil 3</ref>) umfassen oder <ref type="metsID" cRef="#MWB_pb_0693">Teil 5</ref> die Kriegsbeschreibungen <rs type="person" ref="#millinger_leonhard">Millingers</rs>. 
+                    </p>
+                   <p>
+                       Die Überschriften in der Transkription, die den Text in mehrere hundert Abschnitte bzw. Artikel aufsplittern, entsprechen den Seitenglossen aus der Handschrift. Aus diesen Überschriften bzw. Seitenglossen setzten sich auch die Inhaltsverzeichnisse zusammen, die am Beginn der Teile 1-6 aufklappbar sind und worin die jeweiligen Abschnitte auch direkt angesteuert werden können. Zur einfacheren Orientierung wurden für die Einträge im Inhaltsverzeichnis normalisierte Schreibweisen der Seitenglossen verwendet. Sofern noch keine solche normalisierte Schreibweise definiert ist, ist diese mit ??? markiert. Ebenfalls zur besseren Navigierung durch den Text wurden vereinzelt zusätzliche Überschriften eingeführt. Die in diesen Inhaltsverzeichnissen vorgenommen Hierarchisierung der Abschnitte, erkennbar an deren Nummerierung, ist hingegen nicht aus dem Original übernommen. Diese Hierarchisierung ist vielmehr das Ergebnis der Bemühungen, die von <rs type="person" ref="#millinger_leonhard">Millinger </rs>implizit verfolgte Textstruktur sichtbar zu machen. Aber auch wenn dieses Ergebnis mit der von <rs type="person" ref="#millinger_leonhard">Millinger </rs>mittels der Formatierung des Textes explizit gemachten Textstruktur weitgehend übereinstimmt, so handelt es sich dabei neuerlich nur um eine Interpretation der Weltbeschreibung. 
+                   </p>
+                    <p>
+                        Unverändert übernommen wurde hingegen der von <rs type="person" ref="#millinger_leonhard">Millinger </rs>angelegte alphabetisch geordnete <ref type="metsID_index" cRef="#MWB_pb_r1">Index</ref> der Seitenglossen/Überschriften. Aufgrund der vorgenommen Verlinkung der Seitenzahlen können die darin verzeichneten Artikel auch von hier aus angesteuert werden. 
+                    </p>
+                    
+                </div>
+                <div xml:id="k1.3">
+                    <head>
+                        Register
+                    </head>
+                    <p>
+                        Da die Auszeichnung der im Text vorkommenden Orts- und Personennamen erst versuchsweise an ausgewählten Stellen erfolgt ist, sind die entsprechenden Register erst in einem sehr rudimentären Stadium. Die Arbeiten am Register werden aber sukzessive und nach Abschnitten gegliedert fortgeführt. Zu welchen Abschnitten der Weltbeschreibung ein vollständiges Register vorliegt ist anschließend hier nachzulesen. 
+                    </p>
+                    <p>
+                        Sofern zu den ausgezeichneten Personen ein Eintrag in der <ref target="http://www.dnb.de/gnd">Gemeinsamen Normdatendatei (GND)</ref> vorliegt, wird im Register darauf verwiesen. Alternativ oder auch ergänzend werden auch andere Online-Ressourcen wie <ref target="www.wikipedia.de">wikipedia</ref> oder <ref target="http://www.deutsche-biographie.de/">NEB/ADB</ref> verlinkt. Im Ortsregister werden die Einträge mit den Datenbanken <ref target="http://www.geonames.org/">GeoNames</ref> und <ref target="http://www.getty.edu/vow/TGNSearchPage.jsp">Getty Thesaurus of Geographic Names</ref> verknüpft.
+                    </p>
+                    <p>
+                        Die Registereinträge werden auch mit jenen Textpassagen der Weltbeschreibung verlinkt, in denen diese genannt werden. 
+                    </p>
+                </div>
+                <div xml:id="k1.4">
+                    <head>
+                        Bibliographie
+                    </head>
+                    <p>
+                        Die Bibliographie ist zweigeteilt. Der erste Teil „Millingers Quellen“ nennt jene Titel, die von <rs type="person" ref="#millinger_leonhard">Millinger </rs>in der Weltbeschreibung genannt werden. Die Reihenfolge entspricht dabei jener in der Weltbeschreibung. Wie auch die Sekundärliteratur im zweiten Teil der Bibliographie, werden auch die Titel des ersten Teils mit ihren jeweiligen Einträgen in den einschlägigen Bibliothekskatalogen verlinkt. 
+                    </p>
+                </div>
+                <div xml:id="k1.5">
+                    <head>
+                        Auszeichnung inhaltlicher Übernahmen
+                    </head>
+                    <p>
+                        Über weite Strecken hat <rs type="person" ref="#millinger_leonhard">Millinger </rs> die Inhalte seiner Weltbeschreibung aus anderen Büchern übernommen. Eines der Hauptziele dieser Edition ist die Auszeichnung und der Nachweis all jener Passagen, die <rs type="person" ref="#millinger_leonhard">Millinger </rs> aus den von ihm verwendeten Büchern übernommen hatte. Wie am Beispiel <ref type="metsID" cRef="#MWB_pb_0236">Portugal</ref> zu sehen, wird dafür diesen 20 verschiedenen Titeln jeweils eine bestimmte Farbe zugewiesen umso die identifizierten Paraphrasen optisch zu markieren. Der genaue Quellennachweis erfolgt mittels Fußnote. Sofern das zitierte Buch online zugänglich ist, wird innerhalb der Fußnote direkt auf die entsprechende Seite verlinkt. In einer späteren Ausgabe der Edition soll die Anzeige der Farbmarkierung optional und nur bei Bedarf aktivierbar sein. 
+                    </p>
+                </div>
+                <div xml:id="k1.6">
+                    <head>
+                        Suche
+                    </head>
+                    <p>
+                        Die Suchfunktion ist derzeit noch deaktiviert. Neben einer registergeleiteten Suche soll auch eine freie Suche über den gesamten Textkorpus implementiert werden. 
+                    </p>
+                </div>
+                <div xml:id="k1.7">
+                    <head>
+                        Standort der Quelle
+                    </head>
+                    <p>
+                        Die Weltbeschreibung des <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs>s ist im Besitz der Gemeinde <rs type="place" ref="#kirchdorf">Kirchdorf in Tirol</rs> und wird im Heimatmuseum Metzgerhaus ausgestellt. 
+                    </p>
+                </div>
+            </div>
+            <div xml:id="k2">
+                <head>
+                    Leonhard Millinger und die Weltbeschreibung
+                </head>
+                <div xml:id="k2.1">
+                    <head>
+                        Bezeichnung „Weltbeschreibung“
+                    </head>
+                    <p>
+                        Bei der dieser digitalen Edition zugrunde liegenden Quelle handelt es sich um ein „<quote>Außschreibungsbuch</quote>“, so zumindest die von <rs type="person" ref="#millinger_leonhard">Millinger </rs>verwendete Bezeichnung. In der Anthologie bäuerlicher Selbstzeugnisse <bibl><title><rs type="bibliography" ref="#peters_pflug">Pflug und Gänsekiel</rs></title></bibl> unterscheidet <bibl><author>Jan Peters</author></bibl> diese grundlegend in zwei Kategorien. Während „Wirtschaftsbücher“ vornehmliche „Beobachtungen aus dem Arbeitsleben“ enthielten, würden „Schreibbücher“ vermehrt narrativ, reflektierende Passagen beinhalten.<note type="source">Vgl. <bibl><rs type="bibliography" ref="#peters_pflug">Peters, Pflug</rs></bibl>, S. 310</note> Im Falle des „Außschreibungsbuches“ handelt es sich dieser Klassifizierung folgend eher um ein Schreib- denn um ein Wirtschaftsbuch. Aufgrund der inhaltlichen Schwerpunktsetzung dieses „Ausschreibungsbuches“ auf die Beschreibung der Welt (Seite 138 bis 651) wurde für diese Quelle der Titel „Weltbeschreibung“ gewählt. Dies scheint auch deshalb legitim zu sein, da <rs type="person" ref="#millinger_leonhard">Millinger </rs>selbst diesen Begriff zweimal verwendet hatte. 
+                    </p>
+                </div>
+                <div xml:id="k2.2">
+                    <head>
+                        Leonhard Millinger<note type="source">Zu den Belegstellen zu Millingers biographischen Eckdaten vgl. <rs type="bibliography" ref="#andorfer_millinger">Andorfer, Millinger</rs>.</note>
+                    </head>
+                    <p>
+                        Diese „Weltbeschreibung“ wurde von dem 1753 in <rs type="place" ref="#waidring">Waidring</rs> geborenen <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> zwischen 1790 und 1815 geschrieben. 1785 hatte <rs type="person" ref="#millinger_leonhard">Millinger </rs>den in <rs type="place" ref="#waidring">Waidring</rs> gelegenen <rs type="place" ref="#pommerhof">Pobmerhof</rs> von seinem <rs type="person" ref="#millinger_vater">Vater</rs> übernommen und 1809 an <rs type="person" ref="#millinger_stefan_sohn">Stefan Millinger</rs>, den ältesten Sohn seiner zwölf Kinder übergeben. Gemeinsam mit seiner Frau <rs type="person" ref="#millinger_frau">Katharina</rs> (geborene <rs type="person" ref="#millinger_katharina_frau">Prantner</rs>) lebte <rs type="person" ref="#millinger_leonhard">Millinger </rs>noch bis zu seinem Tod im Jahr 1834 auf dem heute noch existierenden <rs type="place" ref="#pommerhof">Hof</rs>. <rs type="person" ref="#millinger">Millinger</rs>, der sich selbst als „Bauers Mann“ bezeichnet hatte, war auch Viertelschreiber der <rs type="place" ref="#waidring">Waidring</rs>er Nachbarsgemeinde <rs type="place" ref="#kirchdorf">Kirchdorf</rs>. 
+                    </p>
+                    <p>
+                        Über die Ausbildung <rs type="person" ref="#millinger_leonhard">Millingers</rs> ist wenig bekannt, wie auch aufgrund der institutionellen Rahmenbedingungen nur wenige Rückschlüsse dazu möglich sind. Von der 1774 in Österreich eingeführten allgemeinen Schulpflicht war <rs type="person" ref="#millinger">Millinger</rs>, der zu diesem Zeitpunkt bereits über zwanzig Jahre alt war,  nicht mehr betroffen. Ob es zu diesem oder gar zu einem früheren Zeitpunkt in <rs type="place" ref="#waidring">Waidring</rs> schon eine Schule gegeben hatte, ist unklar. Die Möglichkeit zum Schulbesuch außerhalb <rs type="place" ref="#waidring">Waidring</rs>s wäre jedoch in den Nachbargemeinden <rs type="place" ref="#kirchdorf">Kirchdorf</rs> und <rs type="place" ref="#fieberbrunn">Fieberbrunn</rs> gegeben gewesen. <rs type="person" ref="#millinger_leonhard">Millinger</rs> selbst geht darauf aber nicht ein. Dafür vermerkt er im Vorwort zur ersten Fassung seiner Weltbeschreibung (Vgl. Abschnitt XC), dass er im Alter von zwölf Jahren zu seinem Onkel <rs type="person" ref="#millinger_simon_onkel">Simon Millinger</rs> nach <rs type="place" ref="#fieberbrunn">Fieberbrunn</rs> gekommen wäre. Dieser war nicht nur Krämer und Bauer und Mesner, sondern auch der erste Schulmeister in diesem von <rs type="place" ref="#waidring">Waidring</rs> rund vier Stunden entfernt gelegenen Ort. Darüber hinaus war Simon <rs type="person" ref="#millinger_leonhard">Millinger </rs>auch Hofmarkschreiber. Des Weiteren betrieb er auch den Bau einer Kapelle in <rs type="place" ref="#fieberbrunn">Fieberbrunn</rs>. Dabei benützte er die Räumlichkeiten dieser 1760 vollendeten Johanneskapelle auch als eine Art Gemeindearchiv. Es liegt nahe, dass <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> sein Interesse für das Schreiberhandwerk wie auch für die Konservierung und Tradierung von Wissen von diesem <rs type="person" ref="#millinger_simon_onkel">Onkel</rs> übernommen hatte. War <rs type="person" ref="#millinger">Millinger</rs>, wie er am Titelblatt einer von ihm angelegten Mitschrift von selbst gehörten Predigten notiert hatte, 1773 beim <rs type="place" ref="#fieberbrunn">Fieberbrunner</rs> Hofmarkschreiber, Mesner und Schulmeister im Dienst gewesen. 
+                    </p>
+                    <p> Wann <rs type="person" ref="#millinger_leonhard">Millinger </rs>wieder
+                        zurück an den elterlichen <rs type="place" ref="#pommerhof">Hof</rs> nach <rs type="place" ref="#waidring"
+                            >Waidring</rs> gekommen war, kann nicht klar bestimmt werden. Die
+                        Rückkehr muss aber spätestens um 1784/85 erfolgt sein, übernahm <rs
+                            type="person" ref="#millinger_leonhard">Millinger </rs>1785 nicht nur
+                        den <rs type="place" ref="#pommerhof">Pommerhof</rs>, sondern heiratete in <rs type="place" ref="#waidring"
+                            >Waidring</rs> auch die aus <rs type="place" ref="#mühlau_stjakob_haus">Mühlau</rs> bzw. <rs type="place" ref="#stjakob_haus">St. Jakob in Haus</rs>
+                        stammende <rs type="person" ref="#millinger_katharina_frau">Katharina Prantner</rs>. </p>
+                    <p>
+                        In <rs type="place" ref="#waidring">Waidring</rs> war <rs type="person" ref="#millinger_leonhard">Millinger </rs>auch Teil der lokalen Schützen- und Landsturmkompagnie, wo er ebenfalls das Amt des Schreibers ausübte. Wie <rs type="person" ref="#millinger_leonhard">Millinger </rs>in seinem Ausschreibungsbuch detailliert dokumentiert hatte, mussten sowohl Schützen als auch Landsturmkompagnien im Zuge der napoleonischen Kriege mehrmals zum Zwecke der Landesverteidigung an <rs type="place" ref="#tirol">Tirols</rs> südliche und nördliche Grenzen ausrücken. Nachdem die bayerische Regierung in <rs ref="#innsbruck" type="place">Innsbruck</rs> im April 1809 von aufständischen Tirolern und mit Unterstützung regulärer österreichischer Truppen vertrieben worden waren – <rs type="place" ref="#tirol">Tirol</rs> war seit dem Frieden von <rs type="place" ref="#preßburg">Preßburg</rs> ein Teil <rs type="place" ref="#bayern">Bayerns</rs> - rückten im Mai 1809 verstärkte bayerische Verbände gegen<rs type="place" ref="tirol">Tirol</rs>vor. Dabei kam es am 11. und 12. des Monats an dem unmittelbar vor <rs type="place" ref="Waidring">Waidring</rs> gelegenen <rs type=" place" ref="#pass_strub">Pass Strub</rs> zu mehren Gefechten. Beim Vormarsch der Bayern nach <rs type="place" ref="#innsbruck">Innsbruck</rs> kam es dabei mehrmals zu Plünderungen und Brandlegungen, wovon auch <rs type="place" ref="#waidring">Waidring</rs> und <rs type="place" ref="#kirchdorf">Kirchdorf</rs> betroffen waren, und worüber <rs type="person" ref="#millinger_leonhard">Millinger </rs>in seinem Ausschreibungsbuch ebenfalls berichtete. 
+                    </p>
+                </div>
+                <div xml:id="k2.3">
+                    <head>
+                        Rezeption der Weltbeschreibung
+                    </head>
+                    <p>
+                        Der Tiroler Landesgeschichtsschreibung ist Millingers Weltbeschreibung vornehmlich im Kontext der Tiroler Erhebung von 1809 bekannt und wurde als „Millinger-Chronik“ zuletzt in Arbeiten zitiert, die anlässlich der 200-Jahr-Gedenkfeier zu „Anno Neun“ 2009 publiziert wurden.<note type="source">Vgl. <bibl><rs type="bibliography" ref="#schennach_revolte">Schennach, Revolte</rs></bibl>, <bibl><rs type="bibliography" ref="#haisjackl_wintersteller">Haisjackl, Wintersteller</rs></bibl> oder <bibl><rs type="bibliography" ref="steiner_freiheitskampf">Steiner, Freiheitskampf</rs></bibl>.</note> 
+                    </p>
+                    <p>
+                        Darüber hinaus diente die Weltbeschreibung bisher auch als Quelle zur Lokal- und Kirchengeschichte, etwa für die Dorfbücher <rs type="place" ref="#fieberbrunn">Fieberbrunn</rs> und <rs type="place" ref="#kirchdorf">Kirchdorf in Tirol</rs>,<note type="source">Vgl. <bibl><rs type="bibliography" ref="#dorfbuch_kirchdorf">Dorfbuch Kirchdorf</rs></bibl> oder <bibl><rs type="bibliography" ref="#dorfbuch_fieberbrunn">Dorfbuch Fieberbrunn</rs></bibl>.
+                        
+                        </note> wie auch  Matthias Mayers mehrbändiges Werk über den Tiroler Anteil des Erzbistums <rs type="place" ref="#salzburg_stadt">Salzburg</rs>,<note type="source"><bibl><rs type="bibliography" ref="#mayer_anteil">Mayer, Tiroler Anteil</rs></bibl>.</note> wobei letzterer die Bezeichnung „Memorabilien-Buch“ verwendet hatte. Dass es sich dabei um die Weltbeschreibung handelt, kann dadurch gezeigt werden, dass sämtliche von Mayer angeführten Informationen und Zitate in der Weltschreibung wortgleich anzutreffen sind. Auf ein „‚Memorabilienbuch‘ des <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs>“ beziehen sich auch Ulrich Krauss und Waltraud Krassnig in ihrer 2003 erschienen Studie zu benediktinischen Mönchs- und Nonnenklöster in Österreich.<note type="source"><bibl><rs type="bibliography" ref="#faust_krassnig_klöster">Faust/Krassnig, Klöster</rs></bibl>.</note>
+                    </p>
+                    <p>
+                        Der älteste bekannte Beitrag zu <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> und seinem Schreiben stammt aus dem Jahr 1907. Dabei handel es sich um ein im Selbstverlag veröffentlichtes „Erinnerungsblatt“ mit dem Titel „Die <rs type="place" ref="#waidring">Waidringer</rs> Freiheitskämpfer von 1796 bis 1814“.<note type="source">Vgl. <bibl><rs type="bibliography" ref="#pergler_waidringer">Pergler, Waidringer Freiheitskämpfer</rs></bibl></note> Der k.k. Bezirksrichter Adolf Pergler von <rs type="place" ref="#lofer">Lofer</rs>, das auf der Salzburger Seite des <rs type="place" ref="#pass_strub">Pass Strubs</rs> und nur zehn Kilometer von <rs type="place" ref="#waidring">Waidring</rs> entfernt liegt, stellt <rs type="person" ref="#millinger_leonhard">Millinger </rs>darin als <quote>„[e]ine originelle Persönlichkeit aus der damaligen Zeit“</quote> vor.<note type="source"><bibl><rs type="bibliography" ref="#pergler_waidringer">Pergler, Waidringer Freiheitskämpfer</rs></bibl>, S. 39.</note> Pergler zitiert in diesem Beitrag sowohl die Vorrede wie auch das Register eines von <rs type="person" ref="#millinger_leonhard">Millinger </rs>geschriebenem <quote>„interessanten Werke“</quote> mit dem Titel: „Die Zeit guet Vertreib“.<note type="source"><bibl><rs type="bibliography" ref="#pergler_waidringer">Pergler, Waidringer Freiheitskämpfer</rs></bibl>, S. 39.</note> 
+                    </p>
+                </div>
+                <div xml:id="k2.4">
+                    <head>
+                        Die zwei Versionen der Weltbeschreibung (1790 und 1815)
+                    </head>
+                    <p>
+                        Wie der Vergleich zwischen den von Pergler zitierten Passagen mit der Weltbeschreibung zeigt, stammt die von Pergler zitierte Vorrede aus einer ähnlichen aber früheren Version der Weltbeschreibung.<note type="source">Vgl.<bibl><rs type="bibliography" ref="#pergler_waidringer">Pergler, Waidringer Freiheitskämpfer</rs></bibl>, S. 39-42.</note> Dabei dürfte es sich mit aller Wahrscheinlichkeit um jenes Buch gehandelt haben, das <rs type="person" ref="#millinger_leonhard">Millinger </rs>in der Vorrede zur Weltbeschreibung erwähnt. Jenes Buch, dass er 1790 verfasst hatte und das er 1815 <quote>„in mein <rs type="person" ref="#millinger_leonhard">Millinger </rs>63 jährigen Alter“</quote> abschreiben und verbessern sollte. Der Aufenthaltsort dieser früheren Version aus dem Jahr 1790 ist leider unbekannt.
+                    </p>
+                </div>
+                <div xml:id="k2.5">
+                    <head>
+                        Weitere Autographen <rs type="person" ref="#millinger_leonhard">Millingers</rs>
+                    </head>
+                    <div xml:id="k2.5.1">
+                        <head>
+                            Kriegsbeschreibungsbuch
+                        </head>
+                        <p>
+                            Unbekannt ist auch der Aufenthaltsort eines ebenfalls von Pergler erwähnten, rund 300 Seiten umfassenden <quote>„Kriegsbeschreibungsbuch über die Tiroler Freiheitskämpfe“</quote>.<note type="source"><bibl><rs type="bibliography" ref="#pergler_waidringer">Pergler, Waidringer Freiheitskämpfer</rs></bibl>, S. 39.</note> Dieses diente wohl als Vorlage zum Abschnitt „Kriegs Beschreibung“ (MWB, Teil 5, Seite 692 bis 906) in der Weltbeschreibung.
+                        </p>
+                    </div>
+                    <div xml:id="k2.5.2.">
+                        <head>
+                            Predigtsammlung
+                        </head>
+                        <p>
+                            Noch heute am <rs type="place" ref="#pommerhof">Pommerhof</rs> befindet sich hingegen eine von ehemals mehreren Niederschriften von Predigten. In dieser rund 40 Seiten starken Handschrift hatte <rs type="person" ref="#millinger_leonhard">Millinger </rs>den Inhalt von 16 Predigten zusammengefasst, die er selbst zwischen Juni und November im Jahr 1773 im Raum <rs type="place" ref="#fieberbrunn">Fieberbrunn</rs>, <rs type="place" ref="#stulrich_pillersee">St. Ulrich am Pillersee</rs>, <rs type="place" ref="#hochfilzen">Hochfilzen</rs> und <rs type="place" ref="#stjakob_haus">St. Jakob in Haus</rs> gehört hatte. Unmittelbar darauf, in den Nacht- und frühen Morgenstunden, hatte sich <rs type="person" ref="#millinger_leonhard">Millinger </rs>dazu jeweils Notizen gemacht, die er aber erst <quote>in meinen älteren Jahren alhero geschriben</quote> hätte. Wann dies allerdings genau gewesen war, bleibt unbenannt. Die Transkription und die Faksimiles dieser Predigtsammlung werden in den nächsten Monaten im Rahmen der digitalen Edition der Weltbeschreibung des <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> hier zugänglich gemacht. 
+                        </p>
+                    </div>
+                    <div xml:id="k2.5.3">
+                        <head>
+                            Briefe
+                        </head>
+                        <p>
+                            Geplant ist auch eine Veröffentlichung jenes Briefwechsels zwischen <rs type="person" ref="#millinger_leonhard">Leonhard Millinger</rs> mit seiner <rs type="person" ref="#millinger">Frau</rs> aus dem Jahr 1797, der im <ref target="http://www.tirol.gv.at/kunst-kultur/landesarchiv/">Tiroler Landesarchiv (TLA)</ref> aufbewahrt wird. Dabei handelt es sich um zwei Briefe <rs type="person" ref="#millinger_katharina_frau">Millingers</rs>, datiert mit <rs type="place" ref="#bozen">Bozen</rs>, 21. Februar bzw. <rs type="place" ref="#campodenno">Campodenno</rs> 28. Februar und einem Antwortschreiben <rs type="person" ref="#millinger_katharina_frau">Katharina Millingers</rs> aus <rs type="place" ref="#waidring">Waidring</rs> vom 4. März.
+                        </p>
+                    </div>
+                </div>
+                
+            </div>
+            <div xml:id="k3">
+                <head>
+                    Die Quellen der Weltbeschreibung
+                </head>
+                <p>
+                    Wie <rs type="person" ref="#millinger_leonhard">Millinger </rs>in der Vorrede zu seinem Ausschreibungsbuch betonte, hatte er die darin verarbeiteten Inhalte <quote>nicht selber erdacht: oder erdicht</quote> sondern <quote>genommen auß unterschiedlichen Büchern</quote>. 16  der insgesamt 20 genannten Titel konnten zweifelsfrei identifiziert werden.
+                </p>
+                <p>
+                    Bei dem an sechster Stelle genannten Titel <quote>Von Mathemäticus <rs type="person" ref="#weigel">Erhard Weigelius</rs></quote> könnte es sich um den 1665 in <rs type="place" ref="#jena">Jena</rs> erschienenen <bibl><title><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Erd-Spiegel</rs></title></bibl> handeln. Dafür spräche neben der thematischen Nähe zur Weltbeschreibung auch die aus dem <bibl><title><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Erd-Spiegel</rs></title></bibl> übernommene Information, dass auf der Welt eine Milliarde Menschen leben würden.<note type="source"><bibl><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Weigel, Erd-Spiegel</rs></bibl>, S. 116.</note> Gegen den <bibl><title><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Erd-Spiegel</rs></title></bibl> spricht allerdings, dass andere darin enthaltene Informationen nicht Aufnahme in <rs type="person" ref="#millinger_leonhard">Millingers</rs> Weltbeschreibung gefunden haben bzw. dass sich Weltbeschreibung und <bibl><title><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Erd-Spiegel</rs></title></bibl> an manchen Stellen widersprechen. Außerdem passt der 1665 erschienene <bibl><title><rs type="bibliography" ref="#Weigel_Erdspiegel_1665">Erd-Spiegel</rs></title></bibl> nicht in die ansonsten chronologisch erfolgte Auflistung von <rs type="person" ref="#millinger_leonhard">Millingers</rs> Quellen. 
+                </p>
+                <p>
+                    Ob es sich bei dem an siebter Stelle genannten <quote>Aus dem Buch des Natur-Lichts, oder eröfneten Palasts sechsten Teil</quote> auch tatsächlich um den sechsten Teil <bibl><author><rs type="person" ref="#acxtelmeier">Stanislaus Reinhards Acxtelmeiers</rs></author> <title><rs type="bibliography" ref="#Acxtelmeier_Natur_1702">Natur-Licht</rs></title></bibl> handelt, muss ebenfalls mit einem Fragezeichen versehen werden. Denn während Erscheinungsort, -jahr und Anzahl der Bände übereinstimmen, so fehlt im Titel des <bibl><title><rs type="bibliography" ref="#Acxtelmeier_Natur_1702">Natur-Lichts</rs></title></bibl> die Bezeichnung „Palast“. „Pallast“ prangt dafür aber im Titel des ebenfalls von <rs type="person" ref="#acxtelmeier">Acxtelmeier</rs> stammenden <bibl><title><rs type="bibliography" ref="#acxtelmeier_palast">Des Natur-Liechts Weit Eröffneter Pallast</rs></title></bibl>“. Ein Werk, das zwar in <rs type="place" ref="#augsburg">Augsburg</rs>, jedoch nur in drei und nicht in sechs Teilen und auch erst 1706/7 und nicht bereits 1702 erschienen ist. Eine etwaige frühere Ausgabe konnte nicht gefunden werden.
+                </p>
+                <p>
+                    Bis heute aber noch völlig unklar ist, welche Bücher mit den Zitaten <quote><ref type="metsID" cRef="#MWB_pb_i">Von Lehrern, Scribenten, Teologien, und Welt Weisern, auch etwas von Georgilis Bericht</ref></quote> und <quote>Von der Wohlfart Buch, so ein gewisser Pater Geistlicher in diesen achtzehen hunderten Secolo, von Haupt Stadt <rs type="place" ref="#münchen">Minichen</rs>, durchs Tyrol, in das <rs type="place" ref="#italien">Itälien</rs>, und einen anderen Weeg zurück auf <rs type="place" ref="#münchen">Minichen</rs> gereist, und beschreibet die Merkwürdigkeiten</quote> gemeint sein könnten. Hinweise dazu werden mit Freude angenommen.  
+                </p>
+            </div>
+            <div type="k3">
+                <head>
+                    Projektfinanzierung
+                </head>
+                <p>
+                    Das Projekt der Erstellung einer digitalen Edition der Weltbeschreibung des Leonhard Millinger, wie auch das eng damit in Verbindung stehende Dissertationsvorhaben „Die Weltbeschreibung des Leonhard Millinger. Ein Schlüssel zum Weltbild eines Bauern um 1800“ wurde bisher finanziert durch
+                    <list><item>Dissertationsstipendium der <ref target="http://www.uibk.ac.at/">Universität Innsbruck</ref></item><item>
+                    Kultur- und Heimatpflegeverein Kirchdorf im Leukental</item><item>
+                        Tiroler Wissenschaftsfond (<ref target="http://www.tirol.gv.at/bildung/hochschulen/wissenschaftsfonds/">TWF</ref>)</item><item>
+                            Land Niedersachen: Digital-Humanities-Stipenidum an der <ref target="http://www.hab.de/">Herzog August Bibliothek Wolfenbüttel</ref></item></list>
+                    
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

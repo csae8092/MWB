@@ -1,0 +1,24 @@
+(\s)([Tt][iy]rol)([\s\:]);105;$1<rs type="place" ref="#tirol">$2</rs>$3
+(\s)([kK]itzbich\w*l\w*);132;$1<rs type="place" ref="#kitzbühel">$2</rs>
+([kK]it*z\w*);137<rs type="place" ref="#kitzbühel">$1</rs>
+([Pp]inz\w*);44;<rs type="place" ref="#pinzgau">$1</rs>
+([bB]a[iy]e?r\w*);497;<rs type="place" ref="#bayern">$1</rs>
+([sS]p[aä]nie?\w*);28;<rs type="place" ref="#spanien">$1</rs>
+([Ff]ran[zc][oö]s\w*);511;<rs type="place" ref="#frankreich">$1</rs>
+([Hh]?[uU]ngar\w*);8;<rs type="place" ref="#ungarn">$1</rs>
+([Ss]al[cz][pb]urg\w*);149;<rs type="place" ref="#salzburg">$1</rs>
+([oOöÖ]e?ster*ei\w*);125;<rs type="place" ref="#österreich">$1</rs>
+([Ss]chwe?it?z\w*);10;<rs type="place" ref="#schweiz">$1</rs>
+([sS]t[eöo]rzin\w*);12;<rs type="place" ref="#sterzing">$1</rs>
+
+
+noch nicht ersetzt 
+([kK]ue?f\w*); AC 86; <rs type="place" ref="#kufstein">$1</rs>
+([sS]c?hwed\w*);AC 55; <rs type="place" ref="#schweden">$1</rs>
+([Dd]äne\w*); AC 34; <rs type="place" ref="#dänemark">$1</rs>
+([rR]at*e*[n]b\w*); AC; <rs type="place" ref="#rattenberg">$1</rs>
+
+
+
+(([Dd]äne\w*)|([Dd]aene\w*))
+ 27. Mai, um 10.30 

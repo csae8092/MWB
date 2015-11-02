@@ -1,0 +1,2296 @@
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="edoc_ed000223_fg_personenregister" xml:base="http://diglib.hab.de/edoc/ed000223/">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personenverzeichnis</title>
+                <respStmt>
+                    <resp/>
+                    <name>Peter Andorfer</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>17.04.2013</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Das Personenverzeichnis bezieht sich auf die digitale MWB-Edition. </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="index_persons">
+                <listPerson>
+<!--  @key im persName Element entpspricht der GND-Nummer                    -->
+                    <person xml:id="kleinsorg">
+                        <persName key="100303889">
+                            <forename>Raphael</forename>
+                            <surname>Kleinsorg</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="myller">
+                        <persName key="178851515">
+                            <forename>Angelicus Maria</forename>
+                            <surname>Myller</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="millinger_stefan_vater">
+                        <persName>
+                            <forename>Stefan</forename>
+                            <surname>Millinger</surname>
+                            <roleName>Vater von Leonhard Millinger</roleName>
+                        </persName>
+                    </person>                   
+                    <person xml:id="millinger_stefan_sohn">
+                        <persName>
+                            <forename>Stefan</forename>
+                            <surname>Millinger</surname>
+                            <roleName>Sohn von Leonhard Millinger</roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="millinger_katharina_frau">
+                        <persName>
+                            <forename>Katharina</forename>
+                            <surname>Millinger, geb. Prantner</surname>
+                            <roleName>Frau von Leonhard Millinger</roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="milinger_simon_onkel">
+                        <persName>
+                            <forename>Simon</forename>
+                            <surname>Millinger</surname>
+                            <roleName>Onkel von Leonhard Millinger</roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="millinger_leonhard">
+                        <persName key="1043834540">
+                            <forename>Leonhard</forename>
+                            <surname>Millinger</surname>
+                            <roleName>Verfasser der Weltbeschreibung</roleName>
+                        </persName>
+                        <birth when="1753-04-03">
+                            <placeName>
+                                <country>Österreich</country>
+                                <settlement>Waidring</settlement>
+                            </placeName>
+                        </birth>
+                        <death when="1834-09-20">
+                            <placeName>
+                                <country>Österreich</country>
+                                <settlement>Waidring</settlement>
+                            </placeName>
+                        </death>
+                    </person>
+                    <person xml:id="notegger_eter">
+                        <persName>
+                            <forename>Peter</forename>
+                            <surname>Notegger</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Aufhammer_Peter">
+                        <persName>
+                            <forename>Peter</forename>
+                            <surname>Aufhammer</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="dietenberger">
+                        <persName key="118671901">
+                            <forename>Johann</forename>
+                            <surname>Dietenberger</surname>
+                        </persName>
+                        <birth when="1475">
+                            <placeName>
+                                <country>Deutschland</country>
+                                <settlement>Frankfurt am Main</settlement>
+                            </placeName>
+                        </birth>
+                        <death when="1537">
+                            <placeName>
+                                <country>Deutschland</country>
+                                <settlement>Mainz</settlement>
+                            </placeName>
+                        </death>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Johann_Dietenberger"/>
+                        </note>
+                    </person>
+                    <person xml:id="abraham_pater">
+                        <persName key="11850021X">
+                            <forename>Abraham</forename>
+                            <surname>a Sancta Clara</surname>
+                        </persName>
+                        <birth>1644</birth>
+                        <death>1709</death>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abraham_a_Sancta_Clara"/>
+                        </note>
+                    </person>
+                    <person xml:id="Cochem_Martin_von">
+                        <persName key="118731319">
+                            <forename>Martin</forename>
+                            <surname>von Cochem</surname>
+                        </persName>
+                        <birth>1634</birth>
+                        <death>1712</death>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Martin_von_Cochem"/>
+                        </note>
+                    </person>
+                    <person xml:id="weigel">
+                        <persName key="118630075">
+                            <forename>Erhard</forename>
+                            <surname>Weigel</surname>
+                        </persName>
+                        <birth>1625</birth>
+                        <death>1699</death>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Erhard_Weigel"/>
+                        </note>
+                    </person>
+                    <person xml:id="acxtelmeier">
+                        <persName key="122079566">
+                            <forename>Stanislaus Reinhard</forename>
+                            <surname>Acxtelmeier</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="hübner">
+                        <persName key="118707701">
+                            <forename>Johann</forename>
+                            <surname>Hübner</surname>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Johann_H%C3%BCbner"/>
+                        </note>
+                    </person>
+                    <person xml:id="prugger_martin">
+                        <persName key="119516306">
+                            <forename>Martin</forename>
+                            <surname>Prugger</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="launay">
+                        <persName key="128737883">
+                            <forename>Karl Ludwig, de</forename>
+                            <surname>Launay</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="schreger">
+                        <persName key="119531682">
+                            <forename>Odilo</forename>
+                            <surname>Schreger</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="Desing_Anselm">
+                        <persName key=" 116083905">
+                            <forename>Anselm</forename>
+                            <surname>Desing</surname>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Anselm_Desing"/>
+                        </note>
+                    </person>
+                    <person xml:id="napoleon">
+                        <persName key="118586408">
+                            <forename>Buonaparte</forename>
+                            <surname>Napoléon</surname>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Napoleon"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jesus_Christus_Bibel">
+                        <persName key="118557513">
+                            <forename>Jesus Christus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jesus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Maria">
+                        <persName key="118640909">
+                            <forename>Maria</forename>
+                            <roleName>Mutter Jesu</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Maria_(Mutter_Jesu)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Josef_von_Nazaret">
+                        <persName key="118558382">
+                            <forename>Josef</forename>
+                            <roleName>Vater Jesu</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Josef_von_Nazaret"/>
+                        </note>
+                    </person>
+                    <person xml:id="Adam_Bibel">
+                        <persName key="118646877">
+                            <forename>Adam</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Josef_Sohn_von_Jakob_Bibel">
+                        <persName key="118639986">
+                            <forename>Josef</forename>
+                            <roleName>Patriarch, Sohn Jakobs</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Josef_(Sohn_Jakobs)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Eva_Bibel">
+                        <persName key="118531441">
+                            <forename>Eva</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Adam_und_Eva"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kain_Bibel">
+                        <persName key="118714724">
+                            <forename>Kain</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kain"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abel_Bibel">
+                        <persName key="118646575">
+                            <forename>Abel</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abel_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Lamech_Bibel">
+                        <persName>
+                            <forename>Lamech</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lamech"/>
+                        </note>
+                    </person>
+                    <person xml:id="Henoch_Bibel">
+                        <persName>
+                            <forename>Hennoch</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Henoch"/>
+                        </note>
+                    </person>
+                    <person xml:id="Irad_Bibel">
+                        <persName>
+                            <forename>Jered</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Irad"/>
+                        </note>
+                    </person>
+                    <person xml:id="Mehujaël_Bibel">
+                        <persName>
+                            <forename>Mahalalel</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mahalalel"/>
+                        </note>
+                    </person>
+                    <person xml:id="Metuschaël_Bibel">
+                        <persName key="185585310">
+                            <forename>Methusalem</forename>
+                            <roleName>Vater von Lamech</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Metuschael"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ada_Bibel">
+                        <persName>
+                            <forename>Ada</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ada_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Zilla_Bibel">
+                        <persName>
+                            <forename>Zilla</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Zilla_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jabal_Bibel">
+                        <persName>
+                            <forename>Jabal</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jabal"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jubal_Bibel">
+                        <persName>
+                            <forename>Jubal</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jubal"/>
+                        </note>
+                    </person>
+                    <person xml:id="Thubalkain_Bibel">
+                        <persName>
+                            <forename>Tubal-Kain</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tubal_Kain"/>
+                        </note>
+                    </person>
+                    <person xml:id="Naema_Bibel">
+                        <persName>
+                            <forename>Naama</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Naama_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Seth_Bibel">
+                        <persName key="128688483">
+                            <forename>Set</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Set_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Enos_Bibel">
+                        <persName>
+                            <forename>Enosch</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Enosch"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kenan_Bibel">
+                        <persName>
+                            <forename>Kenan</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kenan_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Mahalaleel_Bibel">
+                        <persName>
+                            <forename>Mahalalel</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mahalalel"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jared_Bibel">
+                        <persName>
+                            <forename>Jared</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jered"/>
+                        </note>
+                    </person>
+                    <person xml:id="Methusalah_Bibel">
+                        <persName>
+                            <forename>Methusalem</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Methusalem"/>
+                        </note>
+                    </person>
+                    <person xml:id="Noah_Bibel">
+                        <persName key="118641328">
+                            <forename>Noach</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Noach"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ham_Bibel">
+                        <persName key="120339994">
+                            <forename>Ham</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ham_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Japheth_Bibel">
+                        <persName>
+                            <forename>Jafet</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jafet"/>
+                        </note>
+                    </person>
+                    <person xml:id="Sem_Bibel">
+                        <persName>
+                            <forename>Sem</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sem_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Arphachsad_Bibel">
+                        <persName>
+                            <forename>Arpachschad</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Arpachschad"/>
+                        </note>
+                    </person>
+                    <person xml:id="Salah_Bibel">
+                        <persName>
+                            <forename>Salah (Schelach)</forename>
+                            <roleName>Sohn des <rs type="person" ref="#Arphachsad_Bibel">Arpachschad</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Eber_Bibel">
+                        <persName>
+                            <forename>Eber</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eber_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Peleg_Bibel">
+                        <persName>
+                            <forename>Peleg</forename>
+                            <roleName>Sohn des <rs type="person" ref="#Eber_Bibel">Eber</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Regu_Bibel">
+                        <persName>
+                            <forename>Regu</forename>
+                            <roleName>Sohn des <rs type="person" ref="#Peleg_Bibel">Peleg</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Serug_Bibel">
+                        <persName>
+                            <forename>Serug</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Serug"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nahor_Bibel">
+                        <persName>
+                            <forename>Nahor</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nahor"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tharah_Bibel">
+                        <persName>
+                            <forename>Terach</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Terach"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abraham_Bibel">
+                        <persName key="118500201">
+                            <forename>Abraham</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abraham"/>
+                        </note>
+                    </person>
+                    <person xml:id="Haran_Bibel">
+                        <persName>
+                            <forename>Haran</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Haran"/>
+                        </note>
+                    </person>
+                    <person xml:id="Lot_Bibel">
+                        <persName key="119435128">
+                            <forename>Lot</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lot_(Altes_Testament)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Josua_Bibel">
+                        <persName>
+                            <forename>Josua, der Sohn Nuns</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Josua,_der_Sohn_des_Nun"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nimrod_Bibel">
+                        <persName key="136691099">
+                            <forename>Nimrod</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nimrod"/>
+                        </note>
+                    </person>
+                    <person xml:id="Isaak_Bibel">
+                        <persName key="118555898">
+                            <forename>Isaak</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Isaak_(Erzvater)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jakob_Sohn_von_Isaak_Bibel">
+                        <persName>
+                            <forename>Jakob</forename>
+                            <roleName>Patriarch, Sohn des Isaak</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jakob_(Patriarch)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Sarah_Bibel">
+                        <persName>
+                            <forename>Sarah</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sarah_(Erzmutter)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Melchisedek_Bibel">
+                        <persName key="118580515">
+                            <forename>Melchisedech</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Melchisedek"/>
+                        </note>
+                    </person>
+                    <person xml:id="Hagar_Bibel">
+                        <persName>
+                            <forename>Hagar</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hagar"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ismael_Bibel">
+                        <persName>
+                            <forename>Ismael</forename>
+                            <roleName>Sohn des Hagar</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ismael"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ketura_Bibel">
+                        <persName>
+                            <forename>Ketura</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ketura"/>
+                        </note>
+                    </person>
+                    <person xml:id="Rebekka_Bibel">
+                        <persName key="118836870">
+                            <forename>Rebekka</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rebekka"/>
+                        </note>
+                    </person>
+                    <person xml:id="Moab_Bibel">
+                        <persName>
+                            <forename>Moab</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Moab_(Altes_Testament)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ammi_Bibel">
+                        <persName>
+                            <forename>Ammi</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ammi"/>
+                        </note>
+                    </person>
+                    <person xml:id="Esau_Sohn_von_Isaak_Bibel">
+                        <persName>
+                            <forename>Esau</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Esau"/>
+                        </note>
+                    </person>
+                    <person xml:id="Laban_Bibel">
+                        <persName>
+                            <forename>Laban</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Laban_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Rahel_Bibel">
+                        <persName key="118836889">
+                            <forename>Rachel</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rachel_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Lea_Bibel">
+                        <persName>
+                            <forename>Lea</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lea_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ruben_Bibel">
+                        <persName key="119497980">
+                            <forename>Ruben</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ruben_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Simeon_Bibel">
+                        <persName>
+                            <forename>Simeon</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Simeon_(Altes_Testament)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Levi_Bibel">
+                        <persName>
+                            <forename>Levi</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Levi_(Patriarch)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Juda_Bibel">
+                        <persName key="119550881">
+                            <forename>Judas</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Juda_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Isaschar_Bibel">
+                        <persName>
+                            <forename>Issachar</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Isaschar"/>
+                        </note>
+                    </person>
+                    <person xml:id="Sebulon_Bibel">
+                        <persName>
+                            <forename>Sebulon</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sebulon"/>
+                        </note>
+                    </person>
+                    <person xml:id="Silpa_Bibel">
+                        <persName>
+                            <forename>Silpa</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Silpa"/>
+                        </note>
+                    </person>
+                    <person xml:id="Gad_Bibel">
+                        <persName>
+                            <forename>Gad</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gad"/>
+                        </note>
+                    </person>
+                    <person xml:id="Asser_Bibel">
+                        <persName>
+                            <forename>Ascher</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ascher_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joseph_Sohn_von_Jakob_und_Rahel_Bibel">
+                        <persName key="118639986">
+                            <forename>Josef</forename>
+                            <roleName>Sohn des Jakob</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Josef_(Stamm)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Benjamin_Bibel">
+                        <persName>
+                            <forename>Benjamin</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Benjamin_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Bilha_Bibel">
+                        <persName>
+                            <forename>Bilha</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bilha"/>
+                        </note>
+                    </person>
+                    <person xml:id="Dan_Bibel">
+                        <persName key="12497371X">
+                            <forename>Dan</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dan_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Naphthali_Bibel">
+                        <persName>
+                            <forename>Naftali</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Naftali"/>
+                        </note>
+                    </person>
+                    <person xml:id="Dina_Bibel">
+                        <persName>
+                            <forename>Dina</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Dina_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Potiphar_Bibel">
+                        <persName>
+                            <forename>Potiphar</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Potiphar"/>
+                        </note>
+                    </person>
+                    <person xml:id="Asnath_Bibel">
+                        <persName>
+                            <forename>Asnath</forename>
+                            <roleName>Frau des <rs type="person" ref="#Joseph_Sohn_von_Jakob_und_Rahel_Bibel">Joseph</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Manasse_Bibel">
+                        <persName>
+                            <forename>Manasse</forename>
+                            <note>
+                                <ptr target="http://de.wikipedia.org/wiki/Manasse_(Stamm)"/>
+                            </note>
+                        </persName>
+                    </person>
+                    <person xml:id="Ephraim_Bibel">
+                        <persName key="119536196">
+                            <forename>Ephraim </forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Mose_Bibel">
+                        <persName key="118641190">
+                            <forename>Mose</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mose"/>
+                        </note>
+                    </person>
+                    <person xml:id="Aaron_Bibel">
+                        <persName>
+                            <forename>Aaron</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aaron_(biblische_Person)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kehat_Bibel">
+                        <persName>
+                            <forename>Kehat</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="Amram_Bibel">
+                        <persName>
+                            <forename>Amram</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Amram"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jochebed_Bibel">
+                        <persName>
+                            <forename>Jochebed</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jochebed"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jethros_Bibel">
+                        <persName>
+                            <forename>Jitro</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jitro_(Person)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Zippora_Bibel">
+                        <persName>
+                            <forename>Zippora</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Zippora"/>
+                        </note>
+                    </person>
+                    <person xml:id="Gersom_Bibel">
+                        <persName>
+                            <forename>Gerschom</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gershom"/>
+                        </note>
+                    </person>
+                    <person xml:id="Mirjam_Bibel">
+                        <persName key="129232726">
+                            <forename>Mirjam</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mirjam_(Prophetin)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Eliseba_Bibel">
+                        <persName>
+                            <forename>Elischeba</forename>
+                            <roleName>Frau des <rs type="person" ref="#Aaron_Bibel">Aaron</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Nadab_Bibel">
+                        <persName>
+                            <forename>Nadab</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nadab_(Priester)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abihu_Bibel">
+                        <persName>
+                            <forename>Abihu</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abihu"/>
+                        </note>
+                    </person>
+                   <!-- <person xml:id="Midianiter_Bibel"/>-->
+                   <!-- <person xml:id="Moabiter_Bibel"/>-->
+                    <person xml:id="Kaleb_Bibel">
+                        <persName key="118714880">
+                            <forename>Kaleb</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kaleb"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Nun_Bibel"/>-->
+                    <!--<person xml:id="Ephraimiter_Bibel"/>-->
+                    <!--<person xml:id="Leviter_Bibel"/>-->
+                    <person xml:id="Otniël_Bibel">
+                        <persName>
+                            <forename>Otniël</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Otni%C3%ABl"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ehud_Bibel">
+                        <persName>
+                            <forename>Ehud</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ehud"/>
+                        </note>
+                    </person>
+                    <person xml:id="Schamgar_Bibel">
+                        <persName>
+                            <forename>Schamgar</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schamgar"/>
+                        </note>
+                    </person>
+                    <person xml:id="Debora_Bibel">
+                        <persName key="11909326X">
+                            <forename>Debora</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Debora_(Richterin)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Gideon_Bibel">
+                        <persName key="118539132">
+                            <forename>Gideon</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gideon_(Richter)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abimelech_Bibel">
+                        <persName>
+                            <forename>Abimelech</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abimelech"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tola_Bibel">
+                        <persName>
+                            <forename>Tola</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tola_(Richter)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abdon_Bibel">
+                        <persName>
+                            <forename>Abdon</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abdon_ben_Hillel"/>
+                        </note>
+                    </person>
+                    <person xml:id="Simson_Bibel">
+                        <persName key="118605283">
+                            <forename>Samson</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Samson"/>
+                        </note>
+                    </person>
+                    <person xml:id="Samuel_Bibel">
+                        <persName key="118605313">
+                            <forename>Samuel</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Samuel_(Prophet)"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Philister_Bibel"/>-->
+                    <person xml:id="Delila_Bibel">
+                        <persName key="119372193">
+                            <forename>Delila</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Delila"/>
+                        </note>
+                    </person>
+                    <person xml:id="Rut_Bibel">
+                        <persName>
+                            <forename>Rut</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Rut"/>
+                        </note>
+                    </person>
+                    <person xml:id="Boas_Bibel">
+                        <persName>
+                            <forename>Boas</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Boas_(biblische_Person)"/>
+                        </note>
+                    </person>
+                    <person xml:id="David_Bibel">
+                        <persName key=" 118523929">
+                            <forename>David</forename>
+                            <roleName>König</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/David_(Israel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Obed_Bibel">
+                        <persName>
+                            <forename>Obed</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Obed"/>
+                        </note>
+                    </person>
+                    <person xml:id="Isai_Bibel">
+                        <persName>
+                            <forename>Isai</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Isai"/>
+                        </note>
+                    </person>
+                    <person xml:id="Eli_Bibel">
+                        <persName>
+                            <forename>Eli</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eli_(Priester)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Pinhas_Bibel">
+                        <persName key="131400703">
+                            <forename>Pinas</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pinchas_(Sohn_Eleasars)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Hofni_Bibel">
+                        <persName>
+                            <forename>Hofni</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hofni"/>
+                        </note>
+                    </person>
+                    <person xml:id="Saul_Bibel">
+                        <persName key="118605836">
+                            <forename>Saul</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Saul"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jonatan_Bibel">
+                        <persName key="118842978">
+                            <forename>Jonatan</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jonatan_(Sohn_Sauls)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Michal_Bibel">
+                        <persName>
+                            <forename>Michal</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Michal"/>
+                        </note>
+                    </person>
+                    <person xml:id="Goliath_Bibel">
+                        <persName key="118696254">
+                            <forename>Goliat</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Goliath"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abigail_Bibel">
+                        <persName>
+                            <forename>Abigail</forename>
+                            <roleName>Frau <rs type="person" ref="#David_Bibel">Davids</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abigail"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ahinoam_Bibel">
+                        <persName>
+                            <forename>Ahinoam</forename>
+                            <roleName>Frau <rs type="person" ref="#David_Bibel">Davids</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ahinoam"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tamar_Bibel">
+                        <persName>
+                            <forename>Tamar</forename>
+                            <roleName>Tochter <rs type="person" ref="#David_Bibel">Davids</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tamar_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Batseba_Bibel">
+                        <persName key="118507125">
+                            <forename>Bathseba</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Bathseba"/>
+                        </note>
+                    </person>
+                    <person xml:id="Urija_Bibel">
+                        <persName>
+                            <forename>Urija</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Urija"/>
+                        </note>
+                    </person>
+                    <person xml:id="Natan_Bibel">
+                        <persName>
+                            <forename>Nathan</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nathan"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abschalom_Bibel">
+                        <persName>
+                            <forename>Abschalom</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Abschalom"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joab_Bibel">
+                        <persName key="118891294">
+                            <forename>Joab</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joab"/>
+                        </note>
+                    </person>
+                    <person xml:id="Salomo_Bibel">
+                        <persName key="118605100">
+                            <forename>Salomo</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Salomo"/>
+                        </note>
+                    </person>
+                    <person xml:id="Saba_Königin_von_Bibel">
+                        <persName>
+                            <forename>Königin von Saba</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/K%C3%B6nigin_von_Saba"/>
+                        </note>
+                    </person>
+                    <person xml:id="Rehabeam_Bibel">
+                        <persName>
+                            <forename>Rehabeam</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Rehabeam"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jerobeam_Bibel">
+                        <persName key="118557416">
+                            <forename>Jerobeam I.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jerobeam_I."/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Judäer_Bibel"/>-->
+                    <person xml:id="Elija_Bibel">
+                        <persName key=" 118529811">
+                            <forename>Elija</forename>
+                            <note>
+                                <ptr target="http://de.wikipedia.org/wiki/Elija"/>
+                            </note>
+                        </persName>
+                    </person>
+                    <person xml:id="Joschafat_Bibel">
+                        <persName>
+                            <forename>Joschafat (Juda)</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joschafat_(Juda)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joram_Bibel">
+                        <persName>
+                            <forename>Joram</forename>
+                            <roleName>König von Juda</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joram_(Juda)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joas_Bibel">
+                        <persName key="119358336">
+                            <forename>Joas</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joas"/>
+                        </note>
+                    </person>
+                    <person xml:id="Amazja_Bibel">
+                        <persName>
+                            <forename>Amazja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Amazja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Asarja_Bibel">
+                        <persName>
+                            <forename>Asarja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Asarja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jotam_Bibel">
+                        <persName>
+                            <forename>Jotam</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jotam"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ahas_Bibel">
+                        <persName>
+                            <forename>Ahas</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ahas"/>
+                        </note>
+                    </person>
+                    <person xml:id="Hiskija_Bibel">
+                        <persName>
+                            <forename>Hiskija</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hiskija"/>
+                        </note>
+                    </person>
+                    <person xml:id="Amon_Bibel">
+                        <persName>
+                            <forename>Amon</forename>
+                            <roleName>König von Juda</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Amon_(Juda)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joschija_Bibel">
+                        <persName>
+                            <forename>Joschija</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joschija"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joahas_Bibel">
+                        <persName>
+                            <forename>Joahas</forename>
+                            <roleName>König von Juda</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joahas_(Juda)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jojakim_Bibel">
+                        <persName key="118712888">
+                            <forename>Jojakim</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jojakim"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jojachin_Bibel">
+                        <persName key="11871287X">
+                            <forename>Jojachin</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jojachin"/>
+                        </note>
+                    </person>
+                    <person xml:id="Zedekia_Bibel">
+                        <persName key="118636308">
+                            <forename>Zedekia</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Zedekia"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ahab_Bibel">
+                        <persName key="118501127">
+                            <forename>Ahab</forename>
+                            <roleName>König von Israel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ahab_(K%C3%B6nig)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ahasja_Bibel">
+                        <persName>
+                            <forename>Ahasja</forename>
+                            <roleName>König von Israel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ahasja_(Israel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jehu_Bibel">
+                        <persName>
+                            <forename>Jehu</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jehu"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joasch_Bibel">
+                        <persName>
+                            <forename>Joasch</forename>
+                            <roleName>König von Israel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Joasch_(Israel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jerobeam_II._Bibel">
+                        <persName>
+                            <forename>Jerobeam II.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jerobeam_II."/>
+                        </note>
+                    </person>
+                    <person xml:id="Secharja_Bibel">
+                        <persName>
+                            <forename>Secharja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Secharja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Shallum_Bibel">
+                        <persName>
+                            <forename>Schallum</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Schallum"/>
+                        </note>
+                    </person>
+                    <person xml:id="Menahem_Bibel">
+                        <persName>
+                            <forename>Menahem</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Menahem"/>
+                        </note>
+                    </person>
+                    <person xml:id="Pekachja_Bibel">
+                        <persName>
+                            <forename>Pekachja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pekachja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Pekach_Bibel">
+                        <persName>
+                            <forename>Pekach</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pekach"/>
+                        </note>
+                    </person>
+                    <person xml:id="Hoschea_Bibel">
+                        <persName>
+                            <forename>Hoschea</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hoschea"/>
+                        </note>
+                    </person>
+                    <person xml:id="Salmanassar_Bibel">
+                        <persName>
+                            <forename>Salmanassar</forename>
+                            <roleName>Šulmanu-ašared V. (Assyrischer König)</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Salmanassar_V."/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Assyrer"/>-->
+                    <person xml:id="Asa_Bibel">
+                        <persName>
+                            <forename>Asa</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Asa_(K%C3%B6nig)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nebukadnezar_II._Bibel">
+                        <persName>
+                            <forename key=" 118586718">Nebukadnezar II.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nabu-kudurri-usur_II."/>
+                        </note>
+                    </person>
+                    <person xml:id="Kyros_II._Bibel">
+                        <persName key="118568426">
+                            <forename>Kyros II.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kyros_II."/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Juden"/>-->
+                    <person xml:id="Esra_Bibel">
+                        <persName>
+                            <forename>Esra</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Esra_(Person)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Scheschbazzar_Bibel">
+                        <persName>
+                            <forename>Scheschbazzar</forename>
+                            <roleName>Šamaš-aba-usur</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/%C5%A0ama%C5%A1-aba-usur"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nehemia_Bibel">
+                        <persName>
+                            <forename>Nehemia</forename>
+                            <roleName>Statthalter von Juda</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nehemia#Die_Person_Nehemia"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Samariter_Bibel"/>-->
+                    <person xml:id="Tobit_Bibel">
+                        <persName>
+                            <forename>Tobit</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Tobit"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tobias_Bibel">
+                        <persName>
+                            <forename>Tobias</forename>
+                            <roleName>Sohn <rs type="person" ref="#Tobit_Bibel">Tobits</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tobias_(Sohn_des_Tobit)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Sara_Bibel">
+                        <persName>
+                            <forename>Sara</forename>
+                            <roleName>Frau des <rs type="person" ref="#Tobias_Bibel">Tobias</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sara_(Frau_des_Tobias)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Raguël_Bibel">
+                        <persName>
+                            <forename>Raguël</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ragu%C3%ABl"/>
+                        </note>
+                    </person>
+                    <person xml:id="Hanna_Bibel">
+                        <persName>
+                            <forename>Hanna</forename>
+                            <roleName>Frau des <rs type="person" ref="#Tobit_Bibel">Tobit</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hanna"/>
+                        </note>
+                    </person>
+                    <person xml:id="Judit_Bibel">
+                        <persName>
+                            <forename>Judit</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Judith"/>
+                        </note>
+                    </person>
+                    <person xml:id="Holofernes_Bibel">
+                        <persName>
+                            <forename>Holofernes</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Holofernes"/>
+                        </note>
+                    </person>
+                    <person xml:id="Esther_Bibel">
+                        <persName key="118682431">
+                            <forename>Ester</forename>
+                            <roleName>Königin</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/K%C3%B6nigin_Ester"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ahasveros_Bibel">
+                        <persName>
+                            <forename>Ahasveros</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ahasveros"/>
+                        </note>
+                    </person>
+                    <person xml:id="Abihajil_Bibel">
+                        <persName>
+                            <forename>Abihajil</forename>
+                            <roleName>Vater von <rs type="person" ref="#Esther_Bibel">Ester</rs></roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Haman_Bibel">
+                        <persName>
+                            <forename>Haman</forename>
+                            <note>
+                                <ptr target="http://de.wikipedia.org/wiki/Haman"/>
+                            </note>
+                        </persName>
+                    </person>
+                    <person xml:id="Mordechai_Bibel">
+                        <persName>
+                            <forename>Mordechai</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mordechai"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ijob_Bibel">
+                        <persName key="118551353">
+                            <forename>Ijob</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ijob"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Sabäer_Bibel">
+                        <persName>
+                            
+                        </persName>
+                    </person>-->
+                    <person xml:id="Jesus_ben_Eleazar_ben_Sira_Bibel">
+                        <persName>
+                            <forename>Jesus ben Eleazar ben Sira</forename>
+                            <roleName>Verfasser des Buches Jesus Sirach</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jesus_Sirach"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jesaja_Bibel">
+                        <persName key="118639897">
+                            <forename>Jesaja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jesaja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jeremia_Bibel">
+                        <persName key="118557394">
+                            <forename>Jeremia</forename>
+                        </persName>
+                        <note>
+                            <ptr target="Jeremia"/>
+                        </note>
+                    </person>
+                    <person xml:id="Baruch_Bibel">
+                        <persName>
+                            <forename>Baruch</forename>
+                            <roleName>'Verfasser' des Buches Baruch</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Baruch"/>
+                        </note>
+                    </person>
+                    <person xml:id="Ezechiel_Bibel">
+                        <persName key="118531611">
+                            <forename>Ezechiel</forename>
+                            <roleName>Prophet</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Ezechiel_(Prophet)"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Chaldäer_Bibel"/>-->
+                    <person xml:id="Gog_Bibel">
+                        <persName>
+                            <forename>Gog</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gog_und_Magog"/>
+                        </note>
+                    </person>
+                    <person xml:id="Magog_Bibel">
+                        <persName>
+                            <forename>Magog</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gog_und_Magog"/>
+                        </note>
+                    </person>
+                    <person xml:id="Daniel_Bibel">
+                        <persName key="118678752">
+                            <forename>Daniel</forename>
+                            <roleName>Prophet</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Daniel_(Prophet)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Belschazzar_Bibel">
+                        <persName key="11865523X">
+                            <forename>Belšazar</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Belschazzar"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Meder"/>
+                    <person xml:id="Perser"/>-->
+                    <person xml:id="Hosea_Bibel">
+                        <persName key="118553763">
+                            <forename>Hosea</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hosea"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joel_Bibel">
+                        <persName>
+                            <forename>Joel</forename>
+                            <roleName>Verfasser des Buches Joel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Joel"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Christen"/>-->
+                    <person xml:id="Amos_Bibel">
+                        <persName>
+                            <forename>Amos</forename>
+                            <roleName>Verfasser des Buches Amos</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Amos"/>
+                        </note>
+                    </person>
+                    <person xml:id="Obadja_Bibel">
+                        <persName>
+                            <forename>Obadja</forename>
+                            <roleName>Verfasser des Buches Obadja</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Obadja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jona_Bibel">
+                        <persName>
+                            <forename>Jona</forename>
+                            <roleName>Verfasser des Buches Jona</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Jona"/>
+                        </note>
+                    </person>
+                    <person xml:id="Micha_Bibel">
+                        <persName>
+                            <forename>Micha</forename>
+                            <roleName>Verfasser des Buches Micha</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Micha"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nahum_Bibel">
+                        <persName>
+                            <forename>Nahum</forename>
+                            <roleName>Verfasser des Buches Nahum</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nahum"/>
+                        </note>
+                    </person>
+                    <person xml:id="Habakuk_Bibel">
+                        <persName>
+                            <forename>Habakuk</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Habakuk"/>
+                        </note>
+                    </person>
+                    <person xml:id="Zefanja_Bibel">
+                        <persName>
+                            <forename>Zefanja</forename>
+                            <roleName>Verfasser des Buches Zefanja</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Buch_Zefanja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Haggai_Bibel">
+                        <persName>
+                            <forename>Haggai</forename>
+                            <roleName>Verfasser des Buches Haggai</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Haggai"/>
+                        </note>
+                    </person>
+                    <person xml:id="Sacharja_Bibel">
+                        <persName>
+                            <forename>Sacharja</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Sacharja"/>
+                        </note>
+                    </person>
+                    <person xml:id="Maleachi_Bibel">
+                        <persName>
+                            <forename>Maleachi</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Maleachi"/>
+                        </note>
+                    </person>
+                    <person xml:id="Johannes_der_Täufer_Bibel">
+                        <persName key="118557858">
+                            <forename>Johannes</forename>
+                            <roleName>der Täufer</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Johannes_der_T%C3%A4ufer"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Makkabäer_Bibel"/>-->
+                    <person xml:id="Mattatias_Bibel">
+                        <persName key="1011235412">
+                            <forename>Mattatias</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Mattatias"/>
+                        </note>
+                    </person>
+                    <person xml:id="Judas_Makkabäus_Bibel">
+                        <persName key="118886673">
+                            <forename>Judas</forename>
+                            <roleName>Makkabäus</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Judas_Makkab%C3%A4us"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jonathan_Bibel">
+                        <persName>
+                            <forename>Jonathan</forename>
+                            <roleName>Hasmonäer</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jonatan_(Hasmon%C3%A4er)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Simon_Makkabäus_Bibel">
+                        <persName>
+                            <forename>Simon</forename>
+                            <roleName>Hasmonäer</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Simon_(Hasmon%C3%A4er)"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Seleukiden"/>-->
+                    <person xml:id="Antiochos_IV.">
+                        <persName key="118503413">
+                            <forename>Antiochos IV.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Antiochos_IV."/>
+                        </note>
+                    </person>
+                    <person xml:id="Antiochos_V.">
+                        <persName>
+                            <forename>Antiochos V.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Antiochos_V."/>
+                        </note>
+                    </person>
+                    <person xml:id="Demetrios_I.">
+                        <persName key="119272830">
+                            <forename>Demetrios I.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Demetrios_I._(Soter)"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Römer"/>-->
+                    <!--<person xml:id="Spartaner"/>-->
+                    <person xml:id="Johanan_Johannes_Hyrkanos_I._Bibel">
+                        <persName>
+                            <forename>Johannes Hyrkanos I.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Johannes_Hyrkanos_I."/>
+                        </note>
+                    </person>
+                    <person xml:id="Aristobulos_I.">
+                        <persName key="118645757">
+                            <forename>Aristobulos I.</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Aristobulos_I."/>
+                        </note>
+                    </person>
+                    <person xml:id="Alexander_Jannäus_Hasmonäer_">
+                        <persName>
+                            <forename>Alexander Jannäus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Alexander_Jann%C3%A4us"/>
+                        </note>
+                    </person>
+                    <person xml:id="Antipatros_Bibel">
+                        <persName>
+                            <forename>Antipatros</forename>
+                            <roleName>(Idumäer), Vater Herodes des Großen</roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Caesar_Gaius_Iulius">
+                        <persName key="118518275">
+                            <surname>Caesar</surname>
+                            <forename>Gaius Iulius</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Gaius_Iulius_Caesar"/>
+                        </note>
+                    </person>
+                    <person xml:id="Herodes_I.">
+                        <persName key="118549847">
+                            <forename>Herodes</forename>
+                            <roleName>der Große</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herodes"/>
+                        </note>
+                    </person>
+                    <person xml:id="Herodes_Archelaos">
+                        <persName>
+                            <forename>Herodes</forename>
+                            <roleName>Archelaos</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herodes_Archelaos"/>
+                        </note>
+                    </person>
+                    <person xml:id="Herodes_Antipas">
+                        <persName>
+                            <forename>Herodes</forename>
+                            <roleName>Antipas</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herodes_Antipas"/>
+                        </note>
+                    </person>
+                    <person xml:id="Herodes_Philippos">
+                        <persName>
+                            <forename>Herodes</forename>
+                            <roleName>Philippos</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Herodes_Philippos"/>
+                        </note>
+                    </person>
+                    <person xml:id="Pontius_Pilatus">
+                        <persName key="118792172">
+                            <forename>Pontius</forename>
+                            <surname>Pilatus</surname>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Pontius_Pilatus"/>
+                        </note>
+                    </person>
+                    <person xml:id="augustus">
+                        <persName key="118505122" xml:lang="la">
+                            <forename>Augustus</forename>
+                            <roleName>Römisches Reich, Kaiser</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Augustus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tiberius">
+                        <persName key="118622501">
+                            <forename>Tiberius</forename>
+                            <roleName>Römisches Reich, Kaiser</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tiberius"/>
+                        </note>
+                    </person>
+                    <person xml:id="Anna_Heilige_">
+                        <persName key="118649418">
+                            <forename>Anna</forename>
+                            <roleName>Heilige</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Heilige_Anna"/>
+                        </note>
+                    </person>
+                    <person xml:id="Joachim_Heilige_">
+                        <persName key="118712160">
+                            <forename>Joachim</forename>
+                            <roleName>Heiliger</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Heiliger_Joachim"/>
+                        </note>
+                    </person>
+                    <person xml:id="Dionysius_Exiguus">
+                        <persName key="118679724">
+                            <forename>Dionysius</forename>
+                            <roleName>Exiguus</roleName>
+                        </persName>
+                    </person>
+                    <!--<person xml:id="Pharisäer"/>-->
+                    <person xml:id="Hannas_Bibel">
+                        <persName>
+                            <forename>Hannas</forename>
+                            <roleName>jüdischer Hohepriester</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hannas"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kajaphas_Bibel">
+                        <persName key="129446424">
+                            <forename>Kajaphas</forename>
+                            <roleName>jüdischer Hohepriester</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kajaphas"/>
+                        </note>
+                    </person>
+                    <person xml:id="Johannes_Evangelist">
+                        <persName key="118557815">
+                            <forename>Johannes</forename>
+                            <roleName>Evangelist</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Johannes_(Evangelist)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Alexander_der_Große">
+                        <persName key="118501828">
+                            <forename>Alexander</forename>
+                            <roleName>König von Makedonien, III. (der Große) </roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Alexander_der_Gro%C3%9Fe"/>
+                        </note>
+                    </person>
+                    <person xml:id="Assisi_Franz_von">
+                        <persName key="118534963">
+                            <forename>Franciscus (Franz)</forename>
+                            <roleName>Assisias</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Franz_von_Assisi"/>
+                        </note>
+                    </person>
+                    <person xml:id="Augustinus_Kirchenvater">
+                        <persName key="118505114">
+                            <forename>Augustinus</forename>
+                            <surname>von Hippo</surname>
+                            <roleName>Kirchenvater</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Augustinus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Franz_Xaver_Jesuit_">
+                        <persName key="118535021">
+                            <forename>Franz Xaver</forename>
+                            <roleName>Heiliger (Francisco de Javier)</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Franz_Xaver"/>
+                        </note>
+                    </person>
+                    <person xml:id="Matthäus_Evangelist_">
+                        <persName key="118578979">
+                            <forename>Mathhäus</forename>
+                            <roleName>Evangelist</roleName>
+                            <note>
+                                <ptr target="http://de.wikipedia.org/wiki/Matth%C3%A4us_(Evangelist)"/>
+                            </note>
+                        </persName>
+                    </person>
+                    <person xml:id="Markus_Evangelist_">
+                        <persName key="118578030">
+                            <forename>Markus</forename>
+                            <roleName>Evangelist</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Markus_(Evangelist)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Petrus_Heiliger_">
+                        <persName key="118593323">
+                            <forename>Petrus</forename>
+                            <roleName>Apostel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Simon_Petrus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Nero">
+                        <persName key="118586998">
+                            <forename>Nero</forename>
+                            <roleName>Römisches Reich, Kaiser</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nero"/>
+                        </note>
+                    </person>
+                    <person xml:id="Lukas_Evangelist_">
+                        <persName key="118575198">
+                            <forename>Lukas</forename>
+                            <roleName>Evangelist</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Lukas_(Evangelist)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Paulus_Heilige">
+                        <persName key="118641549">
+                            <forename>Paulus</forename>
+                            <roleName>Apostel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Paulus_von_Tarsus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Zebedäus_Bibel">
+                        <persName>
+                            <forename>Zebedäus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Zebed%C3%A4us"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jakobus_der_Ältere_Bibel">
+                        <persName key="118556800">
+                            <forename>Jakobus</forename>
+                            <roleName>der Ältere</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jakobus_der_%C3%84ltere"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kerinth_Bibel">
+                        <persName>
+                            <forename>Kerinth</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Kerinth"/>
+                        </note>
+                    </person>
+                    <person xml:id="Matthias_Apostel_">
+                        <persName key="120125374">
+                            <forename>Matthias</forename>
+                            <roleName>Apostel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Matthias_(Apostel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Judas_Ischariot_Apostel">
+                        <persName key="118558536">
+                            <forename>Judas</forename>
+                            <roleName>Apostel (Iskariot)</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Judas_Ischariot"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Galater_Bibel"/>-->
+                    <person xml:id="Diana_Mythologie_">
+                        <persName key="118678132">
+                            <forename>Diana</forename>
+                            <roleName>Göttin</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Diana"/>
+                        </note>
+                    </person>
+                    <person xml:id="Tychicus_Bibel">
+                        <persName>
+                            <forename>Tychicus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Tychicus"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Epheser_Bibel"/>-->
+                    <person xml:id="Epaphroditus_Bibel">
+                        <persName>
+                            <forename>Epaphroditus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Epaphroditus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Epaphras_Bibel">
+                        <persName>
+                            <forename>Epaphras</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Epaphras"/>
+                        </note>
+                    </person>
+                    <person xml:id="Onesimus_Bibel">
+                        <persName>
+                            <forename>Onesimus</forename>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Onesimus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Timotheus_Bibel">
+                        <persName>
+                            <forename>Timotheus</forename>
+                            <roleName>Bischof von Ephesus</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Timotheus_(Bischof)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Eunike_Bibel">
+                        <persName>
+                            <forename>Eunice</forename>
+                            <roleName>Helige, Mutter des <rs type="person" ref="#Timotheus_Bibel">Timotheus</rs></roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Eunice_(Heilige)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Loïs_Bibel">
+                        <persName>
+                            <forename>Loïs</forename>
+                        </persName>
+                        <note>Nicht näher identifiziert</note>
+                    </person>
+                    <person xml:id="Titus_Bibel">
+                        <persName key="118622951">
+                            <forename>Titus</forename>
+                            <roleName>Römisches Reich, Kaiser</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Titus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Philemon_Bibel">
+                        <persName>
+                            <forename>Philemon</forename>
+                            <roleName>Bibel</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Philemon_(Bibel)"/>
+                        </note>
+                    </person>
+                    <person xml:id="Jakobus_der_Gerechte_Bibel">
+                        <persName key="118711601">
+                            <forename>Jakobus</forename>
+                            <roleName>der Gerechte</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Jakobus_der_Gerechte"/>
+                        </note>
+                    </person>
+                    <person xml:id="Andreas_Apostel_">
+                        <persName key="118502891">
+                            <forename>Andreas</forename>
+                            <roleName>Apostel</roleName>
+                        </persName>
+                    </person>
+                    <person xml:id="Judas_Thaddäus_Bibel">
+                        <persName key="118713337">
+                            <forename>Judas Thaddäus</forename>
+                            <roleName>Apostel</roleName>
+                        </persName>
+                    </person>
+                    <!--<person xml:id="Ebioniten_Bibel"/>-->
+                    <person xml:id="Simon_Magus_Bibel">
+                        <persName key="118765450">
+                            <forename>Simon</forename>
+                            <roleName>Magus</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Simon_Magus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Gaius_Bibel">
+                        <persName>
+                            <forename>Gaius</forename>
+                        </persName>
+                        <note>
+                            Empfänger des dritten Brief des Johannes (Vgl. 3 Joh. 1,1)
+                        </note>
+                    </person>
+                    <person xml:id="Diotrephes_Bibel">
+                        <persName>
+                            <forename>Diotrephes</forename>
+                        </persName>
+                        <note>
+                            Vgl. 3 Joh. 1,9
+                        </note>
+                    </person>
+                    <person xml:id="Demetrius_Bibel">
+                        <persName>
+                            <forename>Demetrius</forename>
+                        </persName>
+                        <note>
+                            Vgl. 3 Joh. 1,12
+                        </note>
+                    </person>
+                    <person xml:id="Hieronymus_Kirchenvater">
+                        <persName key="118550853">
+                            <surname>Hieronymus</surname>
+                            <forename>Sophronius Eusebius</forename>
+                            <roleName>Kirchenvater</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Hieronymus_(Kirchenvater)"/>
+                        </note>
+                    </person>
+                    <!--<person xml:id="Michael_Engel_"/>-->
+                    <person xml:id="Irenäus_von_Lyon_Kirchenvater">
+                        <persName key="118555766">
+                            <forename>Irenaeus von Lyon</forename>
+                            <roleName>Kirchenvater</roleName>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Iren%C3%A4us_von_Lyon"/>
+                        </note>
+                    </person>
+                    <person xml:id="Kopernikus_Nikolaus">
+                        <persName key="118565273">
+                            <forename>Nikolaus</forename>
+                            <surname>Kopernikus</surname>
+                        </persName>
+                        <note>
+                            <ptr target="http://de.wikipedia.org/wiki/Nikolaus_Kopernikus"/>
+                        </note>
+                    </person>
+                    <person xml:id="Unbekannt_Person">
+                        <persName>
+                            <forename>unbekannte Person</forename>
+                        </persName>
+                        <note>
+                            Diese Person konnte noch nicht näher identifiziert werden
+                        </note>
+                    </person>
+                </listPerson>
+            </div>
+        </body>
+    </text>
+</TEI>

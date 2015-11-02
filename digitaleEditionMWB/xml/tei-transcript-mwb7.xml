@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "http://diglib.hab.de/rules/dtd/teiP5/teip5all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000223_fg_transcript_f07"
+    xml:base="http://diglib.hab.de/edoc/ed000223/">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Die Weltbeschreibung des Leonhard Millinger </title>
+                <title type="part"> Teil 7</title>
+                <author>Leonhard Millinger</author>
+                <respStmt>
+                    <resp>TEI-P5 konforme Kodierung durch</resp>
+                    <name type="person">
+                        <name type="person">Peter Andorfer</name>
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name type="person">
+                        <name>Peter Andorfer</name>
+                    </name>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                </respStmt>
+                <funder>Universität Innsbruck, Tiroler Wissenschftsfonds, Forschungsunterstützungsverein Viktor und Dr. Edith Schemfil (FUS), Land Niedersachsen (Digital-Humanities Stipendium)</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno type="workID">http://diglib.hab.de/edoc/ed000223/start.htm</idno>
+                <idno type="ppn">77097337X</idno>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr type="crossRef" target="http://www.hab.de"/>
+                </publisher>
+                <date>2011</date>
+                <availability status="restricted">
+                    <p>
+                        Available at
+                        <ref target="http://diglib.hab.de/edoc/ed000223/start.htm">
+                            (c) Herzog August Bibliothek Wolfenbüttel
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p></p>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <change status="draft">
+                <date>$LastChangedDate: 2013-04-21T13:34:16Z$</date>
+                <name>Peter Andorfer</name>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="MWB_pb_r1" n="r1" facs="#mss_ed000055_01019"/>
+            <div xml:id="WB_Register" org="uniform" sample="complete" part="N">
+                <head>Register</head>
+                <p>Index oder Register über dieses Buch, nach Alphetische Ordnung</p>
+
+                <table>
+
+                    <row>
+                        <cell>A</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Alles hat Gott erschaffen, und in wie viel
+                            Tägen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0001">1</ref></cell>
+
+                    </row>
+                    <row>
+                        <cell>Adam der erste Stamen Vater</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0006">6</ref></cell>
+
+                    </row>
+                    <row>
+                        <cell>Abel ein Adam Sohn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0008">8</ref></cell>
+
+                    </row>
+                    <row>
+                        <cell>Abraham der Patariarch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0015">15</ref></cell>
+
+                    </row>
+                    <row>
+                        <cell>Aran der Höchste Priester</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0032">32</ref></cell>
+
+                    </row>
+                    <row>
+                        <cell>Amos ein Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0065">65</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Abdias der Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0065">65</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Aggäus Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0069">69</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Antipätter Herodi Vater</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0076">76</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St. Anna Mutter, und ihre Eltern</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0080">80</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Alt Testament, vorzügliche Persohnen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0085">85</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Apostel Geschichten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0091">91</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Antichrist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0113">113</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Äsien überhaupts</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0145">145</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Äsirisch Manarchtum Anfang</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0141">148</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Äsien würd in 6 Profinzen eingeteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0156">156</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Anasia in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0160">160</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Alauduli in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0161">161</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Archipelago 15 Innsuln</cell>
+                        <cell>161<note type="annotation">Falsche Seitenangabe. Der entsprechende
+                                Eintrag befindet sich auf Seite 165</note></cell>
+                    </row>
+                    <cb n="1"/>
+                </table>
+                <table>
+                    <row>
+
+                        <cell>A</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Arawien in 3. Teil so trügisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0181">181</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Asien ist ao 1812 eingeteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0229">229</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Alt-Etin in Bairn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0414">414</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Aich Stadt Bistum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0439">439</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Afrika überhaupts</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0603">603</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Afrika ist ao: 1812 eingeteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0622">622</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Amerika überhaupts</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0625">625</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Amerika ist ao: 1812 einteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0645">645</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St. Adaläri in Pillersee</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0652">652</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Aurach</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0652">652</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Absom in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0652">652</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Antlas Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0654">654</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Anbethung in mehr Orthen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0654">654</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ainsidler betrefent</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0654">654</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Armer Leith Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0655">655</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Amt Leith: oder Ghts. Die.</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0656">656</ref></cell>
+                    </row>
+                    <row>
+
+                        <cell>Abdöcker</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0658">658</ref></cell>
+                    </row>
+                    <cb n="2"/>
+                </table>
+
+                <table>
+                    <row>
+                        <cell>B</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Bawilanschen Thurn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0013">13</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Buch Geburt Jesu</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0014">14</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bawilan Befreiung der 2 Geschlechter Judä</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0051">51</ref></cell>
+                    </row>
+                </table>
+
+
+                <pb xml:id="MWB_pb_r2" n="r2" facs="#mss_ed000055_01020"/>
+                <table>
+                    <row>
+                        <cell>B</cell>
+                        <cell>Follo</cell>
+                    </row>
+                    <row>
+                        <cell>Baruch der Prophet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0061">61</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Blitz sein Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0116">116</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Blaneten den 8.te</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0118">118</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bedlichen in Juden Land</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0176">176</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Burgund in Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0252">252</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Brawant</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0265">265</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bayrn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0407">407</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Berchtolsgaden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0421">421</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Baen in Ober Rhein</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0428">428</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bergen Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0434">434</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Braunschweig</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0441">441</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bernisch Herzogthum<note type="crit_app">Engerer Zeilenabstand,
+                                vermutlich nachträglich hinzugefügt.</note></cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0444">444</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Böhm hat 15 Haupt Ort</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0454">454</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Brandenburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0462">462</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bosinien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0493">493</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bulgärien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0497">497</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Barbarey in Afika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0606">606</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Billdulgarid</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0609">609</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Buch Truckerey Erfindung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0661">661</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Bruderschaften</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0661">661</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Buess Prediger Missionär</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0662">662</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>C</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Caramanien in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0160">160</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Cyppern Insul</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0163">163</ref></cell>
+                    </row>
+                    <cb/>
+                    <row>
+                        <cell>C</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Christen Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0318">318</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Christen Verfolgungen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0332">332</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Corsica Insul</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0347">347</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Chöln am Rhein</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0431">431</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Cleve Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0434">434</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Curland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0479">479</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Croätien ein Königreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0493">493</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Constäntinopl Stadt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0521">521</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Caara Wüeste in Afrika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0610">610</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Caango Cyste</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0615">615</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Cappen Cyste</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0616">616</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Canguebar Cyste</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0616">616</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>D</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>David der König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0042">42</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Daniel Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0063">63</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Donner Stain</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0116">116</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Diarbeck Ort ist türgisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0185">185</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Dolmätia</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0293">293</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Deutschland überhaupt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0348">348</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Dänemarkt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0465">465</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Dolmätien ein Königreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0494">494</ref></cell>
+                    </row>
+                </table>
+                <pb xml:id="MWB_pb_r3" n="r3" facs="#mss_ed000055_01021"/>
+                <table>
+                    <row>
+                        <cell>E</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Engel Zahl in 9 Chör</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0003">3</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Eva die erste Mutter</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0006">6</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Esau</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0019">19</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Esther</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0055">55</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ezechiel ein Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0062">62</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Enoch: und Elias</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0113">113</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Erdböden Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0117">117</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Europa überhaupts</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0234">234</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Engeland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0254">254</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Elisas in Ober Rhein</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0427">427</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Eiffel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0433">433</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Europa ist ao: 1812 eingeteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0579">579</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Egippen in Afrika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0612">612</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Engeland besitzt in Amerika 5 Ort, und 12 Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0663">663</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Einstand Recht</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0663">663</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Elent Ort in Bairn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0665">665</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>F</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Färo der Egippische König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0027">27</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Feur Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0116">116</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Fürmament</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0134">134</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Fürmament Wässer</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0137">137</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0245">245</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Flandern</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0267">267</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Frießland in Niederland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0272">272</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>F</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Florenz</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0296">296</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Freidenker: oder Atheisten Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0331">331</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Frankenland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0435">435</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Francoß Besizt in Amerika 5 Haupt Ort und 14 Insul</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0626">626</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Freye Völker 10.ne in Amerka</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0642">642</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Feurschäden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0666">666</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Feucht ein Ort in Bairen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0667">667</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Fieberprun in Pillersee</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0668">668</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Feurtag dispenisert</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0669">669</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Fuderschitt Haaber</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0669">669</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Fisch: und we Vil ley</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0670">670</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>G</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Gränz Zeichen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0144">144</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Georgia Ort, ist türgisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0184">184</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Groß Mogl Kaiser hat 4 Haupt Ort, mit viel Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0203">203</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Grosse Tarterey in 6 Ort teilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0213">213</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Groß Britänien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0263">263</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Geldern Ort</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0267">267</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Genuä</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0295">295</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Griechen Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0322">322</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Griechisch Manarchtum Anfa.</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0498">498</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Griechisch Christaliche Kaiser</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0506">506</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Griechenland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0518">518</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r4" n="r4" facs="#mss_ed000055_01022"/>
+                <table>
+                    <row>
+                        <cell>Griechische 8 Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0523">523</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Guiena Cyste in Afrika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0611">611</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Grund Herrschaften</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0671">671</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Geld Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0672">672</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Gewicht</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0673">673</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Gloggen Giessen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0673">673</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Gestorben Leit zu Waidering</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0674">674</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Guldene Sambstäg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0675">675</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Gruaß so Abblas</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0675">675</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St. Georgen Berg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0675">675</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Gmain Ort</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0676">676</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>H</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Hölle Grösse, und wo sie ist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0002">2</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Helli der Hoche Priester</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0041">41</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Habakuck Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0068">68</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Herodes König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0077">77</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Herodes Söhne</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0079">79</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Himels Zeichen 12e</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0129">129</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Himel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0137">137</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Halb Innsuln in Ost Inden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0209">209</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Henengau Ort</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0268">268</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Holland Grafschaft</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0268">268</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>H</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Heiden Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0318">318</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Husittr Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0323">323</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hessen in Niderland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0437">437</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hollstäin</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0446">446</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hollerstadt Fürstenthum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0449">449</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Holland besitzt in Amerika 4 Hauptort, und 3 Insuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0641">641</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hoche Herrn Titel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0678">678</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hofschmalz betrefent</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0678">678</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hauß in Pillersee</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0679">679</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Hochfilzen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0679">679</ref></cell> 
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>I</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Isack der Patariarch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0019">19</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jakob Isack Sohn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0019">19</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Joseph der Egippische</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0021">21</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Josue der Herrs Fiehrer</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0036">36</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Judä 2 Geschlechter Könige</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0048">48</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Israel 10 Geschlechter Könige</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0049">49</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Judit die Tapfere</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0054">54</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Job der geultige Fürst</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0056">56</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Isaias der Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0060">60</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jeremias ein Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0060">60</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Joel Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0064">64</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r5" n="r5" facs="#mss_ed000055_01023"/>
+                <table>
+                    <row>
+                        <cell>J</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Jonas der Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0066">66</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Juden wurden den Römern zinsbar</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0075">75</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Joachim</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0080">80</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Joseph Nöhr Vater Christi</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0081">81</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jesu Christi</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0081">81</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Juden ietzige</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0084">84</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Johannes Evangelist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0090">90</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jakobi Apostel Brief</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0103">103</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Judas Thädeus Brief</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0106">106</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Johannes Apostel 3 Brief, und Offenbahrungen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0107">107</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jupitter Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0126">126</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jerusalem Stadt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0172">172</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Innsuln in Äsien 10 Teil sind</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0223">223</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Innsuln Maluck</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0225">225</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jopanien in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0226">226</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Irrland ein Königreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0261">261</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Itälien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0285">285</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jubele Ablaß</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0316">316</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Juden Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0317">317</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Innspruck Stadt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0389">389</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jillich ein Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0433">433</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Innsuln 28 in Afrka</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0618">618</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Innsuln 5 in Amerka</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0644">644</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Impfung der Kinder</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0680">680</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Interesse Zins</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0681">681</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>I</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Jäger betreffent</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0681">681</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St. Johann alda</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0682">682</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Jochberg</cell>
+                        <cell>
+                            <ref type="metsID" cRef="#MWB_pb_0683">683</ref>
+                        </cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>K</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Kirchengeschichten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0005">5</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kain Adam Sohn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0007">7</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krnock 2 Bücher</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0051">51</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Komet Sterne</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0136">136</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kalfinisten Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0326">326</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kirchen Cancillium 20ig</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0335">335</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kärnten ein Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0387">387</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krain Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0388">388</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kircchen Dall</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0400">400</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klein Pohlen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0476">476</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klein Reisen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0477">477</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klein Tartarey</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0483">483</ref></cell>
+                    </row>
+                    <row>
+                        <cell>und</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0525">525</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Königreich 5e in Amerika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0642">642</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klöster Aufhöbung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0684">684</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kirchweich Festen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0684">684</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kiirchen Krippel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0684">684</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaldender der Fester</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0685">685</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kalch Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0687">687</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klosster Rot in Bairn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0687">687</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kirchwald in Bairn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0687">687</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r6" n="r6" facs="#mss_ed000055_01024"/>
+                <table>
+                    <row>
+                        <cell>Kitzbichel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0689">689</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kitzbichel Gerichte Persohnen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0689">689</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kessen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0690">690</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Klobenstain</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0690">690</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kirchdorf</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0691">691</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Beschreibung ältere</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0693">693</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegsaufstand in Pinzger</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0695">695</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Spänische Saldaten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0698">698</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg 3 mit Bairn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0708">708</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg mit Türggen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0711">711</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Anfang mit Francosen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0713">713</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Millitär stellen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0716">716</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Regamenter</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0717">717</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiserlich Märsch Stationen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0717">717</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Schützen Auszug</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0719">719</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kundeische Leith</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0728">728</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Denck Minz</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0728">728</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Danksagung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0729">729</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg 25te Schützen Auszug et Sumärisch Schichten, und Geld</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0738">738</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Landstürmer Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0739">739</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>K</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Afecten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0743">743</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegsgeschicht Beiträge in 6 Stücken, an zerschidene Örther</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0749">749</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Friden Befehle</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0783">783</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser würd der Näpolian</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0787">787</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg get fort, Bairn falt zu Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0788">788</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Außzüge der Lands Leithe auf Gränze</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0791">791</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Afect von Bairn in Bass Strub</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0794">794</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg die Francosen komen ins Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0803">803</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegsmehr Brocläma</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0804">804</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Francosen kommen auf Wien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0809">809</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg ist Waffenstilstand, und Friden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0813">813</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Königreich würd Bairn, und Tyrol ist bairisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0814">814</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegsk Kösten mehrere Abgleiche</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0814">814</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Schlachten mehrere</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0816">816</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Friden Schluß</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0818">818</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Friden ist aufgekindet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0822">822</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r7" n="r7" facs="#mss_ed000055_01025"/>
+                <table>
+                    <row>
+                        <cell>Krieg, die Tyoller griffen die Bair und Francosen in Tyrol feindlich
+                            an, und namen sie gefangen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0823">823</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Ärme von Oesterreich, kam ins Bairn und Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0827">827</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Angriffe</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0832">832</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Außzüg der Lands Leith</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0833">833</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Einfahl die Bair durch Bass Strub</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0836">836</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Blinder und Raubung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0838">838</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegsprant, die Bair verpranten viel Heuser in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0841">841</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Bairisch Millitär Riteriert auß Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0851">851</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Waffen Stillstand</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0854">854</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Komen die Bair das 2te mahl ins Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0855">855</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Ober Comedänt in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0856">856</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Bar Riterieren daß 2te mah auß Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0859">859</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Scharmitzl zu Unken</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0862">862</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Friden bei der Millitär</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0862">862</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Romen die Bair das 4te mahl ins Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0864">864</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Leith für sie Näturäl Leferung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0864">864</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Proclämätion schreiben</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0865">865</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg Afecten in Tyrollisch Etschland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0868">868</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>K</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Komedänt Andre Hofer ist erschossen worden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0871">871</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Regrutierung auß Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0871">871</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Näpolian verehelicht sich mit der oesterreich Princessin</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0872">872</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kreiße 9 in Bairischen Königreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0873">873</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kran Prinz Verehelichung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0874">874</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg get an gegen Moscau</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0876">876</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Näpolian zoch mit den Rossen das Kirzere</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0878">878</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Regrutierung, und Nätionälgard alhie</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0881">881</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Geislen von Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0882">882</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Leith von Preisen, die helffen den Rossen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0882">882</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Leith von Barn, fahlen von Frankreich ab</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0887">887</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser von Oestereich Millitär zohe durch das Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0889">889</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Schlachten in Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0890">890</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Näpolian ist gefangen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0892">892</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser die Alliierten Befreien den römischen Pabst</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0892">892</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r8" n="r8" facs="#mss_ed000055_01026"/>
+                <table>
+                    <row>
+                        <cell>K</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Alliierten Mächten sind in Pariß</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0893">893</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Näpolian Ehefrau reiset allhie vorbei</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0893">893</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Saldaten, und Nätionäl auß Tyro bekome Abschied</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0895">895</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Krieg get an, wel Näpolan auß der Insel Elbe ins Frankreich
+                            kommen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0895">895</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kriegs Ruhe in Frankreich weil Näpolian schan wider gefangen
+                            worden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0897">897</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser von Oestereich komt auf Innspruck</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0898">898</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Kaiser Franz Jäger Regament freiwillige Jäger aus Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0898">898</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Käpitulänzen müssen bein Kaiser als Jäger ihr Ziet auß dienen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0899">899</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>L</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Lucifär Teufel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0003">3</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Loth</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0018">18</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lucas Evangelist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0089">89</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Luft</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0117">117</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lian in Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0249">249</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lotring in Frankreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0251">251</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lineburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0266">266</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Luxenburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0266">266</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lucen in Itälien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0295">295</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Luter Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0323">323</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lineburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0441">441</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Launeburg Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0448">448</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Launitz Margraftum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0453">453</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Lithauen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0478">478</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Land Strass Sache</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0907">907</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Land March</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0908">908</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Landtäg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0909">909</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>M</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Moysi Herrs Fiehrer</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0028">28</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Moysi und sein Volk in der Wüeste</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0032">32</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Michäas Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0067">67</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Malachias der 17te Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0070">70</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Machabäisch 2 Büecher</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0071">71</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Machabäisch Brüder</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0074">74</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r9" n="r9" facs="#mss_ed000055_01027"/>
+                <table>
+                    <row>
+                        <cell>M</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Maria die Mutter Jesu</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0080">80</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Matheus Evangelist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0087">87</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Markus Evangelist</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0088">88</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Monn Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0118">118</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Merkurius Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0120">120</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Märs</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0125">125</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Meer: und ihre Nämen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0140">140</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Maria Ainsidl</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0227">227</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Meyland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0288">288</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mändua</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0290">290</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Machometäner Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0327">327</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Maltä Innsul</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0348">348</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Minichen Stadt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0409">409</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mainz ein Bisthum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0403">403</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Minzter Stift</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0440">440</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mellenburg Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0448">448</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Madeburg Herzogtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0449">449</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Meisen Margraftum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0451">451</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mähren</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0458">458</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Moscau oder Rossen Land</cell>
+                        <cell>484<note type="critt_app">Korrektur</note></cell>
+                    </row>
+                    <row>
+                        <cell>Moscauwittisch Tartarey</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0488">488</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Moldau in Ungarn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0497">497</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mohren Land, oder Abisina in Afrika</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0614">614</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Mänomotopa Land</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0617">617</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Märkt des Vich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0910">910</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Märkt oder Dultzeiten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0912">912</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>M</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Märkt in Bairn, samt ander Bairisch Ort Nämen, waß sie sind</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0914">914</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Maria Thal in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0917">917</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Maria Stain</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0917">917</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>N</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Noe und die Archen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0009">9</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Noe Sohn Teilung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0012">12</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Nächum Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0067">67</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Neu Testament vorzigliche Persohnen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0086">86</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Neu Testamentische Büecher</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0087">87</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Notäliä: oder Klein Äsien in 4 Teil geteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0157">157</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Naking in Reich China</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0220">220</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Niederland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0264">264</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Namur Grafschaft</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0268">268</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Neäpoll</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0341">341</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Norwegen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0468">468</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Nigritia in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0610">610</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Nubien Königreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0614">614</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Neuen 5ten Welt Teil</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0649">649</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Numerierung der Häuser</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0918">918</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r10" n="r10" facs="#mss_ed000055_01028"/>
+                <table>
+                    <row>
+                        <cell>O</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Oseas der Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0064">64</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ost Indien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0202">202</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Oesterreich</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0353">353</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ober Pfalz</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0422">422</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ost-Frißland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0443">443</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Oldenburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0443">443</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ordensgeistliche ihre Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0919">919</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Obern Dorf</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0925">925</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>P</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Psalmen David</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0057">57</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Profetten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0059">59</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Piläto</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0079">79</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pauli Apostel, Epistel und 14 Brief</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0092">92</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Petrus Apostel und 2 Brief</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0105">105</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Persiänisch Manarchtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0192">192</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Persien würd in 12 Landschaften und in 6 Örter eingeteilt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0202">202</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pecking in Reich China</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0218">218</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>P</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Portugal</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0236">236</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pariß in der Insel de France</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0248">248</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Parma in Itälien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0290">290</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Punisch 3 Krieg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0359">359</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pomern</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0463">463</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pohlen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0475">475</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Preisen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0480">480</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Portugenser Besitzen in Amerika 1 gross Land, und 9 Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0636">636</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pulfermachen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0927">927</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Papier</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0927">927</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Pämburg Kloster</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0927">927</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>R</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Richter der 12 Geschlechter Israel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0039">39</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ruth die Wittib</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0041">41</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Roboam der König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0047">47</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Regen Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0115">115</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Rislen: oder Hagel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0116">116</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Religion in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0153">153</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Rhodus Innsul</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0163">163</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r11" n="r11" facs="#mss_ed000055_01029"/>
+                <table>
+                    <row>
+                        <cell>R</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Rom Stadt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0298">298</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Roma Regenten</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0301">301</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Römisch Päbst</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0303">303</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Religioner</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0317">317</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Römisch 11. Profinzen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0337">337</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Römisch Manarchtum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0359">359</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Römische Kaiser alle</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0361">361</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Reiß Buch von Minichen auf Rom</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0526">526</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Reiß geförte 2te Buech auf Jerusalem</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0542">542</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Reiß gefört 2te Buech, von Joppen auf Canstäntinopel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0554">554</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Reiß gefört 3te Buech, von Constäntinopl in Egippen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0567">567</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Rehrer Bichl</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0929">929</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Reichen Hall</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0929">929</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>S</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Sind Fluß</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0010">10</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sprachen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0013">13</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sämsam der Starke</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0039">39</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>Samuel der letzte Richter</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0041">41</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Saul der König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0042">42</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Saloman der Weise König</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0045">45</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Saloman Büecher</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0058">58</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Syrach Buch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0059">59</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sophonias Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0068">68</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schne Ursprung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0115">115</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sonn Blanet Grösse</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0123">123</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Saturnuß Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0127">127</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sprachen in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0153">153</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Soria Ort, so türgisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0165">165</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sina, und China so 15 Profinzen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0216">216</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Spänien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0239">239</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schotland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0260">260</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Seeland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0271">271</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schweitz</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0273">273</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sicilien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0345">345</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sardinien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0346">346</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Salzburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0395">395</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schwaben</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0423">423</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schleßwig</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0446">446</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Sachsen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0449">449</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schlesien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0459">459</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r12" n="r12" facs="#mss_ed000055_01030"/>
+                <table>
+                    <row>
+                        <cell>S</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Seeland</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0465">465</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schweden</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0470">470</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schlavonien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0492">492</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Servien in Ungarn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0494">494</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Siebenbürgen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0495">495</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Spänien besitzt in Amerika 3 Hauptort, und 11 Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0628">628</ref></cell>
+                    </row>
+                    <row>
+                        <cell> Seelen Zahl in jedem Welt Teil, und ganzen Welt</cell>
+                        <cell>650 </cell>
+                    </row>
+                    <row>
+                        <cell>Seelenzahl in Pillersee</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0930">930</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Seelenzahl in Viertl Kirchdorf</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0930">930</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Salz Gwerker Sechse</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0930">930</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Salz Äcciß Geld</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0931">931</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Salz Tränsita Pfening</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0932">932</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schuluntericht Ormälisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0932">932</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Siben <hi rend="underline">und mehr</hi> Schmölz Gwerk in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0934">934</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schwebl Ofen und Oel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0937">937</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schintlen betreffent</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0937">937</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Schieß Städt in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0938">938</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>St</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Stern Nämen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0135">135</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Stund: und Meil</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0144">144</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Steurmarkt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0386">386</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Steur Knecht in Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0938">938</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Steur beret die neue</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0940">940</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>Thara des Abraham Vater</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0014">14</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Tempel Saloman</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0045">45</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Tobias</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0053">53</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Tempel Herodes</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0078">78</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Tau herkomen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0116">116</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Türggisch Gebieth in Äsien</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0157">157</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Turcomania ist türgisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0184">184</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Türgisch 24 Örter und Innsuln</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0187">187</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Tyrol</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0388">388</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Trier ein Bistum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0431">431</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Türing Grafschaft</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0452">452</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Türgisch Anfang</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0509">509</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r13" n="r13" facs="#mss_ed000055_01031"/>
+                <table>
+                    <row>
+                        <cell>T</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Türgische Kaiser und ihr Verfolgung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0511">511</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Thüere Beschreibung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0575">575</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Teur: und Wert Breiß des Vich biß jezige Zeit</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0941">941</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Traid, Schmalz, und Fleisch Speiß Breiß</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0944">944</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Traunstain</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0948">948</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Troßburg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0948">948</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Täuren Berg</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0948">948</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>V</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Venuß Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0122">122</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Venedig</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0291">291</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Viertl die 6e in Gericht Kitzbichel</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0949">949</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>U</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Uranuß Blanet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0128">128</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ungarn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0489">489</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St Ulrich in Pillersee</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0950">950</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>W</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Wind</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0115">115</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wolken</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0115">115</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Welt Kugl Grösse</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0139">139</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Welt Teillung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0142">142</ref></cell>
+                    </row>
+                    <row>
+                        <cell>4 Welt Teille</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0143">143</ref></cell>
+                    </row>
+                    <row>
+                        <cell>7 Welt Wunder</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0155">155</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wiener Stadt in Oest.</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0354">354</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Weterau Grafschaft</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0438">438</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Würzburg Pistum</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0439">439</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Westphälen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0440">440</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wallachey in Ungarn</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0496">496</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Waidring</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0951">951</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wohlfarten Mariänisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0953">953</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Weegweiser von einer Haupt Stadt zur anderen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0954">954</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Weegweiser auf Minichen, auf Eting, auf Innspruck, und ins Ziller
+                            Thall</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0959">959</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wiß Wohlfart Ort</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0959">959</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Weegweiser in Zerschiedene Ort, die sonst in diesn Buch nit benent
+                            sind</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0963">963</ref></cell>
+                    </row>
+                </table>
+                <cb n="2"/>
+                <pb xml:id="MWB_pb_r14" n="r14" facs="#mss_ed000055_01032"/>
+                <table>
+                    <row>
+                        <cell>W</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Wald Fisch</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0968">968</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Wasser Flüß 42 grosse in der ganzen Welt</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0969">969</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Weder Widerung bis jezige Zeit</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0974">974</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Web solle 9 Mund haben</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0982">982</ref></cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>Z</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Zarowawel Herzog</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0052">52</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Zacharias Profet</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0069">69</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Zwinglingus Religion</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0326">326</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Zweibrüggisch in Nieder Pfalz</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0428">428</ref></cell>
+                    </row>
+                    <row>
+                        <cell>4 Z Verkürzen den Menschen daß Leben, gleich wie 4 F verläng.</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0983">983</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Ziegl, und dessen Ofen</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0983">983</ref></cell>
+                    </row>
+                    <row>
+                        <cell>St. Zenno Kloster</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0938">938</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Zeit: und Monat Einteilung</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0984">984</ref></cell>
+                    </row>
+                </table>
+                <cb n="1"/>
+                <table>
+                    <row>
+                        <cell>Z</cell>
+                        <cell>Folio</cell>
+                    </row>
+                    <row>
+                        <cell>Zeit: und Wunder Büechl, von Jahr ao: 194 biß ao: 1580 viel
+                            beschrieben</cell>
+                        <cell><ref type="metsID" cRef="#MWB_pb_0987">987</ref></cell>
+                    </row>
+                    <row>
+                        <cell>Zeit und Wunder von ao: 1580 biß ietzto zu sehen</cell>
+                        <cell>1003</cell>
+                    </row>
+                </table>
+
+            </div>
+
+
+
+
+        </body>
+
+    </text>
+</TEI>

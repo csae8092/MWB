@@ -1,0 +1,49 @@
+Anmerkungen zur Volltextsuche:
+
+Trefferausgabe Volltextsuche:
+	Leerzeichen zwischen [ und Teil X], 
+		z. B.:1/2 - Die Weltbeschreibung des Leonhard Millinger [ Teil 3] / Einige Landgerichter. [??Tiroler Landgerichte]
+	
+	Problem der Freigabe: "Authentifizierung benötigt"
+
+	Trefferausgabe bei Registersuche (Person/Ort)
+		Angabe des gesamten Inhalts des Titelelements - die Angabe zum Teil steht somit nicht in [] wie bei der Volltextsuche
+			z. B.: 1/2 - Die Weltbeschreibung des Leonhard Millinger Teil 1 / Himel. [Himmel]
+
+	Trefferausgabe bei Personensuche
+		Hier wird nur der Titel des Dokuments angegeben, die Angaben zum <div> bzw. die <head>, <orig> und <reg> Angaben fehlen. 
+
+
+
+
+Besprochen am 12.Mai 2014
+	Fundstellen werden in der Zusammenfassung doppelt ausgegeben.
+		z. B. Suche nach "stubay", zweimal die selbe Stelle angeführt: "18. Gericht Schneberg Stubay , halt 5 [w.o.]"
+			mögliche Erklärung: der gesamte Text der Weltbeschreibung liegt im durchsuchten Verzeichnis doppelt vor. Einmal aufgeteilt in die Teile 1-7 und dann noch einmal gesamt.
+		
+	Mein <head>-Element pro <div> sieht folgendermaßen aus: 
+		<head>
+			<choice>
+				<orig>Einige Landgerichter.</orig>
+				<reg>??Tiroler Landgerichte</reg>
+			</choice>
+		</head>
+	Derzeit werden in der Zusammenfassung der Fundstellen sowohl die Inhalte von <orig> wie auch von <reg> ausgegeben. Ich möchte aber, dass zuerst <orig> ausgegeben wird und dann <reg>, das irgendwie als regulierte Schreibweisen gekennzeichnet werden sollte, etwa durch [], <>, *, (), oder wie auch immer. 
+	
+	Bei der Zusammenfassung wäre es schön, wenn auch die jeweilige Datei (Teil 1-7) angeführt werden könnte, in der sich eine Fundstelle befindet.
+	
+	Beim Ansteuern der Fundstelle wird das gesamte Dokument geladen, was ziemlich lange dauert. 
+	
+	Die pop-ups zu den Orts- und Personennamen bzw. die Verlinkung darin auf die jeweiligen Registerdateien funktioneren nicht.
+	
+	
+
+Anmerkungen zur Registersuche:
+	Person/Ort: 
+		Fundstellen werden ohne Angabe der genauen Fundstelle (<div>) angezeigt 
+		
+		folgt man dem Link (dem gelb markierten Suchbegriff), lädt zwar das Dokument springt aber nicht zum Suchbegriff.
+		
+		mehrfachanzeige der selben Fundstelle (z. B. Arabien)
+		
+		blättern auf nächste Seite bei der Fundstellenüberischt klappt nicht: zeigt dann Treffer:0 (z. B. Leonahrd Millinger)

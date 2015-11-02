@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mets - Muster für einen alten Druck mit Strukturdaten  -->
+<!--  Liste der moeglichen Werte fuer USE -Atrribute
+(Angehaengtes _URL bedeutet, dass die Ressource verlinkt wurde)
+
+Bisher in Gebrauch:
+http://diglib.hab.de/show_image.php?dir=mss/ed000055&image=00149
+config
+facsimile 
+facsimile_URL
+document_URL
+transcrcription
+translation
+introduction
+index (=register)
+revision
+bibliography
+ejournal
+ebook
+article
+
+Derzeit unterstützte Funktionen:
+http://diglib.hab.de/behavior#folding 
+-->
+<!-- Grundlage: METS Ver.1.9.1   ; die Schemaadresse steuert die Anzeige, sofern neuere Definitionen vorliegen sollten -->
+<mets:mets OBJID="edoc/ed000223" 
+    xmlns:mets="http://www.loc.gov/METS/"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" 
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:wdb="http://diglib.hab.de/wdb/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://diglib.hab.de/rules/schema/mets/v1.9/wdb-mets-2.xsd">
+
+
+    <mets:metsHdr CREATEDATE="2013-03-14T14:33:00Z" LASTMODDATE="2013-03-14T14:33:00Z">
+        <!-- automatische Aenderung fuer Daten vorsehen -->
+        <mets:agent ROLE="ARCHIVIST" TYPE="ORGANIZATION">
+            <mets:name>Herzog August Bibliothek Wolfenbüttel</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+
+    <!-- Katalogeintrag -->
+    <!-- 
+       Ein Verweis zum OPAC (ID="dmd_ref") ist Pflicht ; 
+       zu Langzeitarchivgründen wird eine beim Abspeichern aktuelle Version des Datensatzes in MODS oder TEIHEADER  (msDesc)
+       im container unter dem Namen: dmd.xml abgelegt, wenn es keinen vollständigen MODS-Datensatz in <mets:dmdSec ID="dmd_local"> gibt. 
+    -->
+
+    <mets:dmdSec ID="dmd_ref">
+        <mets:mdRef LOCTYPE="PURL" MDTYPE="MODS" MIMETYPE="application/xml"
+            xlink:href="http://diglib.hab.de/?format=mods&amp;id=oai:diglib.hab.de:ppn_77097337X"/>
+    </mets:dmdSec>
+
+
+    <!--<mets:dmdSec ID="dmd_ref" GROUPID="verwende_fuer_verschiedene Beschreibungen_derselben_HSS">
+        <mets:mdRef LOCTYPE="PURL" MDTYPE="TEIHDR" MIMETYPE="application/xml" xlink:href="http://diglib.hab.de/?format=tei-msDesc&amp;id=oai:diglib.hab.de:mss_irgendwas"/>
+        </mets:dmdSec>-->
+
+    <!-- untergeordnete Einheiten  -->
+    <mets:dmdSec ID="dmd_opac_01">
+        <mets:mdRef LOCTYPE="PURL" MDTYPE="MODS" MIMETYPE="application/xml"
+            xlink:href="http://diglib.hab.de/?format=mods&amp;id=oai:diglib.hab.de:ppn_77097337X"/>
+    </mets:dmdSec>
+
+    <!-- wird primaer angezeigt, aber fakultativ; verpflichtendes Format ist MODS -->
+    <mets:dmdSec ID="dmd_local">
+        <mets:mdWrap MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods>
+                    <mods:identifier type="purl"
+                        >http://diglib.hab.de/edoc/ed000223/start.htm</mods:identifier>
+                    <mods:name type="personal">
+                        <mods:namePart type="family">Andorfer</mods:namePart>
+                        <mods:namePart type="given">Peter</mods:namePart>
+                        <mods:displayForm>Peter  Andorfer (Hrsg.)</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
+                        </mods:role>
+                    </mods:name>
+                    <mods:titleInfo>
+                        <mods:title>Die Weltbeschreibung des Leonhard Millinger</mods:title>
+                    </mods:titleInfo>
+                    <mods:originInfo>
+                        <mods:place>
+                            <mods:placeTerm type="text">Wolfenbüttel</mods:placeTerm>
+                        </mods:place>
+                        <mods:edition>[Electronic ed.]</mods:edition>
+                        <mods:dateIssued encoding="w3cdtf">2013</mods:dateIssued>
+                    </mods:originInfo>
+                    <mods:relatedItem type="series">
+                        <mods:titleInfo>
+                            <mods:title>Editiones Electronicae Guelferbytanae</mods:title>
+                        </mods:titleInfo>
+                        <part>
+                            <detail>
+                                <number>12</number>
+                            </detail>
+                        </part>
+                        <mods:identifier type="purl"
+                            >http://diglib.hab.de/?opac=</mods:identifier>
+                    </mods:relatedItem>
+                    <mods:recordInfo>
+                        <mods:recordContentSource authority="gbv"
+                            authorityURI="http://uri.gbv.de/organization/isil/DE-23"
+                            >OPAC</mods:recordContentSource>
+                        <mods:recordIdentifier source="opac">77097337X</mods:recordIdentifier>
+                    </mods:recordInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+
+    <!-- administrative section ################################################################ -->
+    <mets:amdSec ID="amd_edoc_ed000223">
+        <!--  hier ggf. Integration von PREMIS   -->
+
+        <!-- Rechtesegment   -->
+        <!-- **** Rechtesegment ****************************************************************************   -->
+        <!-- 
+            Bibliotheks Standardlizenz für Retrodigitalisate lt. Benutzungsordnung ist CC BY-SA 3.0 (vgl. http://diglib.hab.de/?link=012)
+              wird aber hier von den separat gewährten publisher rights der Autoren unterschieden;
+        -->
+        <mets:rightsMD ID="rmd_edoc_ed000223_retrodig">
+            <mets:mdRef LOCTYPE="URL" MDTYPE="OTHER" OTHERMDTYPE="publisher_rights"
+                xlink:href="http://diglib.hab.de/?link=012" LABEL="Benutzungsordnung"/>
+        </mets:rightsMD>
+
+        <!-- CC Standardlizenz, wenn der Autor zugestimmmt hat; vgl. AMDID in den Strukturdaten-->
+        <mets:rightsMD ID="rmd_edoc_ed000223_CC">
+            <mets:mdRef LOCTYPE="URL" MDTYPE="OTHER" OTHERMDTYPE="publisher_rights"
+                xlink:href="http://diglib.hab.de/rights/cc_by-sa.html" LABEL="CC BY-SA 3.0"/>
+        </mets:rightsMD>
+
+        <!-- Lizenz, wenn der Autor/Institution der weiteren Nutzung zustimmmen muss -->
+        <mets:rightsMD ID="rmd_edoc_ed000223_restricted">
+            <mets:mdRef LOCTYPE="URL" MDTYPE="OTHER" OTHERMDTYPE="publisher_rights"
+                xlink:href="http://diglib.hab.de/?link=012" LABEL="rights restricted"/>
+        </mets:rightsMD>
+    </mets:amdSec>
+
+    <!-- files  ##############################################################################################   -->
+    <mets:fileSec>
+        <!--   
+            Die Verbindung von hier nachgewiesenen files zu externen TEI Dokumenten wird mittels File -ID hier uber das @xml:id Attribut dort  hergestellt, z.B.
+            <TEI version="5.0" xml:base="http://diglib.hab.de/edoc/ed000008/" xml:id="edoc_ed000223_fg_introduction">    
+        -->
+        <!-- wdb:parameter für die Anzeige und Menüführung -->
+
+        <mets:fileGrp USE="config">
+            <mets:file ID="wdb_parameter" USE="navigator">
+                <mets:FContent>
+                    <mets:xmlData>
+                        <wdb:parameter>
+                            <!--  hier wird definiert, welche Anzeigetypen für die/das Fenster zur Verfügung stehen -->
+                            <!-- Titelbaltt oder Einstiegsseite fuer "Werke"; muss gesetzt sein -->
+                            <wdb:param distype="start" firstpage_xml="start.xml"
+                                firstpage_xsl="start.xsl"/>
+                            <!-- Inhaltsverzeichnis -->
+                            <wdb:param distype="toc"/>
+                            <!-- Startsprache -->
+                            <wdb:param lang="de"/>
+                            <!-- Volltextsuche mit Paralleler Volltextsicht; @url fuer Aufgerufenes Skript, nur fuer Menusuche; Extrasuchen unter Behavior -->
+                            <!-- welche XQL Scripte sollen fuer die Suche verwendet werden; wdb ist Standard 
+                                  Pfad: exist.hab.de/rest/db/apps/[wdb:param]/search.xql
+                            -->
+                            <wdb:param distype="results-transcript" url="projekte/milinger/search/search.xql"/>
+                           
+                            <!-- Anzeige Parallelsichten -->
+                            <!-- wdb:parallelView:
+                        -  @SMLINKID: Link auf die mets:smLink in mets:structLink ID="parallel_views" (hier die Dateien, die verbunden werden)
+                        -  @f1 Prozent der (Start-)Groesse des linken Fensters [noch nicht implementiert]
+                        -  @f2 Prozent der (Start-)Groesse des rechten Fensters
+                        -  @synctype  moegliche Werte: "pb" (Linking ueber pageID), "div", (Anzahl divisions),"sync" (explizite angabe), "none" (unverbunden)
+                          -->
+                            <wdb:parallelView pvID="pv_transcript-facs" f1="50" f2="50" synctype="pb"/>
+                            <!--<wdb:parallelView pvID="pv_transcript-facs" f1="50" f2="50"
+                                synctype="pb"/>-->
+                        </wdb:parameter>
+                    </mets:xmlData>
+                </mets:FContent>
+            </mets:file>
+        </mets:fileGrp>
+
+        <!-- Titel  mit bibliographischen Metadaten zu einem Zeitpunkt X-->
+        <mets:fileGrp USE="title" VERSDATE="2012-10-30T00:00:00">
+            <mets:file ID="edoc_ed000223_title" MIMETYPE="application/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="dmd.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+
+        <!-- Facsimiles -->
+        <mets:fileGrp USE="facsimile_URL">
+                <mets:file ID="mss_ed000055" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?distype=imgs"/>
+            </mets:file>
+
+            <!--     Auch externe Dateien sollten  (should)  in  das Angebot er wdb integriert werden, um Persistenz sicherzustellen;
+                    -->
+       </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_01" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000005&amp;distype=imgs"/>
+          <!--      <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/show_image.php?dir=mss/ed000055&image=00149"/>
+                    erzeugt Fehlermeldung, PA
+          -->          
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_02" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000149&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_03" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000244&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_04" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000663&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_05" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000704&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_06" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=000918&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="facsimile_URL">
+            <mets:file ID="mss_ed000055_07" MIMETYPE="text/html">
+                <mets:FLocat LOCTYPE="URL"
+                    xlink:href="http://diglib.hab.de/mss/ed000055/start.htm?image=001019&amp;distype=imgs"/>
+            </mets:file>
+        </mets:fileGrp>
+
+        <!--  Transkription mit TEI Kodierung; die ID muss in der korrespondierenden TEI Datei  im TEI root-Element stehen, hier z.B. <TEI xml:id="edoc_ed000223_fg_transcript" - 
+           ist hier noch nicht erfolgt
+        -->
+        <mets:fileGrp USE="transcription">
+          
+            <mets:file ID="edoc_ed000223_fg_transcript_f01" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb1.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f02" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb2.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f03" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb3.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f04" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb4.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f05" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb5.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f06" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb6.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_f07" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb7.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_transcript_all" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-transcript-mwb.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+
+
+        <!--  Bibliographie-->
+        <mets:fileGrp USE="bibliography">
+            <mets:file ID="edoc_ed000223_fg_bibliography" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-bibliography.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <!-- Einleitung -->
+        <mets:fileGrp USE="introduction">
+            <mets:file ID="edoc_ed000223_fg_introduction" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-introduction.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+
+        <!-- Uebersetzung -->
+        <!-- Register -->
+        <mets:fileGrp USE="index">
+            <mets:file ID="edoc_ed000223_fg_personenregister" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-personenverzeichnis.xml"/>
+            </mets:file>
+            <mets:file ID="edoc_ed000223_fg_ortsregister" MIMETYPE="text/xml">
+                <mets:FLocat LOCTYPE="URL" xlink:href="tei-ortsverzeichnis.xml"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+
+    <!-- structure ##############################################################################################   -->
+
+    <!--  Sehr umfängliche  Strukturen sollten in separate Dateien gegliedert bzw. ausgelagerten werden, um die Ladezeiten zu beschleunigen, s. Beipiel ID=edoc_ed000223_LARGE-->
+
+    <mets:structMap>
+        <mets:div>
+            <!--  Einleitung -->
+            <mets:div TYPE="introduction" LABEL="Einleitung" ID="edoc_ed000223_introduction"
+                ADMID="rmd_edoc_ed000223_CC">
+                <mets:fptr FILEID="edoc_ed000223_fg_introduction"/>
+            </mets:div>
+            <!-- Facsimiles  **************************************************** -->
+            <mets:div TYPE="facsimile" LABEL="Faksimile" ID="mss_ed0000055_facssimile" ADMID="rmd_edoc_ed000223_retrodig">
+                <mets:fptr FILEID="mss_ed000055"/>
+            </mets:div>
+            <!--  Transcriptionen **************************************************** -->
+             <mets:div TYPE="submenu" LABEL="Transkription" ID="edoc_ed000223_transcript">
+                 <!-- Texte -->
+                 <mets:div TYPE="transcription" LABEL="Teil 1, S. I-138" 
+                     ID="edoc_ed000223_transcript_01" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f01"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Teil 2, S. 139-233" 
+                     ID="edoc_ed000223_transcript_02" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f02"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Teil 3, S. 234-651" 
+                     ID="edoc_ed000223_transcript_03" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f03"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Teil 4, S. 652-692" 
+                     ID="edoc_ed000223_transcript_04" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f04"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Teil 5, S. 692-906" 
+                     ID="edoc_ed000223_transcript_05" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f05"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Teil 6, S. 907-1004" 
+                     ID="edoc_ed000223_transcript_06" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f06"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="Register" 
+                     ID="edoc_ed000223_transcript_07" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_f07"/>
+                 </mets:div>
+                 <mets:div TYPE="transcription" LABEL="gesamte Transkription" 
+                     ID="edoc_ed000223_transcript_all" ADMID="rmd_edoc_ed000223_CC">
+                     <mets:fptr FILEID="edoc_ed000223_fg_transcript_all"/>
+                 </mets:div>
+             </mets:div>
+            
+            <!--  <mets:div DMDID="dmd_opac_01" TYPE="transcription"
+                    LABEL="Transkription" ID="edoc_ed000223_transcript"
+                    ADMID="rmd_edoc_ed000223_CC">
+                    <mets:fptr FILEID="edoc_ed000223_fg_transcript"/>
+                </mets:div>
+               -->
+            <!--  Uebersetzungen *************************************************************** -->
+
+
+            <!--  Bibliographie ******************************************************************************** -->
+            <mets:div TYPE="bibliography" LABEL="Bibliographie" ID="edoc_ed000223_bibliography"
+                ADMID="rmd_edoc_ed000223_CC">
+                <mets:fptr FILEID="edoc_ed000223_fg_bibliography"/>
+            </mets:div>
+
+            <!-- Register ************************************************************************************ -->
+            <mets:div TYPE="register" LABEL="Register" ID="edoc_ed000223_register">
+                <mets:div TYPE="register" LABEL="Personenregister"
+                    ID="edoc_ed000223_personenregister" ADMID="rmd_edoc_ed000223_CC">
+                    <mets:fptr FILEID="edoc_ed000223_fg_personenregister"/>
+                </mets:div>
+
+                <mets:div TYPE="register" LABEL="Ortsregister" ID="edoc_ed000223_ortsregister"
+                    ADMID="rmd_edoc_ed000223_CC">
+                    <mets:fptr FILEID="edoc_ed000223_fg_ortsregister"/>
+                </mets:div>
+            </mets:div>
+            
+            <mets:div TYPE="materials" LABEL="Material"></mets:div>
+            
+            <!--  Revision ******************************************************************************** -->
+           
+            <!--    Parallelsichten  ######################################################################################  -->
+            <!--  wegen der Moeglichkeit des synchronen Blaetterns koennen nicht beliebige Kombinationen angeboten werden, sondern 
+                muessen hier definiert werden. Parallelsichten werden in einem neuen Fenster geoeffnet;
+                Groesse der jeweiliigen resultierenden  Anzeigefenster und die Art des Syncronisierungsschlüssels wird in wdb:parallelViews festgelegt -->
+
+            <!--  Parallele Sichten  ******************************************************************************** -->
+            <mets:div TYPE="parallel_views" ID="parallel_views">
+                <mets:div TYPE="submenu" ID="pv_transcript-facs" LABEL="Transcription ↔ Facsimile">
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs01" LABEL="Teil 1, S. I-138 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f01" ID="pv_edoc_ed000223_transcript_f01"/>
+                                <mets:area FILEID="mss_ed000055_01" ID="pv_edoc_ed000223_facs1535_f01"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                    
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs02" LABEL="Teil 2, S. 139-233 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f02" ID="pv_edoc_ed000223_transcript_f02"/>
+                                <mets:area FILEID="mss_ed000055_02" ID="pv_edoc_ed000223_facs1535_f02"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                  
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs03" LABEL="Teil 3, S. 234-651 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f03" ID="pv_edoc_ed000223_transcript_f03"/>
+                                <mets:area FILEID="mss_ed000055_03" ID="pv_edoc_ed000223_facs1535_f03"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                   
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs04" LABEL="Teil 4, S. 652-692 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f04" ID="pv_edoc_ed000223_transcript_f04"/>
+                                <mets:area FILEID="mss_ed000055_04" ID="pv_edoc_ed000223_facs1535_f04"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                    
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs05" LABEL="Teil 5, S. 692-906 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f05" ID="pv_edoc_ed000223_transcript_f05"/>
+                                <mets:area FILEID="mss_ed000055_05" ID="pv_edoc_ed000223_facs1535_f05"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                    
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs06" LABEL="Teil 6, S. 907-1004 ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f06" ID="pv_edoc_ed000223_transcript_f06"/>
+                                <mets:area FILEID="mss_ed000055_06" ID="pv_edoc_ed000223_facs1535_f06"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                    
+                    <mets:div TYPE="transcription" ID="pv_transcript-facs07" LABEL="Teil 7, Register ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_f07" ID="pv_edoc_ed000223_transcript_f07"/>
+                                <mets:area FILEID="mss_ed000055_07" ID="pv_edoc_ed000223_facs1535_f07"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                    
+                    <mets:div TYPE="transcription" ID="pv_transcript-facsall" LABEL="gesamte Transkription ↔ Facsimile">
+                        <mets:fptr>
+                            <mets:par>
+                                <mets:area FILEID="edoc_ed000223_fg_transcript_all" ID="pv_edoc_ed000223_transcript_all"/>
+                                <mets:area FILEID="mss_ed000055" ID="pv_edoc_ed000223_facs1535_all"/>
+                            </mets:par>
+                        </mets:fptr>
+                    </mets:div>
+                </mets:div>
+            </mets:div>
+
+        </mets:div>
+
+    </mets:structMap>
+
+    <!-- hier könnten in Zukunft LOD Beziehungen bzw. Tripel abgebildet werden -->
+    <mets:structLink>
+        <mets:smLink xlink:from="subject" xlink:to="object" xlink:arcrole="praedicat"/>
+    </mets:structLink>
+
+    <!--    Behavior  ######################################################################################  -->
+    <!--  Innerhab der Behavior-Sections werden verschwiedene technische Anzeigeformate und Sichten auf die selbe Datei, z.B. tei-transcription.xml definiert. 
+            Unterschiedliche Sichten auf verschiedene Dateien erhalten eine eigene Behavior Section.
+            xlink:show="new" bei mechanism bedeutet, dass ein neues Fenster geöffnet wird und keine Darstellung im Frame erfolgt
+    -->
+
+    <!--Register-->
+    <mets:behaviorSec ID="edoc_ed000223_b_index">
+        <mets:behavior ID="edoc_ed000223_b_index_01" STRUCTID="edoc_ed000223_personenregister"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-register-persons.xsl"/>
+        </mets:behavior>
+        <mets:behavior ID="edoc_ed000223_b_index_02" STRUCTID="edoc_ed000223_ortsregister"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-register-places.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+
+    <!--Uebersetzung-->
+    <!--Transkriptionen-->
+
+    <mets:behaviorSec ID="edoc_ed000223_b_transcript">
+        <mets:behavior ID="edoc_ed000223_b_transcript_01" STRUCTID="edoc_ed000223_transcript"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+      </mets:behaviorSec>
+
+    <mets:behaviorSec ID="edoc_ed000223_b_bibliography">
+        <mets:behavior ID="edoc_ed000223_b_bibliography_01" STRUCTID="edoc_ed000223_bibliography"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-bibliography.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+
+    <mets:behaviorSec ID="edoc_ed000223_b_introduction">
+        <mets:behavior ID="edoc_ed000223_b_introduction_01" STRUCTID="edoc_ed000223_introduction"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-introduction.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+
+   <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv1">
+       <mets:behavior ID="edoc_ed000223_b_transcript1" STRUCTID="pv_edoc_ed000223_transcript_f01"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv2">
+        <mets:behavior ID="edoc_ed000223_b_transcript2" STRUCTID="pv_edoc_ed000223_transcript_f02"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv3">
+        <mets:behavior ID="edoc_ed000223_b_transcript3" STRUCTID="pv_edoc_ed000223_transcript_f03"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv4">
+        <mets:behavior ID="edoc_ed000223_b_transcript4" STRUCTID="pv_edoc_ed000223_transcript_f04"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv5">
+        <mets:behavior ID="edoc_ed000223_b_transcript5" STRUCTID="pv_edoc_ed000223_transcript_f05"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv6">
+        <mets:behavior ID="edoc_ed000223_b_transcript6" STRUCTID="pv_edoc_ed000223_transcript_f06"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv7">
+        <mets:behavior ID="edoc_ed000223_b_transcript7" STRUCTID="pv_edoc_ed000223_transcript_f07"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+    
+    <mets:behaviorSec ID="edoc_ed000223_b_transcriptpv_all">
+        <mets:behavior ID="edoc_ed000223_b_transcript_all" STRUCTID="pv_edoc_ed000223_transcript_all"
+            LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-transcript.xsl"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+
+       <!--<mets:behaviorSec ID="edoc_ed000223_b_revision">
+        <mets:behavior STRUCTID="edoc_ed000223_revision" ID="edoc_ed000223_b_revision_01" LABEL="HTML">
+            <mets:mechanism LOCTYPE="URL" xlink:href="tei-revision.xsl "/>
+        </mets:behavior>
+        </mets:behaviorSec>
+-->
+    <!--  
+       Hier folgt  behaviour zur Funktion menues; zuvor mit  TYPE = "submenue" gesteuert, dies entfällt 
+       @ID="function_folding"  und @ID="function_navigator" muessen gesetzt sein, werden zur Steuerung benutzt
+-->
+    <mets:behaviorSec ID="function_navigator">
+        <mets:behavior STRUCTID="edoc_ed000223_register" ID="function_folding">
+            <!-- onRequest bedeutet, dass gefaltet ist und auf Wunsch entfaltet wird, onLoad kann gesetzt werden, wenn eine Struktur entfaltet angezeigt werden soll -->
+            <mets:interfaceDef LABEL="folding" LOCTYPE="OTHER" OTHERLOCTYPE="URI"
+                xlink:href="http://diglib.hab.de/behavior#folding"/>
+            <mets:mechanism LABEL="folding" LOCTYPE="URL"
+                xlink:href="http://dglib.hab.de/navigator.js" xlink:actuate="onRequest"/>
+        </mets:behavior>
+    </mets:behaviorSec>
+
+
+</mets:mets>
